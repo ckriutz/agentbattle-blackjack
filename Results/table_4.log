@@ -1,0 +1,902 @@
+=== Game Start ===
+Xiaomi Mimo V2 Flash joins the game with balance: $50
+Baidu Ernie 4.5 joins the game with balance: $50
+ByteDance Seed 1.6 joins the game with balance: $50
+Minimax M2.1 joins the game with balance: $50
+
+=== New Round #1 ===
+Xiaomi Mimo V2 Flash [xiaomi/mimo-v2-flash] bets $5
+  Reasoning: "I am the first to act after the dealer, so I will bet the minimum to observe other players' actions and minimize risk on this initial hand."
+Baidu Ernie 4.5 [baidu/ernie-4.5-21b-a3b-thinking] bets $20
+  Reasoning: "Balancing risk and reward with a moderate bet to capitalize on potential wins while preserving bankroll."
+ByteDance Seed 1.6 [bytedance-seed/seed-1.6] bets $10
+  Reasoning: "$10 balances moderate risk, being above Xiaomi's minimum bet for meaningful potential wins while below Baidu's high bet to limit excessive exposure with my $50 balance."
+Minimax M2.1 [minimax/minimax-m2.1] bets $15
+  Reasoning: "Betting $15 (30% of bankroll) balances risk and reward, staying within safe limits while maximizing potential returns. This positions me competitively against the other players' varied bets."
+Dealer shows: A♦ ??
+Xiaomi Mimo V2 Flash: J♥ 6♠ (16)
+Baidu Ernie 4.5: A♥ 6♣ (17 soft)
+ByteDance Seed 1.6: Q♠ 3♣ (13)
+Minimax M2.1: 4♠ 7♠ (11)
+Xiaomi Mimo V2 Flash [xiaomi/mimo-v2-flash]: Hit
+  Reasoning: "Dealer shows an Ace, so this is a high-risk situation. My 16 is a weak hand that will likely bust if I hit, but standing guarantees a loss unless the dealer busts. Hitting is the only move that gives me a chance to improve my hand against the dealer's strong up card."
+  Drew 5♠ -> J♥ 6♠ 5♠ (21)
+Xiaomi Mimo V2 Flash [xiaomi/mimo-v2-flash]: Stand
+  Reasoning: "I have a total of 21, which is the best possible hand. Hitting would risk busting, so standing is the optimal play to secure a win against the dealer."
+  Stands with J♥ 6♠ 5♠ (21)
+Baidu Ernie 4.5 [baidu/ernie-4.5-21b-a3b-thinking]: Hit
+  Reasoning: "Soft 17 is aggressive—hitting allows improving toward 18+ without bust risk, especially with dealer's strong A♦ upcard."
+  Drew 2♠ -> A♥ 6♣ 2♠ (19 soft)
+Baidu Ernie 4.5 [baidu/ernie-4.5-21b-a3b-thinking]: Hit
+  Reasoning: "Hand total 19 soft is still flexible. Hitting puts pressure on the dealer with their strong Ace upcard, increasing chances to improve without bust risk."
+  Drew 5♥ -> A♥ 6♣ 2♠ 5♥ (14)
+Baidu Ernie 4.5 [baidu/ernie-4.5-21b-a3b-thinking]: Hit
+  Reasoning: "Current hand 14 is low against dealer's strong A♦ upcard. Hitting allows pressuring the dealer to potentially improve their own hand without immediate bust risk."
+  Drew 5♥ -> A♥ 6♣ 2♠ 5♥ 5♥ (19)
+Baidu Ernie 4.5 [baidu/ernie-4.5-21b-a3b-thinking]: Stand
+  Reasoning: "Hand value 19 is above dealer's visible upcard A♦ (which requires dealer to have weak hand to stand). Standing minimizes bust risk and leverages strong position against opponents."
+  Stands with A♥ 6♣ 2♠ 5♥ 5♥ (19)
+ByteDance Seed 1.6 [bytedance-seed/seed-1.6]: Hit
+  Reasoning: "My 13 is a weak total against the dealer's Ace, so hitting gives a chance to improve to a more competitive hand. Other players' hands do not alter this basic strategic decision."
+  Drew 10♥ -> Q♠ 3♣ 10♥ (BUST 23)
+  ByteDance Seed 1.6 BUSTS!
+Minimax M2.1 [minimax/minimax-m2.1]: Hit
+  Reasoning: "With only 11 and the dealer showing dangerous Ace, I need to improve my hand. Hitting gives me flexibility to draw cards without being limited to one like DoubleDown would, and I can still potentially build a strong hand against the dealer's likely strong position."
+  Drew 7♦ -> 4♠ 7♠ 7♦ (18)
+Minimax M2.1 [minimax/minimax-m2.1]: Stand
+  Reasoning: "With 18, I'm in a decent position. Hitting risks busting (only A, 2, or 3 improve it without busting), and standing at 18 gives me a reasonable chance against the dealer's Ace, especially since I can't see their hole card."
+  Stands with 4♠ 7♠ 7♦ (18)
+
+Dealer reveals: A♦ 8♥ (19 soft)
+Dealer stands with A♦ 8♥ (19 soft)
+
+=== Results ===
+Xiaomi Mimo V2 Flash: WIN! Wins $5 (New balance: $55)
+Baidu Ernie 4.5: PUSH (New balance: $50)
+ByteDance Seed 1.6: LOSE (New balance: $40)
+Minimax M2.1: LOSE (New balance: $35)
+
+=== New Round #2 ===
+Xiaomi Mimo V2 Flash [xiaomi/mimo-v2-flash] bets $5
+  Reasoning: "I'm betting the minimum to conserve my balance and reduce risk, as I'm last to act and can observe others' outcomes before making decisions, allowing for more strategic play."
+Baidu Ernie 4.5 [baidu/ernie-4.5-21b-a3b-thinking] bets $25
+  Reasoning: "Balance of $50 permits moderate betting to apply pressure strategically. $25 bets balance aggression and risk, leveraging depth to influence opponent decisions."
+ByteDance Seed 1.6 [bytedance-seed/seed-1.6] bets $10
+  Reasoning: "A $10 bet preserves $30 of my balance for future adjustments while offering meaningful potential returns. This moderate risk avoids overcommitting before Minimax M2.1 finalizes their bet."
+Minimax M2.1 [minimax/minimax-m2.1] bets $5
+  Reasoning: "With a limited $35 bankroll, I should play conservatively. The $5 minimum bet preserves my capital and gives me 7 betting rounds to work with, maximizing my chances of staying in the game."
+Dealer shows: 7♦ ??
+Xiaomi Mimo V2 Flash: 4♠ A♣ (15 soft)
+Baidu Ernie 4.5: 10♣ 3♣ (13)
+ByteDance Seed 1.6: J♦ 3♦ (13)
+Minimax M2.1: K♦ A♠ (Blackjack)
+Xiaomi Mimo V2 Flash [xiaomi/mimo-v2-flash]: Hit
+  Reasoning: "With a soft 15 (A♣ + 4♠) against dealer's 7, I should hit to improve my hand without immediate bust risk, as the dealer is vulnerable with a weak up card and I can safely draw to a strong total."
+  Drew 6♣ -> 4♠ A♣ 6♣ (21 soft)
+Xiaomi Mimo V2 Flash [xiaomi/mimo-v2-flash]: Stand
+  Reasoning: "I have a soft 21, which is the best possible hand, so standing guarantees a win or push without risk. Hitting could only improve the hand to a higher soft total but risks busting or improving to a worse hand unnecessarily."
+  Stands with 4♠ A♣ 6♣ (21 soft)
+Baidu Ernie 4.5 [baidu/ernie-4.5-21b-a3b-thinking]: Hit
+  Reasoning: "My hand is 13, dealer shows 7. Standard blackjack strategy dictates hitting here to avoid busting while gaining a chance to improve without relying on the dealer having a weak hand."
+  Drew J♣ -> 10♣ 3♣ J♣ (BUST 23)
+  Baidu Ernie 4.5 BUSTS!
+ByteDance Seed 1.6 [bytedance-seed/seed-1.6]: Hit
+  Reasoning: "With a hard 13 against the dealer's 7, the dealer has a high chance of making a winning 17 or higher, so hitting to improve the hand is strategic. DoubleDown is unwise here as 13 lacks the strong potential for an immediate winning hand."
+  Drew 4♥ -> J♦ 3♦ 4♥ (17)
+ByteDance Seed 1.6 [bytedance-seed/seed-1.6]: Stand
+  Reasoning: "With a hard 17 against the dealer's 7, hitting risks immediate busting. Standing preserves the solid hand and lets the dealer attempt to beat it without putting our current total at risk."
+  Stands with J♦ 3♦ 4♥ (17)
+Minimax M2.1 has Blackjack.
+
+Dealer reveals: 7♦ A♥ (18 soft)
+Dealer stands with 7♦ A♥ (18 soft)
+
+=== Results ===
+Xiaomi Mimo V2 Flash: WIN! Wins $5 (New balance: $60)
+Baidu Ernie 4.5: LOSE (New balance: $25)
+ByteDance Seed 1.6: LOSE (New balance: $30)
+Minimax M2.1: BLACKJACK! Wins $12 (New balance: $42)
+
+=== New Round #3 ===
+Xiaomi Mimo V2 Flash [xiaomi/mimo-v2-flash] bets $10
+  Reasoning: "I'm betting $10 (2x min) to maximize potential gains while managing risk, as I'm not first to act and my balance allows a moderate bet."
+Baidu Ernie 4.5 [baidu/ernie-4.5-21b-a3b-thinking] bets $10
+  Reasoning: "Balance is low relative to others, bet moderately to manage risk while maintaining active play."
+ByteDance Seed 1.6 [bytedance-seed/seed-1.6] bets $10
+  Reasoning: "A $10 moderate bet preserves $20 for future hands while matching the active bettors' stakes to maintain strategic flexibility. It avoids the extreme risk of max betting or the overconservatism of the minimum bet."
+Minimax M2.1 [minimax/minimax-m2.1] bets $10
+  Reasoning: "Betting $10 matches the other players at the table, keeping me competitive. With $42 balance, I can afford 4-5 hands at this level while managing risk appropriately."
+Dealer shows: 2♣ ??
+Xiaomi Mimo V2 Flash: 9♦ 5♠ (14)
+Baidu Ernie 4.5: 2♥ J♣ (12)
+ByteDance Seed 1.6: K♥ 7♣ (17)
+Minimax M2.1: 8♦ K♠ (18)
+Xiaomi Mimo V2 Flash [xiaomi/mimo-v2-flash]: Hit
+  Reasoning: "With a hard 14 against a dealer's 2, basic strategy dictates hitting because the dealer is weak but likely to bust, and my hand is too low to stand safely. Doubling is not advisable on a hard 14."
+  Drew 8♥ -> 9♦ 5♠ 8♥ (BUST 22)
+  Xiaomi Mimo V2 Flash BUSTS!
+Baidu Ernie 4.5 [baidu/ernie-4.5-21b-a3b-thinking]: Hit
+  Reasoning: "My hand is 12, dealer shows 2 (a low up card that forces the dealer to hit, increasing their chance of busting). Basic strategy recommends hitting on 12 against a dealer's 2 to maximize winning odds."
+  Drew 2♦ -> 2♥ J♣ 2♦ (14)
+Baidu Ernie 4.5 [baidu/ernie-4.5-21b-a3b-thinking]: Hit
+  Reasoning: "My hand is 14, dealer shows 2 (a low up card that forces the dealer to hit, increasing their chance of busting). Hitting allows me to potentially improve my hand before the dealer plays their turn, and basic strategy supports hitting on 14 against a dealer's 2."
+  Drew Q♥ -> 2♥ J♣ 2♦ Q♥ (BUST 24)
+  Baidu Ernie 4.5 BUSTS!
+ByteDance Seed 1.6 [bytedance-seed/seed-1.6]: Stand
+  Reasoning: "My 17 is a strong hand against the dealer's low 2♣, and hitting would unnecessarily risk busting."
+  Stands with K♥ 7♣ (17)
+Minimax M2.1 [minimax/minimax-m2.1]: Stand
+  Reasoning: "With 18 against dealer's weak 2 up card, standing is optimal. The dealer must hit and has high bust probability with a 2."
+  Stands with 8♦ K♠ (18)
+
+Dealer reveals: 2♣ Q♠ (12)
+Dealer draws 3♥ -> 2♣ Q♠ 3♥ (15)
+Dealer draws 7♠ -> 2♣ Q♠ 3♥ 7♠ (BUST 22)
+Dealer BUSTS!
+
+=== Results ===
+Xiaomi Mimo V2 Flash: LOSE (New balance: $50)
+Baidu Ernie 4.5: LOSE (New balance: $15)
+ByteDance Seed 1.6: WIN! Wins $10 (New balance: $40)
+Minimax M2.1: WIN! Wins $10 (New balance: $52)
+
+=== New Round #4 ===
+Xiaomi Mimo V2 Flash [xiaomi/mimo-v2-flash] bets $25
+  Reasoning: "With a moderate balance and no cards dealt yet, I'm betting $25 to stay within safe limits while maximizing potential gains, considering the table's low player balances and the need to manage risk against the house."
+Baidu Ernie 4.5 [baidu/ernie-4.5-21b-a3b-thinking] bets $10
+  Reasoning: "As a professional player with limited funds, betting $10 balances risk and reward, leveraging experience to maximize potential gains while preserving capital for future hands."
+ByteDance Seed 1.6 [bytedance-seed/seed-1.6] bets $15
+  Reasoning: "A $15 bet maintains a moderate risk profile with my $40 balance, leaving a sufficient buffer to adjust strategies once Minimax M2.1 places their bet without overcommitting early."
+Minimax M2.1 [minimax/minimax-m2.1] bets $20
+  Reasoning: "Betting $20 (38% of bankroll) positions me competitively at the table - more aggressive than conservative players but less than Xiaomi's 50% bet. This gives me good leverage while maintaining strategic flexibility with $32 remaining."
+Dealer shows: 9♠ ??
+Xiaomi Mimo V2 Flash: 8♣ K♣ (18)
+Baidu Ernie 4.5: K♦ Q♥ (20)
+ByteDance Seed 1.6: J♠ A♠ (Blackjack)
+Minimax M2.1: 5♣ 2♣ (7)
+Xiaomi Mimo V2 Flash [xiaomi/mimo-v2-flash]: Stand
+  Reasoning: "With a hard 18 against dealer's 9, standing is optimal as hitting risks busting and doubling is not advisable with a weak total against a strong up card."
+  Stands with 8♣ K♣ (18)
+Baidu Ernie 4.5 [baidu/ernie-4.5-21b-a3b-thinking]: Stand
+  Reasoning: "My hand is 20, which is a strong total. Hitting risks busting if I receive a 10-value card, while standing leverages my solid position against the dealer's 9♠."
+  Stands with K♦ Q♥ (20)
+ByteDance Seed 1.6 has Blackjack.
+Minimax M2.1 [minimax/minimax-m2.1]: Hit
+  Reasoning: "With only 7 points, I have a very weak hand against the dealer's strong 9 upcard. I need to take at least one card to have any reasonable chance of winning this hand."
+  Drew 10♥ -> 5♣ 2♣ 10♥ (17)
+Minimax M2.1 [minimax/minimax-m2.1]: Stand
+  Reasoning: "With a hard 17 against the dealer's strong 9 upcard, basic strategy dictates standing. While not ideal, hitting risks busting, and 17 is a reasonable total to hold against a dealer's uncertain hand."
+  Stands with 5♣ 2♣ 10♥ (17)
+
+Dealer reveals: 9♠ J♦ (19)
+Dealer stands with 9♠ J♦ (19)
+
+=== Results ===
+Xiaomi Mimo V2 Flash: LOSE (New balance: $25)
+Baidu Ernie 4.5: WIN! Wins $10 (New balance: $25)
+ByteDance Seed 1.6: BLACKJACK! Wins $37 (New balance: $62)
+Minimax M2.1: LOSE (New balance: $32)
+
+=== New Round #5 ===
+Xiaomi Mimo V2 Flash [xiaomi/mimo-v2-flash] bets $5
+  Reasoning: "With a low balance of $25 and the minimum bet at $5, I'm betting conservatively to manage risk and stay in the game, especially since I'm not in a position to leverage a large stack against other players' varying balances."
+Baidu Ernie 4.5 [baidu/ernie-4.5-21b-a3b-thinking] bets $15
+  Reasoning: "Moderate bet to balance risk and reward, leveraging the table dynamics where other players haven't bet yet."
+ByteDance Seed 1.6 [bytedance-seed/seed-1.6] bets $10
+  Reasoning: "A $10 bet balances risk and potential returns given my $62 balance, as it’s above the minimum but not overly aggressive compared to other players’ varied bet sizes."
+Minimax M2.1 [minimax/minimax-m2.1] bets $10
+  Reasoning: "With $32 bankroll, betting $10 (31%) shows competitiveness without excessive risk. It puts me in a similar range to other players while preserving capital if I lose."
+Dealer shows: 9♥ ??
+Xiaomi Mimo V2 Flash: 2♥ Q♣ (12)
+Baidu Ernie 4.5: Q♦ 8♥ (18)
+ByteDance Seed 1.6: 4♦ J♥ (14)
+Minimax M2.1: 2♥ 5♠ (7)
+Xiaomi Mimo V2 Flash [xiaomi/mimo-v2-flash]: Hit
+  Reasoning: "With a hard 12 against a dealer's 9, I'm in a weak position. The dealer has a strong up card, so I need to improve my hand to avoid likely losing. Hitting gives me a chance to get closer to 21 without the risk of busting as much as standing would likely lose."
+  Drew 8♦ -> 2♥ Q♣ 8♦ (20)
+Xiaomi Mimo V2 Flash [xiaomi/mimo-v2-flash]: Stand
+  Reasoning: "I have a hard 20, which is a very strong hand. The dealer shows a 9, but statistically, standing on 20 is the correct play as it's highly likely to win or push without risking a bust."
+  Stands with 2♥ Q♣ 8♦ (20)
+Baidu Ernie 4.5 [baidu/ernie-4.5-21b-a3b-thinking]: Stand
+  Reasoning: "My hand is a hard 18, and the dealer's up card is 9. Standing minimizes risk as my hand is strong, and the dealer may bust if they continue hitting (their weak hole card could lead to over-hitting)."
+  Stands with Q♦ 8♥ (18)
+ByteDance Seed 1.6 [bytedance-seed/seed-1.6]: Hit
+  Reasoning: "My 14 is a weak hand against the dealer's 9, so hitting to attempt improving my hand value is the strategic move. Other players' hands do not alter this basic blackjack strategy decision."
+  Drew 6♦ -> 4♦ J♥ 6♦ (20)
+ByteDance Seed 1.6 [bytedance-seed/seed-1.6]: Stand
+  Reasoning: "My 20 is a strong hand, and hitting would risk busting or lowering my hand's value against the dealer's 9. Other players' hands do not change this basic blackjack strategy decision."
+  Stands with 4♦ J♥ 6♦ (20)
+Minimax M2.1 [minimax/minimax-m2.1]: Hit
+  Reasoning: "With a hard 7 against a dealer's 9, I must hit. My hand is far too weak to stand, and doubling down would be reckless with such a low total. I need to draw at least one card to have any chance of competing."
+  Drew 10♠ -> 2♥ 5♠ 10♠ (17)
+Minimax M2.1 [minimax/minimax-m2.1]: Stand
+  Reasoning: "With hard 17 against a dealer's strong 9 upcard, standing is correct. Hitting would bust on any card 5 or higher (9 out of 13 card values), making the risk of busting too high. The 17 is a reasonable total to hold and let the dealer play their hand."
+  Stands with 2♥ 5♠ 10♠ (17)
+
+Dealer reveals: 9♥ 8♦ (17)
+Dealer stands with 9♥ 8♦ (17)
+
+=== Results ===
+Xiaomi Mimo V2 Flash: WIN! Wins $5 (New balance: $30)
+Baidu Ernie 4.5: WIN! Wins $15 (New balance: $40)
+ByteDance Seed 1.6: WIN! Wins $10 (New balance: $72)
+Minimax M2.1: PUSH (New balance: $32)
+
+=== New Round #6 ===
+Xiaomi Mimo V2 Flash [xiaomi/mimo-v2-flash] bets $10
+  Reasoning: "With a modest $30 balance, I'm betting $10 to manage risk while staying active. As the last player to act, I can observe others' outcomes before playing my hand, allowing conservative play against their weaker balances."
+Baidu Ernie 4.5 [baidu/ernie-4.5-21b-a3b-thinking] bets $20
+  Reasoning: "With a $40 balance, betting $20 balances risk and reward. It applies pressure without risking all funds, leveraging positional strength against opponents who have lower/no current bets."
+ByteDance Seed 1.6 [bytedance-seed/seed-1.6] bets $15
+  Reasoning: "A $15 moderate bet avoids overexposing my $72 balance while remaining competitive with the active bettors’ stakes (Xiaomi’s $10, Baidu’s $20). It preserves sufficient funds for potential future wagers."
+Minimax M2.1 [minimax/minimax-m2.1] bets $10
+  Reasoning: "With a $32 balance being the lowest at the table, I need to balance competitiveness with bankroll preservation. A $10 bet allows me to stay competitive while ensuring I can survive several losses and continue playing."
+Dealer shows: 8♦ ??
+Xiaomi Mimo V2 Flash: K♣ 2♠ (12)
+Baidu Ernie 4.5: 2♠ 9♥ (11)
+ByteDance Seed 1.6: Q♣ K♦ (20)
+Minimax M2.1: 2♦ 7♥ (9)
+Xiaomi Mimo V2 Flash [xiaomi/mimo-v2-flash]: Stand
+  Reasoning: "With a hard 12 against a dealer's 8, I am in a neutral spot. The dealer has a high chance of busting with a 8 up, so standing is the optimal play to let the dealer potentially bust while I risk busting if I hit."
+  Stands with K♣ 2♠ (12)
+Baidu Ernie 4.5 [baidu/ernie-4.5-21b-a3b-thinking]: Hit
+  Reasoning: "My hand is 11 against a dealer's 8. Basic strategy suggests hitting on 11 against a weak dealer up card (8 is relatively low for the dealer, increasing the chance of bust). Hitting gives me a 60% chance to reach 17+ and win, while standing risks losing (11 < 17-21). DoubleDown is not feasible (remaining balance $20 < doubled bet $40)."
+  Drew 3♣ -> 2♠ 9♥ 3♣ (14)
+Baidu Ernie 4.5 [baidu/ernie-4.5-21b-a3b-thinking]: Hit
+  Reasoning: "Hand value 14 is weak against dealer's 8; hitting allows more chances to improve before dealer potentially busts. DoubleDown not feasible due to remaining balance ($20 < $40)."
+  Drew Q♦ -> 2♠ 9♥ 3♣ Q♦ (BUST 24)
+  Baidu Ernie 4.5 BUSTS!
+ByteDance Seed 1.6 [bytedance-seed/seed-1.6]: Stand
+  Reasoning: "A hand value of 20 is exceptionally strong against a dealer's 8♦, and hitting would risk busting or reducing the hand's winning potential."
+  Stands with Q♣ K♦ (20)
+Minimax M2.1 [minimax/minimax-m2.1]: Hit
+  Reasoning: "With a hard 9 vs dealer's 8, basic strategy calls for hitting. The dealer has a strong upcard and I'm in a weak position needing improvement."
+  Drew 10♣ -> 2♦ 7♥ 10♣ (19)
+Minimax M2.1 [minimax/minimax-m2.1]: Stand
+  Reasoning: "Hard 19 is an excellent hand and basic strategy dictates standing on 17 or higher. The risk of busting (77% chance) far outweighs any potential benefit of trying to improve."
+  Stands with 2♦ 7♥ 10♣ (19)
+
+Dealer reveals: 8♦ 3♦ (11)
+Dealer draws 2♥ -> 8♦ 3♦ 2♥ (13)
+Dealer draws A♥ -> 8♦ 3♦ 2♥ A♥ (14)
+Dealer draws K♥ -> 8♦ 3♦ 2♥ A♥ K♥ (BUST 24)
+Dealer BUSTS!
+
+=== Results ===
+Xiaomi Mimo V2 Flash: WIN! Wins $10 (New balance: $40)
+Baidu Ernie 4.5: LOSE (New balance: $20)
+ByteDance Seed 1.6: WIN! Wins $15 (New balance: $87)
+Minimax M2.1: WIN! Wins $10 (New balance: $42)
+
+=== New Round #7 ===
+Xiaomi Mimo V2 Flash [xiaomi/mimo-v2-flash] bets $5
+  Reasoning: "With a low $40 balance and multiple opponents holding larger stacks, I'm betting the minimum to conserve funds and reduce variance while gauging table dynamics. This conservative approach allows me to observe others' playstyles before committing more capital."
+Baidu Ernie 4.5 [baidu/ernie-4.5-21b-a3b-thinking] bets $5
+  Reasoning: "With a low balance of $20, betting the minimum $5 minimizes risk while still participating. Other players have higher balances but aren't currently betting, so conserving my funds is strategic."
+ByteDance Seed 1.6 [bytedance-seed/seed-1.6] bets $5
+  Reasoning: "Betting the minimum $5 minimizes immediate financial risk while maintaining game participation, preserving my larger balance for potential more favorable future hands."
+Minimax M2.1 [minimax/minimax-m2.1] bets $5
+  Reasoning: "Following minimax strategy, I'll bet the minimum $5 to preserve capital and minimize risk while observing other players. With $42 bankroll, this conservative approach maximizes my number of hands and staying power."
+Dealer shows: 2♦ ??
+Xiaomi Mimo V2 Flash: 9♣ J♦ (19)
+Baidu Ernie 4.5: Q♥ 10♠ (20)
+ByteDance Seed 1.6: K♠ A♣ (Blackjack)
+Minimax M2.1: 3♥ 2♥ (5)
+Xiaomi Mimo V2 Flash [xiaomi/mimo-v2-flash]: Stand
+  Reasoning: "With a strong hand of 19 against a dealer's weak 2 upcard, standing is optimal to avoid busting, as the dealer must hit and likely improve to a competitive total while risking busts."
+  Stands with 9♣ J♦ (19)
+Baidu Ernie 4.5 [baidu/ernie-4.5-21b-a3b-thinking]: Stand
+  Reasoning: "My hand is 20, which is a strong position. Hitting risks busting if I draw a high card, while standing secures a solid total close to 21."
+  Stands with Q♥ 10♠ (20)
+ByteDance Seed 1.6 has Blackjack.
+Minimax M2.1 [minimax/minimax-m2.1]: Hit
+  Reasoning: "With only 5 points, I have a very weak hand that needs significant improvement. The dealer's 2 is favorable, but I must hit to have any chance of reaching a competitive total without immediate bust risk."
+  Drew 10♣ -> 3♥ 2♥ 10♣ (15)
+Minimax M2.1 [minimax/minimax-m2.1]: Stand
+  Reasoning: "At 15 against a dealer's weak 2 upcard, the dealer has a high bust probability (approximately 35%) and must hit on 12 or less. Hitting risks busting with any card 6 or higher (54% bust probability), so standing preserves my competitive position."
+  Stands with 3♥ 2♥ 10♣ (15)
+
+Dealer reveals: 2♦ K♣ (12)
+Dealer draws 2♣ -> 2♦ K♣ 2♣ (14)
+Dealer draws J♥ -> 2♦ K♣ 2♣ J♥ (BUST 24)
+Dealer BUSTS!
+
+=== Results ===
+Xiaomi Mimo V2 Flash: WIN! Wins $5 (New balance: $45)
+Baidu Ernie 4.5: WIN! Wins $5 (New balance: $25)
+ByteDance Seed 1.6: BLACKJACK! Wins $12 (New balance: $94)
+Minimax M2.1: WIN! Wins $5 (New balance: $47)
+
+=== New Round #8 ===
+Xiaomi Mimo V2 Flash [xiaomi/mimo-v2-flash] bets $5
+  Reasoning: "With a low balance of $45, I'm betting the minimum to conserve funds and observe the table dynamics. This conservative approach minimizes risk while waiting for favorable conditions."
+Baidu Ernie 4.5 [baidu/ernie-4.5-21b-a3b-thinking] bets $5
+  Reasoning: "Conservative play due to low balance relative to others; minimizing risk with minimum bet to preserve funds."
+ByteDance Seed 1.6 [bytedance-seed/seed-1.6] bets $10
+  Reasoning: "A $10 bet preserves most of the $94 balance to manage risk while offering a larger stake than the minimum to capitalize on favorable hands, avoiding overcommitting early against other low-betting players."
+Minimax M2.1 [minimax/minimax-m2.1] bets $7
+  Reasoning: "Betting $7 places me between the conservative $5 bettors and the more aggressive $10 bettor. This balanced approach shows confidence while preserving bankroll for sustained play."
+Dealer shows: 5♣ ??
+Xiaomi Mimo V2 Flash: 4♦ J♠ (14)
+Baidu Ernie 4.5: 3♥ 9♥ (12)
+ByteDance Seed 1.6: 3♦ 2♥ (5)
+Minimax M2.1: 4♦ 5♠ (9)
+Xiaomi Mimo V2 Flash [xiaomi/mimo-v2-flash]: Hit
+  Reasoning: "With a hand of 14 and the dealer showing a weak 5, hitting is the best move to improve your hand without the risk of busting immediately. Doubling down is not advisable on a 14, and standing leaves you vulnerable to a dealer's strong hand."
+  Drew J♣ -> 4♦ J♠ J♣ (BUST 24)
+  Xiaomi Mimo V2 Flash BUSTS!
+Baidu Ernie 4.5 [baidu/ernie-4.5-21b-a3b-thinking]: Stand
+  Reasoning: "My hand is 12 against a dealer's 5. Basic strategy suggests standing on a stiff hand like 12 when the dealer shows a 5 to minimize bust risk and wait for the dealer to potentially bust or have a weaker hand."
+  Stands with 3♥ 9♥ (12)
+ByteDance Seed 1.6 [bytedance-seed/seed-1.6]: DoubleDown
+  Reasoning: "A hard 5 against the dealer's 5 is a strong double down opportunity per basic strategy. The dealer faces a high risk of busting when hitting to reach the required 17."
+  Doubled down, drew 8♣ -> 3♦ 2♥ 8♣ (13) (Bet: $20)
+Minimax M2.1 [minimax/minimax-m2.1]: DoubleDown
+  Reasoning: "With a hard 9 against a dealer's weak 5 upcard, this is a prime doubling opportunity per basic strategy. The dealer must hit on 16 or less and has a high bust probability, while my 9 is positioned to improve significantly with one more card."
+  Doubled down, drew 10♠ -> 4♦ 5♠ 10♠ (19) (Bet: $14)
+
+Dealer reveals: 5♣ K♣ (15)
+Dealer draws 8♥ -> 5♣ K♣ 8♥ (BUST 23)
+Dealer BUSTS!
+
+=== Results ===
+Xiaomi Mimo V2 Flash: LOSE (New balance: $40)
+Baidu Ernie 4.5: WIN! Wins $5 (New balance: $30)
+ByteDance Seed 1.6: WIN! Wins $20 (New balance: $114)
+Minimax M2.1: WIN! Wins $14 (New balance: $61)
+
+=== New Round #9 ===
+Xiaomi Mimo V2 Flash [xiaomi/mimo-v2-flash] bets $5
+  Reasoning: "With a low balance of $40 and high table volatility, I choose the minimum bet to conserve funds while observing the game dynamics and other players' strategies."
+Baidu Ernie 4.5 [baidu/ernie-4.5-21b-a3b-thinking] bets $20
+  Reasoning: "Bet $20 to balance risk and reward, considering my lower balance relative to others and moderate risk tolerance."
+ByteDance Seed 1.6 [bytedance-seed/seed-1.6] bets $10
+  Reasoning: "A $10 moderate bet avoids the high risk of Baidu's $20 wager while exceeding Xiaomi's minimum to maintain meaningful potential returns without rapid depletion of my $114 balance."
+Minimax M2.1 [minimax/minimax-m2.1] bets $10
+  Reasoning: "With $61 I'm in a comfortable middle position. $10 balances confidence with risk management - I can afford to be slightly more aggressive than the minimum but don't need to match Baidu's higher $20 bet. This keeps me competitive while preserving my bankroll."
+Dealer shows: Q♦ ??
+Xiaomi Mimo V2 Flash: 5♠ Q♦ (15)
+Baidu Ernie 4.5: A♦ 7♥ (18 soft)
+ByteDance Seed 1.6: K♠ 7♠ (17)
+Minimax M2.1: 9♥ J♦ (19)
+Xiaomi Mimo V2 Flash [xiaomi/mimo-v2-flash]: Hit
+  Reasoning: "With a hard 15 against a dealer's 10 up-card, the optimal basic strategy is to hit, as standing risks a high probability of the dealer beating the hand, and doubling down is not recommended for a hard 15."
+  Drew 5♣ -> 5♠ Q♦ 5♣ (20)
+Xiaomi Mimo V2 Flash [xiaomi/mimo-v2-flash]: Stand
+  Reasoning: "With a hard 20, the hand is strong and likely to win or push against the dealer's Queen up-card, so standing is optimal to avoid busting. Basic strategy dictates standing on hard 20 against any dealer up-card."
+  Stands with 5♠ Q♦ 5♣ (20)
+Baidu Ernie 4.5 [baidu/ernie-4.5-21b-a3b-thinking]: Hit
+  Reasoning: "Soft 18 against dealer's 10 is aggressive; hitting can improve to a harder hand or force the dealer to bust."
+  Drew 7♣ -> A♦ 7♥ 7♣ (15)
+Baidu Ernie 4.5 [baidu/ernie-4.5-21b-a3b-thinking]: Hit
+  Reasoning: "Current hand value 15 is weak against the dealer's strong up card (Q♦). Hitting can improve the hand or force the dealer to risk busting with a weak hand."
+  Drew 8♠ -> A♦ 7♥ 7♣ 8♠ (BUST 23)
+  Baidu Ernie 4.5 BUSTS!
+ByteDance Seed 1.6 [bytedance-seed/seed-1.6]: Stand
+  Reasoning: "Hard 17 carries a high risk of busting if hit, and the dealer's Q♦ (10-value card) doesn't warrant taking that risk for minimal potential gain."
+  Stands with K♠ 7♠ (17)
+Minimax M2.1 [minimax/minimax-m2.1]: Stand
+  Reasoning: "With a hard 19, I'm in an excellent position. Standard strategy dictates standing on hard 17 or higher. The dealer's Q suggests they likely have a strong hand, but hitting would risk busting since only a 2 would improve my hand without breaking 21."
+  Stands with 9♥ J♦ (19)
+
+Dealer reveals: Q♦ 3♦ (13)
+Dealer draws 3♥ -> Q♦ 3♦ 3♥ (16)
+Dealer draws 7♦ -> Q♦ 3♦ 3♥ 7♦ (BUST 23)
+Dealer BUSTS!
+
+=== Results ===
+Xiaomi Mimo V2 Flash: WIN! Wins $5 (New balance: $45)
+Baidu Ernie 4.5: LOSE (New balance: $10)
+ByteDance Seed 1.6: WIN! Wins $10 (New balance: $124)
+Minimax M2.1: WIN! Wins $10 (New balance: $71)
+
+=== New Round #10 ===
+Xiaomi Mimo V2 Flash [xiaomi/mimo-v2-flash] bets $5
+  Reasoning: "I am betting the minimum to conserve my limited balance of $45 and minimize risk, as the other players have not yet bet and I want to observe their actions before committing more."
+Baidu Ernie 4.5 [baidu/ernie-4.5-21b-a3b-thinking] bets $5
+  Reasoning: "Preserving my small balance is prioritized; a $5 bet minimizes risk while allowing play, avoiding potential total loss from a $10 bet."
+ByteDance Seed 1.6 [bytedance-seed/seed-1.6] bets $10
+  Reasoning: "A $10 bet preserves most of my $124 balance to manage risk while maintaining a competitive stake relative to the $5 bets of active players."
+Minimax M2.1 [minimax/minimax-m2.1] bets $10
+  Reasoning: "With $71 I'm in a comfortable middle position - not the table leader like ByteDance with $124, but not at risk like Baidu with only $10. A $10 bet (2x minimum) shows confidence while managing risk appropriately."
+Dealer shows: 4♣ ??
+Xiaomi Mimo V2 Flash: 5♣ J♣ (15)
+Baidu Ernie 4.5: 4♥ 10♦ (14)
+ByteDance Seed 1.6: 5♠ 2♣ (7)
+Minimax M2.1: 4♥ 8♠ (12)
+Xiaomi Mimo V2 Flash [xiaomi/mimo-v2-flash]: Hit
+  Reasoning: "The dealer shows a weak 4, but my hand value of 15 is low and risky to stand on. Hitting gives me a chance to improve without the risk of busting immediately, as I have room to draw a card."
+  Drew 9♣ -> 5♣ J♣ 9♣ (BUST 24)
+  Xiaomi Mimo V2 Flash BUSTS!
+Baidu Ernie 4.5 [baidu/ernie-4.5-21b-a3b-thinking]: DoubleDown
+  Reasoning: "Hand value 14 is against dealer's weak 4. Doubling down maximizes bet while hoping for a strong card. Other players have risky hands (Xiaomi 24, Minimax 12), making aggressive play prudent."
+  Doubled down, drew A♠ -> 4♥ 10♦ A♠ (15) (Bet: $10)
+ByteDance Seed 1.6 [bytedance-seed/seed-1.6]: Hit
+  Reasoning: "My hard 7 is too low to stand effectively, and basic blackjack strategy recommends hitting against a dealer's 4 to improve my hand value."
+  Drew Q♥ -> 5♠ 2♣ Q♥ (17)
+ByteDance Seed 1.6 [bytedance-seed/seed-1.6]: Stand
+  Reasoning: "My hard 17 is a strong hand, and basic blackjack strategy recommends standing on it to avoid the risk of busting against the dealer's 4."
+  Stands with 5♠ 2♣ Q♥ (17)
+Minimax M2.1 [minimax/minimax-m2.1]: Stand
+  Reasoning: "With 12 against a dealer's weak 4♣ up card, standing is optimal. The dealer has a high bust probability with a 4 showing, and hitting risks busting on any 10-value card."
+  Stands with 4♥ 8♠ (12)
+
+Dealer reveals: 4♣ 10♦ (14)
+Dealer draws 3♠ -> 4♣ 10♦ 3♠ (17)
+Dealer stands with 4♣ 10♦ 3♠ (17)
+
+=== Results ===
+Xiaomi Mimo V2 Flash: LOSE (New balance: $40)
+Baidu Ernie 4.5: LOSE (New balance: $0)
+ByteDance Seed 1.6: PUSH (New balance: $124)
+Minimax M2.1: LOSE (New balance: $61)
+Baidu Ernie 4.5 is eliminated (Balance: $0).
+
+=== New Round #11 ===
+Xiaomi Mimo V2 Flash [xiaomi/mimo-v2-flash] bets $5
+  Reasoning: "With a low balance of $40 and other players having higher balances, I'm betting the minimum to conserve funds and minimize risk while observing the game flow."
+ByteDance Seed 1.6 [bytedance-seed/seed-1.6] bets $10
+  Reasoning: "My larger $124 balance allows a moderate $10 bet to balance risk and potential returns. This avoids overexposure while positioning me for higher gains than the minimum-betting Xiaomi without pressuring the yet-to-bet Minimax."
+Minimax M2.1 [minimax/minimax-m2.1] bets $8
+  Reasoning: "Betting $8 (13% of bankroll) is a balanced approach - more than the minimum to show confidence, but conservative enough to survive variance while ByteDance's larger bet suggests they're playing aggressively."
+Dealer shows: 4♦ ??
+Xiaomi Mimo V2 Flash: K♥ 5♦ (15)
+ByteDance Seed 1.6: 9♦ 9♥ (18)
+Minimax M2.1: 6♦ 6♥ (12)
+Xiaomi Mimo V2 Flash [xiaomi/mimo-v2-flash]: Hit
+  Reasoning: "The dealer shows a weak 4, and with 15, hitting is better than standing to avoid busting on dealer's likely weak hand. Doubling down is risky on a 15 as one card may not improve it enough."
+  Drew Q♦ -> K♥ 5♦ Q♦ (BUST 25)
+  Xiaomi Mimo V2 Flash BUSTS!
+ByteDance Seed 1.6 [bytedance-seed/seed-1.6]: Stand
+  Reasoning: "My 18 is a strong hand, and hitting risks busting while standing forces the dealer to take the chance of drawing to a winning total."
+  Stands with 9♦ 9♥ (18)
+Minimax M2.1 [minimax/minimax-m2.1]: Stand
+  Reasoning: "With 12 against dealer's weak 4 up card, the dealer has a high bust probability (~40%) and must hit to at least 17. Standing avoids the risk of busting myself when the dealer is likely to go over 21."
+  Stands with 6♦ 6♥ (12)
+
+Dealer reveals: 4♦ 3♥ (7)
+Dealer draws 4♠ -> 4♦ 3♥ 4♠ (11)
+Dealer draws J♣ -> 4♦ 3♥ 4♠ J♣ (21)
+Dealer stands with 4♦ 3♥ 4♠ J♣ (21)
+
+=== Results ===
+Xiaomi Mimo V2 Flash: LOSE (New balance: $35)
+ByteDance Seed 1.6: LOSE (New balance: $114)
+Minimax M2.1: LOSE (New balance: $53)
+
+=== New Round #12 ===
+Xiaomi Mimo V2 Flash [xiaomi/mimo-v2-flash] bets $5
+  Reasoning: "I have a low balance ($35) and must preserve it for future hands, so I bet the minimum to minimize risk while staying in the game."
+ByteDance Seed 1.6 [bytedance-seed/seed-1.6] bets $10
+  Reasoning: "A $10 bet is a moderate risk choice that avoids overcommitting my $114 balance while placing a larger wager than Xiaomi Mimo V2 Flash’s $5 to position for more substantial potential returns."
+Minimax M2.1 [minimax/minimax-m2.1] bets $10
+  Reasoning: "With $53 bankroll, I'm positioned between the other players. Betting $10 shows confidence while protecting against variance - it's more than the minimum to assert strength but conservative enough to weather potential losses."
+Dealer shows: A♣ ??
+Xiaomi Mimo V2 Flash: 6♣ 4♣ (10)
+ByteDance Seed 1.6: 3♦ Q♣ (13)
+Minimax M2.1: 2♥ 2♥ (4)
+Xiaomi Mimo V2 Flash [xiaomi/mimo-v2-flash]: Hit
+  Reasoning: "With a soft 10 (6♣ 4♣) against dealer's Ace, hitting is optimal to improve the hand without immediate risk of busting; doubling is risky due to the weak total and dealer's strength, while standing leaves us vulnerable to dealer's potential strong hand."
+  Drew 8♣ -> 6♣ 4♣ 8♣ (18)
+Xiaomi Mimo V2 Flash [xiaomi/mimo-v2-flash]: Stand
+  Reasoning: "With a hand value of 18, standing is optimal as the dealer's Ace is strong but we have a solid total unlikely to improve without risk; hitting could lead to busting (12+), and other players' weak hands don't affect our decision."
+  Stands with 6♣ 4♣ 8♣ (18)
+ByteDance Seed 1.6 [bytedance-seed/seed-1.6]: Hit
+  Reasoning: "With a hand value of 13 and the dealer showing a strong Ace upcard, hitting is strategic to improve the hand against the dealer's high likelihood of forming a strong final hand. Standing on 13 here would leave a high risk of losing to the dealer's potential 17+ hand."
+  Drew 7♣ -> 3♦ Q♣ 7♣ (20)
+ByteDance Seed 1.6 [bytedance-seed/seed-1.6]: Stand
+  Reasoning: "Standing on a strong hand value of 20 is optimal because hitting carries a high risk of busting, and this hand already has a strong likelihood of beating the dealer's potential final hand."
+  Stands with 3♦ Q♣ 7♣ (20)
+Minimax M2.1 [minimax/minimax-m2.1]: DoubleDown
+  Reasoning: "With a total of 4, I cannot stand and must take action. Doubling down maximizes value on a weak hand where I need to improve significantly, and getting exactly one card gives me a clean play without risk of over-hitting."
+  Doubled down, drew 6♠ -> 2♥ 2♥ 6♠ (10) (Bet: $20)
+
+Dealer reveals: A♣ 4♥ (15 soft)
+Dealer draws 7♥ -> A♣ 4♥ 7♥ (12)
+Dealer draws 2♣ -> A♣ 4♥ 7♥ 2♣ (14)
+Dealer draws 7♦ -> A♣ 4♥ 7♥ 2♣ 7♦ (21)
+Dealer stands with A♣ 4♥ 7♥ 2♣ 7♦ (21)
+
+=== Results ===
+Xiaomi Mimo V2 Flash: LOSE (New balance: $30)
+ByteDance Seed 1.6: LOSE (New balance: $104)
+Minimax M2.1: LOSE (New balance: $33)
+
+=== New Round #13 ===
+Xiaomi Mimo V2 Flash [xiaomi/mimo-v2-flash] bets $5
+  Reasoning: "With a low balance of $30, I'm playing conservatively to minimize risk and preserve funds for future hands, betting the minimum of $5 to stay in the game without overexposing my bankroll."
+ByteDance Seed 1.6 [bytedance-seed/seed-1.6] bets $10
+  Reasoning: "A $10 bet maintains manageable risk given Minimax M2.1’s unplaced bet while offering better potential returns than the minimum bet without overcommitting my $104 balance."
+Minimax M2.1 [minimax/minimax-m2.1] bets $10
+  Reasoning: "With $33 balance, betting $10 gives me 3 betting units and competitive positioning relative to ByteDance's $10 bet while preserving enough bankroll for 3 buy-ins."
+Dealer shows: 9♥ ??
+Xiaomi Mimo V2 Flash: Q♦ K♠ (20)
+ByteDance Seed 1.6: Q♦ 7♦ (17)
+Minimax M2.1: 9♠ 10♣ (19)
+Xiaomi Mimo V2 Flash [xiaomi/mimo-v2-flash]: Stand
+  Reasoning: "With a hard 20 against a dealer's 9, the odds strongly favor standing as the dealer has a high chance of busting or reaching a lower total; hitting risks busting and doubling is not advisable with a strong hand."
+  Stands with Q♦ K♠ (20)
+ByteDance Seed 1.6 [bytedance-seed/seed-1.6]: Stand
+  Reasoning: "Holding a hard 17, hitting carries a high risk of busting, and standing is the standard strategic choice against a dealer's 9 up card. Other players' hands do not alter this basic strategy decision."
+  Stands with Q♦ 7♦ (17)
+Minimax M2.1 [minimax/minimax-m2.1]: Stand
+  Reasoning: "Hard 19 is a strong hand against a dealer's 9. Basic strategy dictates standing since hitting risks busting on any card 2 or higher. The dealer must hit on 16 and stand on 17, giving me good odds with 19."
+  Stands with 9♠ 10♣ (19)
+
+Dealer reveals: 9♥ 2♣ (11)
+Dealer draws 7♦ -> 9♥ 2♣ 7♦ (18)
+Dealer stands with 9♥ 2♣ 7♦ (18)
+
+=== Results ===
+Xiaomi Mimo V2 Flash: WIN! Wins $5 (New balance: $35)
+ByteDance Seed 1.6: LOSE (New balance: $94)
+Minimax M2.1: WIN! Wins $10 (New balance: $43)
+
+=== New Round #14 ===
+Xiaomi Mimo V2 Flash [xiaomi/mimo-v2-flash] bets $5
+  Reasoning: "With a low balance of $35 and the minimum bet being $5, I'm betting the minimum to conserve funds and manage risk, especially since I'm seated last and can observe other players' actions first."
+ByteDance Seed 1.6 [bytedance-seed/seed-1.6] bets $10
+  Reasoning: "A $10 bet is a moderate risk choice that leverages my higher balance than other players. It avoids overcommitting before Minimax M2.1 finalizes their bet amount."
+Minimax M2.1 [minimax/minimax-m2.1] bets $10
+  Reasoning: "With $43 bankroll and needing meaningful gains, $10 (2x minimum) balances aggression with bankroll preservation - still leaves $33 if I lose, enough for 6+ more hands."
+Dealer shows: 4♣ ??
+Xiaomi Mimo V2 Flash: 10♠ 2♦ (12)
+ByteDance Seed 1.6: J♣ 6♥ (16)
+Minimax M2.1: 6♦ K♠ (16)
+Xiaomi Mimo V2 Flash [xiaomi/mimo-v2-flash]: Hit
+  Reasoning: "With a hard 12 against dealer's 4, the dealer has a weak up card and is likely to bust, but hitting is optimal to improve your hand without the risk of doubling on a marginal total. Standing risks losing if the dealer improves to a better total."
+  Drew A♣ -> 10♠ 2♦ A♣ (13)
+Xiaomi Mimo V2 Flash [xiaomi/mimo-v2-flash]: Hit
+  Reasoning: "With a hard 13 against a dealer's 4, the dealer is weak and likely to bust, but hitting improves your hand to a better total without the risk of standing on a vulnerable total."
+  Drew 5♠ -> 10♠ 2♦ A♣ 5♠ (18)
+Xiaomi Mimo V2 Flash [xiaomi/mimo-v2-flash]: Stand
+  Reasoning: "With a hard 18 against dealer's 4, standing is optimal as the dealer is weak and likely to bust, while hitting risks busting or improving to a total worse than 18. Other players' 16s increase bust likelihood if they hit, but my hand is strong enough to win."
+  Stands with 10♠ 2♦ A♣ 5♠ (18)
+ByteDance Seed 1.6 [bytedance-seed/seed-1.6]: Stand
+  Reasoning: "My hard 16 has a high bust risk if I hit, and the dealer’s weak 4♣ makes standing the strategically better choice to avoid unnecessary losses."
+  Stands with J♣ 6♥ (16)
+Minimax M2.1 [minimax/minimax-m2.1]: Stand
+  Reasoning: "Dealer shows 4, a weak up card with high bust probability (~40%). With 16, I should stand and let the dealer play out their hand rather than risk busting by hitting."
+  Stands with 6♦ K♠ (16)
+
+Dealer reveals: 4♣ 2♣ (6)
+Dealer draws 5♣ -> 4♣ 2♣ 5♣ (11)
+Dealer draws 9♦ -> 4♣ 2♣ 5♣ 9♦ (20)
+Dealer stands with 4♣ 2♣ 5♣ 9♦ (20)
+
+=== Results ===
+Xiaomi Mimo V2 Flash: LOSE (New balance: $30)
+ByteDance Seed 1.6: LOSE (New balance: $84)
+Minimax M2.1: LOSE (New balance: $33)
+
+=== New Round #15 ===
+Xiaomi Mimo V2 Flash [xiaomi/mimo-v2-flash] bets $5
+  Reasoning: "With a low balance of $30 and a minimum bet of $5, I'm betting the minimum to conserve funds and reduce risk, as other players have higher balances and I want to play conservatively until I have a stronger hand or better position."
+ByteDance Seed 1.6 [bytedance-seed/seed-1.6] bets $10
+  Reasoning: "A $10 bet stays within budget and balances risk without overcommitting, leaving flexibility for adjustments based on Minimax’s upcoming bet."
+Minimax M2.1 [minimax/minimax-m2.1] bets $5
+  Reasoning: "Conservative approach with limited bankroll ($33). Minimum bet maximizes number of hands and reduces risk of ruin while I observe the table dynamics."
+Dealer shows: 6♥ ??
+Xiaomi Mimo V2 Flash: 8♣ 5♠ (13)
+ByteDance Seed 1.6: 5♥ A♣ (16 soft)
+Minimax M2.1: 6♣ 5♦ (11)
+Xiaomi Mimo V2 Flash [xiaomi/mimo-v2-flash]: DoubleDown
+  Reasoning: "With a hard 13 against a dealer's 6, doubling down is statistically favorable as the dealer is weak and likely to bust, maximizing profit on a strong starting hand."
+  Doubled down, drew 9♣ -> 8♣ 5♠ 9♣ (BUST 22) (Bet: $10)
+ByteDance Seed 1.6 [bytedance-seed/seed-1.6]: DoubleDown
+  Reasoning: "Soft 16 (A,5) against the dealer's weak 6 is a prime double down opportunity per basic blackjack strategy to maximize potential gains against a dealer likely to bust."
+  Doubled down, drew 9♠ -> 5♥ A♣ 9♠ (15) (Bet: $20)
+Minimax M2.1 [minimax/minimax-m2.1]: Hit
+  Reasoning: "With 11 against dealer's weak 6, hitting is optimal - I have excellent odds to improve to a strong hand while the dealer faces high bust probability. Doubling would be too conservative given my low total."
+  Drew 9♣ -> 6♣ 5♦ 9♣ (20)
+Minimax M2.1 [minimax/minimax-m2.1]: Stand
+  Reasoning: "With 20, I have an exceptionally strong hand. Standing is the only logical play - hitting would risk busting against a dealer who must hit on 16 or less and faces high bust probability with a 6 showing."
+  Stands with 6♣ 5♦ 9♣ (20)
+
+Dealer reveals: 6♥ 5♠ (11)
+Dealer draws 10♠ -> 6♥ 5♠ 10♠ (21)
+Dealer stands with 6♥ 5♠ 10♠ (21)
+
+=== Results ===
+Xiaomi Mimo V2 Flash: LOSE (New balance: $20)
+ByteDance Seed 1.6: LOSE (New balance: $64)
+Minimax M2.1: LOSE (New balance: $28)
+
+=== New Round #16 ===
+Xiaomi Mimo V2 Flash [xiaomi/mimo-v2-flash] bets $5
+  Reasoning: "With a low balance of $20 and a minimum bet of $5, I am betting the minimum to preserve capital and manage risk while observing the table dynamics before committing more."
+ByteDance Seed 1.6 [bytedance-seed/seed-1.6] bets $10
+  Reasoning: "A $10 bet balances risk by preserving most of my $64 balance while offering better potential returns than the minimum. It also avoids overcommitting before Minimax M2.1 places their bet."
+Minimax M2.1 [minimax/minimax-m2.1] bets $7
+  Reasoning: "As Minimax, I'm risk-averse by design. $7 keeps me above minimum while preserving most of my $28 bankroll, allowing multiple hands if I hit a losing streak."
+Dealer shows: 7♦ ??
+Xiaomi Mimo V2 Flash: 5♥ 10♣ (15)
+ByteDance Seed 1.6: 3♦ A♥ (14 soft)
+Minimax M2.1: 9♦ 2♦ (11)
+Xiaomi Mimo V2 Flash [xiaomi/mimo-v2-flash]: Hit
+  Reasoning: "I have a hard 15 against the dealer's 7, which is a weak hand. Hitting gives me a chance to improve without busting, as the dealer has a moderate up card."
+  Drew 10♦ -> 5♥ 10♣ 10♦ (BUST 25)
+  Xiaomi Mimo V2 Flash BUSTS!
+ByteDance Seed 1.6 [bytedance-seed/seed-1.6]: Hit
+  Reasoning: "Soft 14 is too weak to stand against dealer's 7♦, and hitting allows improving the hand with low bust risk due to the soft Ace."
+  Drew 7♥ -> 3♦ A♥ 7♥ (21 soft)
+ByteDance Seed 1.6 [bytedance-seed/seed-1.6]: Stand
+  Reasoning: "Soft 21 is a maximum strong hand that guarantees a high chance of winning. Hitting would almost certainly result in a bust, so standing is the strategic choice against the dealer's 7♦."
+  Stands with 3♦ A♥ 7♥ (21 soft)
+Minimax M2.1 [minimax/minimax-m2.1]: DoubleDown
+  Reasoning: "With 11 against a dealer's 7, doubling down is statistically optimal. My strong total of 11 gives me excellent odds to improve, and the dealer's middling 7 creates a favorable doubling situation to maximize expected value."
+  Doubled down, drew A♠ -> 9♦ 2♦ A♠ (12) (Bet: $14)
+
+Dealer reveals: 7♦ 4♣ (11)
+Dealer draws 2♣ -> 7♦ 4♣ 2♣ (13)
+Dealer draws 6♣ -> 7♦ 4♣ 2♣ 6♣ (19)
+Dealer stands with 7♦ 4♣ 2♣ 6♣ (19)
+
+=== Results ===
+Xiaomi Mimo V2 Flash: LOSE (New balance: $15)
+ByteDance Seed 1.6: WIN! Wins $10 (New balance: $74)
+Minimax M2.1: LOSE (New balance: $14)
+
+=== New Round #17 ===
+Xiaomi Mimo V2 Flash [xiaomi/mimo-v2-flash] bets $5
+  Reasoning: "My balance is only $15, so I'm betting the minimum to conserve chips and reduce risk, especially since I'm the last to act and can observe others' bets and play styles before making decisions."
+ByteDance Seed 1.6 [bytedance-seed/seed-1.6] bets $10
+  Reasoning: "A $10 bet balances risk by preserving most of my $74 balance while offering better potential returns than the minimum, without overcommitting before Minimax M2.1’s bet is known."
+Minimax M2.1 [minimax/minimax-m2.1] bets $5
+  Reasoning: "With only $14 total and a minimum bet of $5, I'm in a vulnerable position. Betting the minimum extends my playtime and reduces bust risk, which aligns with a conservative minimax strategy."
+Dealer shows: 7♣ ??
+Xiaomi Mimo V2 Flash: 5♥ 2♦ (7)
+ByteDance Seed 1.6: 8♠ Q♦ (18)
+Minimax M2.1: A♥ A♣ (12 soft)
+Xiaomi Mimo V2 Flash [xiaomi/mimo-v2-flash]: Hit
+  Reasoning: "My hand value of 7 is weak and likely to bust with a double, so hitting is optimal to improve without risking double the bet. Basic strategy recommends hitting against dealer's 7 to build a stronger total."
+  Drew 9♣ -> 5♥ 2♦ 9♣ (16)
+Xiaomi Mimo V2 Flash [xiaomi/mimo-v2-flash]: Stand
+  Reasoning: "My hand value is 16, which is a weak but not busting hand. The dealer shows a 7, a relatively strong up card, making it risky to hit and likely bust. Basic strategy advises standing on 16 against a dealer's 7 to minimize losses, as hitting has a high chance of exceeding 21."
+  Stands with 5♥ 2♦ 9♣ (16)
+ByteDance Seed 1.6 [bytedance-seed/seed-1.6]: Stand
+  Reasoning: "My 18 is a strong hand against the dealer's 7, and hitting would unnecessarily risk busting while standing maximizes winning odds."
+  Stands with 8♠ Q♦ (18)
+Minimax M2.1 [minimax/minimax-m2.1]: Hit
+  Reasoning: "With soft 12 (two Aces), I can't bust by hitting and need to improve my weak hand against the dealer's 7. Splitting would be optimal but isn't available, so hitting gives me a chance to strengthen my position."
+  Drew 10♥ -> A♥ A♣ 10♥ (12)
+Minimax M2.1 [minimax/minimax-m2.1]: Hit
+  Reasoning: "With 12 against a dealer's 7, I'm in a weak position. The dealer has a strong upcard and likely will make 17+. Hitting gives me a chance to improve to a competitive total while still having room to improve further if needed."
+  Drew 5♠ -> A♥ A♣ 10♥ 5♠ (17)
+Minimax M2.1 [minimax/minimax-m2.1]: Stand
+  Reasoning: "Hard 17 is a standing hand in basic strategy. Hitting risks busting (any card 5 or higher), and 17 is already competitive against a dealer's 7 upcard."
+  Stands with A♥ A♣ 10♥ 5♠ (17)
+
+Dealer reveals: 7♣ 5♦ (12)
+Dealer draws A♠ -> 7♣ 5♦ A♠ (13)
+Dealer draws 9♥ -> 7♣ 5♦ A♠ 9♥ (BUST 22)
+Dealer BUSTS!
+
+=== Results ===
+Xiaomi Mimo V2 Flash: WIN! Wins $5 (New balance: $20)
+ByteDance Seed 1.6: WIN! Wins $10 (New balance: $84)
+Minimax M2.1: WIN! Wins $5 (New balance: $19)
+
+=== New Round #18 ===
+Xiaomi Mimo V2 Flash [xiaomi/mimo-v2-flash] bets $5
+  Reasoning: "With a low balance of $20, I'm betting the minimum to conserve funds and reduce risk, especially since other players have higher balances and could influence the game dynamics."
+ByteDance Seed 1.6 [bytedance-seed/seed-1.6] bets $10
+  Reasoning: "My strong $84 balance allows a moderate $10 bet to pursue more potential gains than Xiaomi’s $5 bet without excessive risk. Minimax’s unplaced bet doesn’t require me to overcommit my funds now."
+Minimax M2.1 [minimax/minimax-m2.1] bets $5
+  Reasoning: "With only $19 total and a $5 minimum, betting conservatively at the minimum preserves my bankroll and gives me more opportunities to play and potentially build my balance."
+Dealer shows: K♥ ??
+Xiaomi Mimo V2 Flash: 9♦ A♦ (20 soft)
+ByteDance Seed 1.6: 6♠ 5♥ (11)
+Minimax M2.1: K♦ A♠ (Blackjack)
+Xiaomi Mimo V2 Flash [xiaomi/mimo-v2-flash]: Stand
+  Reasoning: "You have a soft 20, which is a very strong hand. With the dealer showing a K (10), hitting risks busting or improving to a worse hand, and doubling down is not advisable on a soft 20. Standing is the optimal play to secure a win."
+  Stands with 9♦ A♦ (20 soft)
+ByteDance Seed 1.6 [bytedance-seed/seed-1.6]: DoubleDown
+  Reasoning: "A hard 11 has a high chance of hitting a 10-value card to reach 21, so doubling down maximizes potential gains against the dealer's 10-value up card. Other players' hands do not alter this optimal basic strategy decision."
+  Doubled down, drew 10♣ -> 6♠ 5♥ 10♣ (21) (Bet: $20)
+Minimax M2.1 has Blackjack.
+
+Dealer reveals: K♥ 10♥ (20)
+Dealer stands with K♥ 10♥ (20)
+
+=== Results ===
+Xiaomi Mimo V2 Flash: PUSH (New balance: $20)
+ByteDance Seed 1.6: WIN! Wins $20 (New balance: $104)
+Minimax M2.1: BLACKJACK! Wins $12 (New balance: $26)
+
+=== New Round #19 ===
+Xiaomi Mimo V2 Flash [xiaomi/mimo-v2-flash] bets $5
+  Reasoning: "With a low balance of $20 and a minimum bet of $5, I'm betting the minimum to conserve funds and reduce risk while I assess the table dynamics and other players' strategies."
+ByteDance Seed 1.6 [bytedance-seed/seed-1.6] bets $10
+  Reasoning: "A $10 moderate bet balances risk and potential returns within my $104 balance, avoiding overcommitment while exceeding the minimum to capitalize on favorable hands."
+Minimax M2.1 [minimax/minimax-m2.1] bets $5
+  Reasoning: "With only $26 total, I need to be conservative. Betting the minimum $5 preserves my bankroll to play more hands and observe the other players' strategies before committing more."
+Dealer shows: K♦ ??
+Xiaomi Mimo V2 Flash: 2♥ 10♠ (12)
+ByteDance Seed 1.6: A♦ 5♠ (16 soft)
+Minimax M2.1: J♠ A♣ (Blackjack)
+Xiaomi Mimo V2 Flash [xiaomi/mimo-v2-flash]: Hit
+  Reasoning: "With a hard 12 against a dealer's K, hitting is safer than standing to avoid busting, and doubling is risky with a low balance and weak hand."
+  Drew K♦ -> 2♥ 10♠ K♦ (BUST 22)
+  Xiaomi Mimo V2 Flash BUSTS!
+ByteDance Seed 1.6 [bytedance-seed/seed-1.6]: Hit
+  Reasoning: "My soft 16 (A♦5♠) has low bust risk when hitting, unlike a hard 16. The dealer’s strong K♦ (10 value) makes standing too likely to result in a loss."
+  Drew 9♣ -> A♦ 5♠ 9♣ (15)
+ByteDance Seed 1.6 [bytedance-seed/seed-1.6]: Hit
+  Reasoning: "My hard 15 has a low chance of beating the dealer’s 10-value K♦ if I stand. Hitting gives me an opportunity to improve my hand to a winning total despite moderate bust risk."
+  Drew Q♦ -> A♦ 5♠ 9♣ Q♦ (BUST 25)
+  ByteDance Seed 1.6 BUSTS!
+Minimax M2.1 has Blackjack.
+
+Dealer reveals: K♦ 7♠ (17)
+Dealer stands with K♦ 7♠ (17)
+
+=== Results ===
+Xiaomi Mimo V2 Flash: LOSE (New balance: $15)
+ByteDance Seed 1.6: LOSE (New balance: $94)
+Minimax M2.1: BLACKJACK! Wins $12 (New balance: $33)
+
+=== New Round #20 ===
+Xiaomi Mimo V2 Flash [xiaomi/mimo-v2-flash] bets $5
+  Reasoning: "With a low balance of $15, I am playing conservatively to minimize risk and preserve my bankroll, betting the minimum $5 despite other players having higher balances."
+ByteDance Seed 1.6 [bytedance-seed/seed-1.6] bets $10
+  Reasoning: "A $10 bet balances moderate risk and capital preservation, above the minimum to pursue potential wins while keeping most of the $94 balance for future hands. It avoids overcommitting relative to other players with smaller available funds."
+Minimax M2.1 [minimax/minimax-m2.1] bets $5
+  Reasoning: "With only $33 total and being the lowest balance player at the table, I should bet the minimum $5 to preserve my bankroll and minimize risk of elimination."
+Dealer shows: 9♥ ??
+Xiaomi Mimo V2 Flash: 9♥ 2♦ (11)
+ByteDance Seed 1.6: 4♣ Q♦ (14)
+Minimax M2.1: K♦ 4♣ (14)
+Xiaomi Mimo V2 Flash [xiaomi/mimo-v2-flash]: DoubleDown
+  Reasoning: "My hand total is 11, which is strong for doubling, and the dealer shows a 9, which is a weak up card. With a soft 11, I have a high probability of improving to a strong hand like 19-21 with one card, and doubling maximizes my expected value given the favorable situation."
+  Doubled down, drew 7♦ -> 9♥ 2♦ 7♦ (18) (Bet: $10)
+ByteDance Seed 1.6 [bytedance-seed/seed-1.6]: Hit
+  Reasoning: "With a hand value of 14 against the dealer's 9, basic blackjack strategy dictates hitting to improve the hand, as the dealer has a high probability of making a strong 17+ hand."
+  Drew 9♣ -> 4♣ Q♦ 9♣ (BUST 23)
+  ByteDance Seed 1.6 BUSTS!
+Minimax M2.1 [minimax/minimax-m2.1]: Hit
+  Reasoning: "With 14 against a dealer's 9, basic strategy dictates hitting. The dealer has a strong position and I need to try to improve my weak 14 total."
+  Drew 5♠ -> K♦ 4♣ 5♠ (19)
+Minimax M2.1 [minimax/minimax-m2.1]: Stand
+  Reasoning: "With 19, I have an excellent hand. Basic strategy dictates standing on 19 or higher regardless of dealer upcard. The risk of busting by hitting is too high, and 19 is strong enough to potentially win."
+  Stands with K♦ 4♣ 5♠ (19)
+
+Dealer reveals: 9♥ Q♣ (19)
+Dealer stands with 9♥ Q♣ (19)
+
+=== Results ===
+Xiaomi Mimo V2 Flash: LOSE (New balance: $5)
+ByteDance Seed 1.6: LOSE (New balance: $84)
+Minimax M2.1: PUSH (New balance: $33)
+
+=== New Round #21 ===
+Xiaomi Mimo V2 Flash [xiaomi/mimo-v2-flash] bets $5
+  Reasoning: "With a $5 balance and a minimum bet of $5, I must bet the full amount to stay in the game. Given my low balance, I'm playing a high-risk, all-in strategy to maximize potential winnings while accepting the possibility of immediate loss."
+ByteDance Seed 1.6 [bytedance-seed/seed-1.6] bets $10
+  Reasoning: "A $10 bet is moderate risk for my $84 balance, avoiding overcommitting while maintaining meaningful potential returns relative to Xiaomi Mimo V2 Flash's minimal $5 bet."
+Minimax M2.1 [minimax/minimax-m2.1] bets $10
+  Reasoning: "With $33 balance, betting $10 gives me 3 buy-ins if I lose, balancing risk and reward potential. This moderate bet allows me to grow my bankroll while maintaining reasonable risk management, and it positions me competitively relative to the other players' bets."
+Dealer shows: A♠ ??
+Xiaomi Mimo V2 Flash: J♣ 7♥ (17)
+ByteDance Seed 1.6: 10♣ A♦ (Blackjack)
+Minimax M2.1: Q♦ 9♥ (19)
+Xiaomi Mimo V2 Flash [xiaomi/mimo-v2-flash]: Stand
+  Reasoning: "I have a hard 17, which is a strong hand. The dealer shows an Ace, but standing is generally correct with 17 unless the dealer is known to be weak, which we don't know. The other players have strong hands (21 and 19), but that doesn't affect my decision against the dealer."
+  Stands with J♣ 7♥ (17)
+ByteDance Seed 1.6 has Blackjack.
+Minimax M2.1 [minimax/minimax-m2.1]: Stand
+  Reasoning: "With a hard 19 against a dealer's Ace, standing is the optimal play. The risk of busting by hitting is too high (92% chance of busting), and 19 is already a strong total."
+  Stands with Q♦ 9♥ (19)
+
+Dealer reveals: A♠ Q♣ (Blackjack)
+Dealer has Blackjack!
+
+=== Results ===
+Xiaomi Mimo V2 Flash: LOSE (New balance: $0)
+ByteDance Seed 1.6: PUSH (New balance: $84)
+Minimax M2.1: LOSE (New balance: $23)
+Xiaomi Mimo V2 Flash is eliminated (Balance: $0).
+
+=== New Round #22 ===
+ByteDance Seed 1.6 [bytedance-seed/seed-1.6] bets $10
+  Reasoning: "A $10 bet stays within safe balance bounds ($84 total) to avoid unnecessary risk. It also maintains a meaningful stake to capitalize on favorable hands without being swayed by the lower-balance Minimax M2.1's unplaced bet."
+Minimax M2.1 [minimax/minimax-m2.1] bets $5
+  Reasoning: "With a small bankroll of $23, I should be conservative and bet the minimum $5 to extend my playing time and minimize risk of going broke quickly."
+Dealer shows: 3♦ ??
+ByteDance Seed 1.6: 5♥ 10♦ (15)
+Minimax M2.1: 8♥ 6♥ (14)
+ByteDance Seed 1.6 [bytedance-seed/seed-1.6]: Stand
+  Reasoning: "My hard 15 against the dealer's low 3♦ minimizes bust risk by standing, as the dealer has a higher likelihood of busting with their weak up card."
+  Stands with 5♥ 10♦ (15)
+Minimax M2.1 [minimax/minimax-m2.1]: Stand
+  Reasoning: "Dealer showing 3 is a weak upcard with high bust probability (~37%). Basic strategy recommends standing on 12-17 against dealer 2-6. My 14 is strong enough to potentially win if dealer busts, and hitting risks busting with the many cards (7-10, K, Q, J) that would push me over 21."
+  Stands with 8♥ 6♥ (14)
+
+Dealer reveals: 3♦ 3♣ (6)
+Dealer draws 8♠ -> 3♦ 3♣ 8♠ (14)
+Dealer draws 7♦ -> 3♦ 3♣ 8♠ 7♦ (21)
+Dealer stands with 3♦ 3♣ 8♠ 7♦ (21)
+
+=== Results ===
+ByteDance Seed 1.6: LOSE (New balance: $74)
+Minimax M2.1: LOSE (New balance: $18)
+
+=== New Round #23 ===
+ByteDance Seed 1.6 [bytedance-seed/seed-1.6] bets $10
+  Reasoning: "Betting $10 strikes a moderate risk balance, preserving most of my $74 balance for future hands while accounting for the other player’s limited $18 betting capacity."
+Minimax M2.1 [minimax/minimax-m2.1] bets $5
+  Reasoning: "With only $18 total bankroll and ability to make only 3-4 minimum bets, I must be conservative. Betting minimum preserves my limited funds and gives me more opportunities to play."
+Dealer shows: 8♠ ??
+ByteDance Seed 1.6: J♣ 6♥ (16)
+Minimax M2.1: 4♠ 9♣ (13)
+ByteDance Seed 1.6 [bytedance-seed/seed-1.6]: Hit
+  Reasoning: "With a hard 16 against the dealer's 8, basic blackjack strategy recommends hitting to improve the hand's value. Standing on 16 here carries a low probability of beating the dealer’s likely strong final hand."
+  Drew 9♥ -> J♣ 6♥ 9♥ (BUST 25)
+  ByteDance Seed 1.6 BUSTS!
+Minimax M2.1 [minimax/minimax-m2.1]: Hit
+  Reasoning: "With 13 against a dealer's 8, I need to improve my hand. 8 of 13 remaining card values (A-8) won't bust me, giving me a 61.5% chance to improve. Standing on 13 against a strong dealer 8 leaves me unlikely to win."
+  Drew K♥ -> 4♠ 9♣ K♥ (BUST 23)
+  Minimax M2.1 BUSTS!
+
+Dealer reveals: 8♠ 10♥ (18)
+Dealer stands with 8♠ 10♥ (18)
+
+=== Results ===
+ByteDance Seed 1.6: LOSE (New balance: $64)
+Minimax M2.1: LOSE (New balance: $13)
+
+=== New Round #24 ===
+ByteDance Seed 1.6 [bytedance-seed/seed-1.6] bets $10
+  Reasoning: "Betting $10 is a moderate risk that aligns with my $64 balance and the $5 minimum. The other player’s $13 balance caps their maximum bet, eliminating the need for overcommitting to counter them."
+Minimax M2.1 [minimax/minimax-m2.1] bets $5
+  Reasoning: "With only $13 total and a minimum bet of $5, I should bet conservatively to minimize risk. The other player is betting aggressively at $10, so I'll preserve my limited bankroll and wait for a better opportunity."
+Dealer shows: 10♦ ??
+ByteDance Seed 1.6: J♥ 10♠ (20)
+Minimax M2.1: 4♥ J♦ (14)
+ByteDance Seed 1.6 [bytedance-seed/seed-1.6]: Stand
+  Reasoning: "A hand value of 20 is highly strong against the dealer's 10♦, and hitting or doubling down would only risk busting or diminishing potential gains."
+  Stands with J♥ 10♠ (20)
+Minimax M2.1 [minimax/minimax-m2.1]: Hit
+  Reasoning: "At 14 against a dealer's 10, I'm in a weak position. Standing would likely lose to a dealer 20 or 21, so hitting gives me a chance to improve, despite the bust risk."
+  Drew 9♦ -> 4♥ J♦ 9♦ (BUST 23)
+  Minimax M2.1 BUSTS!
+
+Dealer reveals: 10♦ 8♣ (18)
+Dealer stands with 10♦ 8♣ (18)
+
+=== Results ===
+ByteDance Seed 1.6: WIN! Wins $10 (New balance: $74)
+Minimax M2.1: LOSE (New balance: $8)
+
+=== New Round #25 ===
+ByteDance Seed 1.6 [bytedance-seed/seed-1.6] bets $10
+  Reasoning: "I bet $10 to maintain moderate risk with my $74 balance. Minimax M2.1’s $8 balance limits their maximum bet, so my wager keeps me in a strong positional spot without overexposing capital."
+Minimax M2.1 [minimax/minimax-m2.1] bets $5
+  Reasoning: "With only $8 total and minimum bet $5, I can only afford 1-2 hands. Betting $5 preserves bankroll and maximizes chances of staying in the game longer."
+Dealer shows: 6♥ ??
+ByteDance Seed 1.6: Q♣ 2♦ (12)
+Minimax M2.1: 6♠ K♣ (16)
+ByteDance Seed 1.6 [bytedance-seed/seed-1.6]: Stand
+  Reasoning: "Basic strategy recommends standing on hard 12 against a dealer's weak 6♥ to avoid busting. The dealer has a high likelihood of busting when forced to hit on a potential 16."
+  Stands with Q♣ 2♦ (12)
+Minimax M2.1 [minimax/minimax-m2.1]: Stand
+  Reasoning: "With hard 16 against dealer's 6, basic strategy dictates standing. Dealer showing 6 is a weak bust card, and my 16 is strong enough to win if dealer busts while hitting risks immediate bust."
+  Stands with 6♠ K♣ (16)
+
+Dealer reveals: 6♥ 5♥ (11)
+Dealer draws A♥ -> 6♥ 5♥ A♥ (12)
+Dealer draws 6♥ -> 6♥ 5♥ A♥ 6♥ (18)
+Dealer stands with 6♥ 5♥ A♥ 6♥ (18)
+
+=== Results ===
+ByteDance Seed 1.6: LOSE (New balance: $64)
+Minimax M2.1: LOSE (New balance: $3)
+Minimax M2.1 is eliminated (Balance: $3).
+Winner: ByteDance Seed 1.6 (Balance: $64)
+
+Token usage by model:
+baidu/ernie-4.5-21b-a3b-thinking: input=8689, output=37192, total=45881
+bytedance-seed/seed-1.6: input=17418, output=14331, total=31749
+minimax/minimax-m2.1: input=13927, output=20275, total=34202
+xiaomi/mimo-v2-flash: input=12699, output=3083, total=15782
+Game duration: 00:21:27

@@ -1,0 +1,845 @@
+=== Game Start ===
+Trinity Mini joins the game with balance: $50
+Essential RNJ-1 Instruct joins the game with balance: $50
+LiquidAI LFM2 8B A1B joins the game with balance: $50
+Command R7B joins the game with balance: $50
+DeepCogito V2.1-671B joins the game with balance: $50
+AllenAI Olmo 3.1-32B Think joins the game with balance: $50
+
+=== New Round #1 ===
+Trinity Mini [arcee-ai/trinity-mini] bets $25
+  Reasoning: "Bet $25 to balance risk and potential reward while preserving capital. This moderate stake allows participation without excessive exposure, considering all players start with equal resources and the house edge."
+Essential RNJ-1 Instruct [essentialai/rnj-1-instruct] bets $10
+  Reasoning: "I bet $10 to balance moderate risk while observing other players' actions and potential table dynamics."
+LiquidAI LFM2 8B A1B [liquid/lfm2-8b-a1b] bets $10
+  Reasoning: "Low bet to stay in the game while minimizing risk; Trinity and Essential are competitive bets, but others are not yet active—bet small to avoid losing capital while assessing table dynamics."
+Command R7B [cohere/command-r7b-12-2024] bets $20
+  Reasoning: "I choose to bet $20 as it's a balanced decision between taking a moderate risk and maintaining a stable position in the game. With a smaller bet, I aim to observe the other players' moves while still contributing to the pot."
+DeepCogito V2.1-671B [deepcogito/cogito-v2.1-671b] bets $20
+  Reasoning: "Betting $20 positions me in the mid-range of current bets, balancing risk with potential reward while maintaining sufficient bankroll for future hands."
+AllenAI Olmo 3.1-32B Think [allenai/olmo-3.1-32b-think] bets $25
+  Reasoning: "Matching the highest current bet to remain competitive while managing risk with a 50% stake."
+Dealer shows: 3♥ ??
+Trinity Mini: 2♦ J♥ (12)
+Essential RNJ-1 Instruct: 9♠ Q♥ (19)
+LiquidAI LFM2 8B A1B: 6♦ 10♠ (16)
+Command R7B: 3♠ 3♥ (6)
+DeepCogito V2.1-671B: 9♣ 10♥ (19)
+AllenAI Olmo 3.1-32B Think: J♣ 2♥ (12)
+Trinity Mini [arcee-ai/trinity-mini]: Hit
+  Reasoning: "Dealer's weak up card (3) favors hitting to improve a stiff hand (12) before potential dealer bust."
+  Drew K♣ -> 2♦ J♥ K♣ (BUST 22)
+  Trinity Mini BUSTS!
+Essential RNJ-1 Instruct [essentialai/rnj-1-instruct]: Stand
+  Reasoning: "Already have strong 19; dealer's 3 is weak upcard. No need to risk busting with additional cards."
+  Stands with 9♠ Q♥ (19)
+LiquidAI LFM2 8B A1B [liquid/lfm2-8b-a1b]: Stand
+  Reasoning: "Dealer's 3♥ risks busting; my 16 is solid against busting dealer, and remaining hands suggest dealer has a strong starting hand. Standing avoids risk and preserves $40."
+  Stands with 6♦ 10♠ (16)
+Command R7B [cohere/command-r7b-12-2024]: Stand
+  Reasoning: "My hand is a natural split of 6, which is a strong starting hand. The dealer's up card is a 3 of hearts, which is relatively weak, so standing should give me a good chance of winning without risk of busting."
+  Stands with 3♠ 3♥ (6)
+DeepCogito V2.1-671B [deepcogito/cogito-v2.1-671b]: Stand
+  Reasoning: "With a hard 19 against dealer's 3, standing is optimal since the dealer has a high chance of busting and improving beyond 19 is unlikely."
+  Stands with 9♣ 10♥ (19)
+AllenAI Olmo 3.1-32B Think [allenai/olmo-3.1-32b-think]: Hit
+  Reasoning: "Dealer's 3 is weak; hitting to improve hand below 17 is statistically favorable despite bust risk."
+  Drew 6♠ -> J♣ 2♥ 6♠ (18)
+AllenAI Olmo 3.1-32B Think [allenai/olmo-3.1-32b-think]: Stand
+  Reasoning: "18 is a strong hand; hitting risks busting while dealer's weak upcard has limited impact here."
+  Stands with J♣ 2♥ 6♠ (18)
+
+Dealer reveals: 3♥ 6♠ (9)
+Dealer draws 4♠ -> 3♥ 6♠ 4♠ (13)
+Dealer draws 5♠ -> 3♥ 6♠ 4♠ 5♠ (18)
+Dealer stands with 3♥ 6♠ 4♠ 5♠ (18)
+
+=== Results ===
+Trinity Mini: LOSE (New balance: $25)
+Essential RNJ-1 Instruct: WIN! Wins $10 (New balance: $60)
+LiquidAI LFM2 8B A1B: LOSE (New balance: $40)
+Command R7B: LOSE (New balance: $30)
+DeepCogito V2.1-671B: WIN! Wins $20 (New balance: $70)
+AllenAI Olmo 3.1-32B Think: PUSH (New balance: $50)
+
+=== New Round #2 ===
+Trinity Mini [arcee-ai/trinity-mini] bets $10
+  Reasoning: "Confident in current hand and aiming to engage without overextending resources."
+Essential RNJ-1 Instruct [essentialai/rnj-1-instruct] bets $15
+  Reasoning: "I'm betting $15 to stay within a moderate risk range, considering my balance and the minimum bet requirements of other players. This amount allows flexibility while maintaining strategic positioning."
+LiquidAI LFM2 8B A1B [liquid/lfm2-8b-a1b] bets $10
+  Reasoning: "I bet $10 to stay comfortably aggressive while minimizing risk, leveraging the table’s weak players and my $40 balance to extend my session without overexposure."
+Command R7B [cohere/command-r7b-12-2024] bets $15
+  Reasoning: "I observe that the table has an active player (LiquidAI) and a dormant player (DeepCogito). I decide to take a moderate risk by doubling my bet to match LiquidAI's current bet. This allows me to potentially increase my chances of winning while maintaining a balanced approach."
+DeepCogito V2.1-671B [deepcogito/cogito-v2.1-671b] bets $15
+  Reasoning: "Matching the middle-range bets at the table while maintaining a conservative bankroll management strategy with 4.7x the minimum bet."
+AllenAI Olmo 3.1-32B Think [allenai/olmo-3.1-32b-think] bets $15
+  Reasoning: "Matching higher bets to stay competitive while maintaining a balanced risk level."
+Dealer shows: 4♥ ??
+Trinity Mini: 3♠ 8♣ (11)
+Essential RNJ-1 Instruct: 10♣ 6♠ (16)
+LiquidAI LFM2 8B A1B: 4♣ 3♣ (7)
+Command R7B: 4♦ Q♠ (14)
+DeepCogito V2.1-671B: A♣ Q♦ (Blackjack)
+AllenAI Olmo 3.1-32B Think: 3♦ 3♦ (6)
+Trinity Mini [arcee-ai/trinity-mini]: DoubleDown
+  Reasoning: "Double down on a hard 11 against a dealer's 4. Dealer's low card increases bust probability, and doubling maximizes potential profit with favorable odds."
+  Doubled down, drew K♦ -> 3♠ 8♣ K♦ (21) (Bet: $20)
+Essential RNJ-1 Instruct [essentialai/rnj-1-instruct]: Hit
+  Reasoning: "The dealer's 4 is a weak up card, but my 16 is borderline. Trinity and DeepCogito have strong hands, but LiquidAI, Command, and AllenAI have weak hands, making it less likely they'll draw attention. Since the dealer has a low up card, I can afford to take a risk with a Hit instead of standing on 16."
+  Drew K♠ -> 10♣ 6♠ K♠ (BUST 26)
+  Essential RNJ-1 Instruct BUSTS!
+LiquidAI LFM2 8B A1B [liquid/lfm2-8b-a1b]: Stand
+  Reasoning: "Dealer shows 4, hand value 7 is strong but below 21; DeepCogito holds a blackjack while others bust. Standing preserves $10 on solid foundation with minimal risk."
+  Stands with 4♣ 3♣ (7)
+Command R7B [cohere/command-r7b-12-2024]: Hit
+  Reasoning: "My hand is strong, but the dealer's 4♥ is a low card, so I'll hit to see if I can get closer to 21 without busting."
+  Drew 7♥ -> 4♦ Q♠ 7♥ (21)
+Command R7B [cohere/command-r7b-12-2024]: Stand
+  Reasoning: "My hand is now a natural blackjack, and the dealer's up card is a 4♥. I have a strong hand and it's unlikely that I'll improve without busting other players, so I'll stand pat."
+  Stands with 4♦ Q♠ 7♥ (21)
+DeepCogito V2.1-671B has Blackjack.
+AllenAI Olmo 3.1-32B Think [allenai/olmo-3.1-32b-think]: Hit
+  Reasoning: "Low hand total of 6 requires hitting to increase chances of reaching a strong hand. Dealer's 4 upcard suggests they may need to draw multiple cards."
+  Drew 8♠ -> 3♦ 3♦ 8♠ (14)
+AllenAI Olmo 3.1-32B Think [allenai/olmo-3.1-32b-think]: Hit
+  Reasoning: "Hand total 14 is below 17; hitting aims to reach a stronger hand against dealer's low upcard."
+  Drew Q♠ -> 3♦ 3♦ 8♠ Q♠ (BUST 24)
+  AllenAI Olmo 3.1-32B Think BUSTS!
+
+Dealer reveals: 4♥ 8♥ (12)
+Dealer draws Q♦ -> 4♥ 8♥ Q♦ (BUST 22)
+Dealer BUSTS!
+
+=== Results ===
+Trinity Mini: WIN! Wins $20 (New balance: $45)
+Essential RNJ-1 Instruct: LOSE (New balance: $45)
+LiquidAI LFM2 8B A1B: WIN! Wins $10 (New balance: $50)
+Command R7B: WIN! Wins $15 (New balance: $45)
+DeepCogito V2.1-671B: BLACKJACK! Wins $37 (New balance: $92)
+AllenAI Olmo 3.1-32B Think: LOSE (New balance: $35)
+
+=== New Round #3 ===
+Trinity Mini [arcee-ai/trinity-mini] bets $20
+  Reasoning: "Betting $20 balances competitiveness with risk management, maintaining a substantial portion of my bankroll while signaling strength to opponents."
+Essential RNJ-1 Instruct [essentialai/rnj-1-instruct] bets $5
+  Reasoning: "I'm betting the minimum $5 to conserve my balance while monitoring the table. With $45 total and other players having varying balances, maintaining flexibility allows me to adjust strategy based on unfolding cards and other players' actions."
+LiquidAI LFM2 8B A1B [liquid/lfm2-8b-a1b] bets $10
+  Reasoning: "Low-risk bet to build momentum against tight players; balanced against deep pockets and active competitors without overcommitting."
+Command R7B [cohere/command-r7b-12-2024] bets $20
+  Reasoning: "I'll match the highest bet made at the table to maintain a competitive edge. This is a strategic move to avoid giving any advantage to other players who might have a higher bet."
+DeepCogito V2.1-671B [deepcogito/cogito-v2.1-671b] bets $10
+  Reasoning: "A $10 bet is conservative yet competitive, keeping me in the game while maintaining a healthy bankroll for future hands given the table's betting range of $5-20."
+AllenAI Olmo 3.1-32B Think [allenai/olmo-3.1-32b-think] bets $15
+  Reasoning: "Betting $15 balances risk management with competitive stakes, considering my $35 balance and opponents' varied bets."
+Dealer shows: Q♠ ??
+Trinity Mini: Q♦ 3♣ (13)
+Essential RNJ-1 Instruct: A♥ 7♣ (18 soft)
+LiquidAI LFM2 8B A1B: 7♦ K♠ (17)
+Command R7B: 4♦ Q♣ (14)
+DeepCogito V2.1-671B: 10♦ 8♥ (18)
+AllenAI Olmo 3.1-32B Think: 3♠ 8♥ (11)
+Trinity Mini [arcee-ai/trinity-mini]: Hit
+  Reasoning: "13 is a weak hand requiring improvement; dealer's Q♠ suggests possible 20 but hitting offers chance to reach 17-20 without doubling down risk."
+  Drew 5♦ -> Q♦ 3♣ 5♦ (18)
+Trinity Mini [arcee-ai/trinity-mini]: Stand
+  Reasoning: "Current hand totals 18, a strong position against dealer's Q♠ (likely 20). Standing avoids busting risk while capitalizing on dealer's likely strong hand."
+  Stands with Q♦ 3♣ 5♦ (18)
+Essential RNJ-1 Instruct [essentialai/rnj-1-instruct]: Stand
+  Reasoning: "With a strong 18 and the dealer showing a Queen, I have a good chance of winning. Standing avoids potential busts and leverages my strong position."
+  Stands with A♥ 7♣ (18 soft)
+LiquidAI LFM2 8B A1B [liquid/lfm2-8b-a1b]: Hit
+  Reasoning: "With 17, a hard 17 vs dealer's Q♠ (showing strong hand) and multiple high-value players (18s), standing risks losing to bust or dealer’s strong upcard. Hit improves to potentially make 19–20 and capitalize on dealer exposure."
+  Drew J♦ -> 7♦ K♠ J♦ (BUST 27)
+  LiquidAI LFM2 8B A1B BUSTS!
+Command R7B [cohere/command-r7b-12-2024]: Hit
+  Reasoning: "I need to get closer to 21 without busting. The dealer's up card is a Queen, so I can expect a mix of high and low cards. I'll take a hit to see if I can reach a better hand without going over."
+  Drew 5♠ -> 4♦ Q♣ 5♠ (19)
+Command R7B [cohere/command-r7b-12-2024]: Hit
+  Reasoning: "I have a soft 19, and the dealer's up card is a Queen, which is a favorable card to draw. I'll take another hit to try to reach a better hand without busting."
+  Drew 3♥ -> 4♦ Q♣ 5♠ 3♥ (BUST 22)
+  Command R7B BUSTS!
+DeepCogito V2.1-671B [deepcogito/cogito-v2.1-671b]: Stand
+  Reasoning: "Standing on 18 is the statistically correct play against a dealer's 10, as the risk of busting is too high and the dealer has a good chance of having a strong hand."
+  Stands with 10♦ 8♥ (18)
+AllenAI Olmo 3.1-32B Think [allenai/olmo-3.1-32b-think]: Hit
+  Reasoning: "Hard 11 should always hit to improve the hand, as busting is impossible on the next card and the dealer's strong upcard requires maximizing total."
+  Drew A♠ -> 3♠ 8♥ A♠ (12)
+AllenAI Olmo 3.1-32B Think [allenai/olmo-3.1-32b-think]: Hit
+  Reasoning: "Hard 12 against dealer's Q requires hitting to improve hand; bust risk is low with only 10s causing it, while standing likely loses to dealer's strong upcard."
+  Drew 6♥ -> 3♠ 8♥ A♠ 6♥ (18)
+AllenAI Olmo 3.1-32B Think [allenai/olmo-3.1-32b-think]: Stand
+  Reasoning: "Hard 18 is a strong hand against dealer's Q; hitting risks busting with any card 4 or higher, while standing avoids risk and leverages dealer's potential weak hand."
+  Stands with 3♠ 8♥ A♠ 6♥ (18)
+
+Dealer reveals: Q♠ 4♦ (14)
+Dealer draws 7♦ -> Q♠ 4♦ 7♦ (21)
+Dealer stands with Q♠ 4♦ 7♦ (21)
+
+=== Results ===
+Trinity Mini: LOSE (New balance: $25)
+Essential RNJ-1 Instruct: LOSE (New balance: $40)
+LiquidAI LFM2 8B A1B: LOSE (New balance: $40)
+Command R7B: LOSE (New balance: $25)
+DeepCogito V2.1-671B: LOSE (New balance: $82)
+AllenAI Olmo 3.1-32B Think: LOSE (New balance: $20)
+
+=== New Round #4 ===
+Trinity Mini [arcee-ai/trinity-mini] bets $25
+  Reasoning: "Bet maximum to capitalize on favorable table conditions and maximize potential winnings given my current balance."
+Essential RNJ-1 Instruct [essentialai/rnj-1-instruct] bets $5
+  Reasoning: "Betting $5 is a conservative approach given my $40 balance, minimizing risk while staying within the minimum bet requirement."
+LiquidAI LFM2 8B A1B [liquid/lfm2-8b-a1b] bets $10
+  Reasoning: "Playing $10 balances risk and position; Trinity is active but not aggressive, while others are cautious. A small bet limits downside while preserving bankroll and exploiting potential loose play."
+Command R7B [cohere/command-r7b-12-2024] bets $15
+  Reasoning: "I want to make a moderate bet to observe the game flow and assess the others' strategies. Starting with a mid-range bet allows me to control risk and potentially gain insights into the table dynamics."
+DeepCogito V2.1-671B [deepcogito/cogito-v2.1-671b] bets $20
+  Reasoning: "Betting $20 balances risk and potential reward, allowing for multiple hands while maintaining a healthy bankroll relative to the table's betting range."
+AllenAI Olmo 3.1-32B Think [allenai/olmo-3.1-32b-think] bets $10
+  Reasoning: "Opting for a moderate $10 bet to balance risk and observe opponents' higher wagers without overcommitting funds."
+Dealer shows: J♣ ??
+Trinity Mini: K♠ 5♣ (15)
+Essential RNJ-1 Instruct: 6♠ 4♣ (10)
+LiquidAI LFM2 8B A1B: 3♦ 5♥ (8)
+Command R7B: K♥ Q♦ (20)
+DeepCogito V2.1-671B: K♦ Q♠ (20)
+AllenAI Olmo 3.1-32B Think: A♠ 2♥ (13 soft)
+Trinity Mini [arcee-ai/trinity-mini]: Stand
+  Reasoning: "With a hard 15 against a dealer's 10, hitting risks busting on a 10-value card draw. The dealer's strong upcard suggests a high probability of a 10 or 11 in the hole, making standing the safer play to avoid unnecessary risk."
+  Stands with K♠ 5♣ (15)
+Essential RNJ-1 Instruct [essentialai/rnj-1-instruct]: Hit
+  Reasoning: "With a total of 10 and the dealer showing a strong J♣, I have a favorable position to improve my hand without busting. Hitting gives me the best chance to reach a stronger total than the dealer."
+  Drew 2♣ -> 6♠ 4♣ 2♣ (12)
+Essential RNJ-1 Instruct [essentialai/rnj-1-instruct]: Hit
+  Reasoning: "With a total of 12 and the dealer showing a strong J♣, I have a moderate chance to improve my hand without busting. Hitting gives me a reasonable chance to reach a stronger total than the dealer while avoiding a definitive bust."
+  Drew 5♥ -> 6♠ 4♣ 2♣ 5♥ (17)
+Essential RNJ-1 Instruct [essentialai/rnj-1-instruct]: Stand
+  Reasoning: "With a total of 17, which is a strong hand, and facing a dealer's strong J♣, standing is the best choice to avoid potentially busting. The dealer's high up card makes hitting risky, as the likelihood of improving to a stronger hand without exceeding 21 is low."
+  Stands with 6♠ 4♣ 2♣ 5♥ (17)
+LiquidAI LFM2 8B A1B [liquid/lfm2-8b-a1b]: Stand
+  Reasoning: "Dealer’s J♣ hints at a weak up card, and the high-value hands visible (17–20) suggest aggressive play. With a soft 13, standing avoids risk and preserves $30 while guarding against a bust."
+  Stands with 3♦ 5♥ (8)
+Command R7B [cohere/command-r7b-12-2024]: Hit
+  Reasoning: "The dealer's up card is a Jack of Clubs, which is a relatively strong card. My hand value is 20, which is strong but not strong enough to be a 'soft' hand. I will hit to see if I can improve my hand and potentially reach a higher value, especially since I have a low remaining balance and a small current bet."
+  Drew 8♦ -> K♥ Q♦ 8♦ (BUST 28)
+  Command R7B BUSTS!
+DeepCogito V2.1-671B [deepcogito/cogito-v2.1-671b]: Stand
+  Reasoning: "With 20, I have a very strong hand that's likely to win against the dealer's potential hands. The dealer shows J which is favorable, but standing is statistically the best play to avoid busting."
+  Stands with K♦ Q♠ (20)
+AllenAI Olmo 3.1-32B Think [allenai/olmo-3.1-32b-think]: Hit
+  Reasoning: "Soft 13 against dealer's 10 should hit to improve hand without bust risk, leveraging flexibility of soft total."
+  Drew 8♥ -> A♠ 2♥ 8♥ (21 soft)
+AllenAI Olmo 3.1-32B Think [allenai/olmo-3.1-32b-think]: Stand
+  Reasoning: "Soft 21 is a winning hand; hitting risks unnecessary exposure to potential dealer blackjack or unfavorable outcomes."
+  Stands with A♠ 2♥ 8♥ (21 soft)
+
+Dealer reveals: J♣ A♥ (Blackjack)
+Dealer has Blackjack!
+
+=== Results ===
+Trinity Mini: LOSE (New balance: $0)
+Essential RNJ-1 Instruct: LOSE (New balance: $35)
+LiquidAI LFM2 8B A1B: LOSE (New balance: $30)
+Command R7B: LOSE (New balance: $10)
+DeepCogito V2.1-671B: LOSE (New balance: $62)
+AllenAI Olmo 3.1-32B Think: LOSE (New balance: $10)
+Trinity Mini is eliminated (Balance: $0).
+
+=== New Round #5 ===
+Essential RNJ-1 Instruct [essentialai/rnj-1-instruct] bets $15
+  Reasoning: "I bet $15 to balance moderate risk with potential reward, considering my balance of $35 and the minimum bet of $5. This amount allows for strategic play while maintaining a conservative approach given the table dynamics."
+LiquidAI LFM2 8B A1B [liquid/lfm2-8b-a1b] bets $15
+  Reasoning: "The table has a mix of cautious and aggressive players; betting $15 balances risk while positioning me competitively against lower-risk players without overcommitting."
+Command R7B [cohere/command-r7b-12-2024] bets $5
+  Reasoning: "With a low balance, I want to manage risk while still trying to win. Starting with the minimum bet is a cautious approach to gauge the situation and the other players' strategies."
+DeepCogito V2.1-671B [deepcogito/cogito-v2.1-671b] bets $15
+  Reasoning: "Matching the table's dominant bet size maintains position and allows strategic flexibility while preserving sufficient bankroll for multiple hands."
+AllenAI Olmo 3.1-32B Think [allenai/olmo-3.1-32b-think] bets $10
+  Reasoning: "Maximizing potential gain with available balance while accepting high risk due to limited funds."
+Dealer shows: 6♣ ??
+Essential RNJ-1 Instruct: 9♣ J♠ (19)
+LiquidAI LFM2 8B A1B: 4♦ 4♣ (8)
+Command R7B: 3♣ 7♠ (10)
+DeepCogito V2.1-671B: Q♥ 2♠ (12)
+AllenAI Olmo 3.1-32B Think: J♥ J♥ (20)
+Essential RNJ-1 Instruct [essentialai/rnj-1-instruct]: Stand
+  Reasoning: "With a strong 19 and the dealer showing a 6 (a weak up card), standing is optimal. The dealer has a high probability of busting, and my hand is already strong enough to compete with any potential dealer total."
+  Stands with 9♣ J♠ (19)
+LiquidAI LFM2 8B A1B [liquid/lfm2-8b-a1b]: Stand
+  Reasoning: "Dealer shows 6♣ (weak up card), and the field has strong hands like Essential RNJ-1 (19) and AllenAI Olmo (20). Holding 8 against this high risk favors standing to avoid busting while minimizing loss."
+  Stands with 4♦ 4♣ (8)
+Command R7B [cohere/command-r7b-12-2024]: Hit
+  Reasoning: "My hand value of 10 is lower than the dealer's up card of 6, so I need to draw more cards to potentially reach a higher total value."
+  Drew 7♥ -> 3♣ 7♠ 7♥ (17)
+Command R7B [cohere/command-r7b-12-2024]: Hit
+  Reasoning: "My current hand value of 17 is still below the dealer's up card of 6, so I need to draw more cards to potentially reach a stronger hand."
+  Drew Q♥ -> 3♣ 7♠ 7♥ Q♥ (BUST 27)
+  Command R7B BUSTS!
+DeepCogito V2.1-671B [deepcogito/cogito-v2.1-671b]: Hit
+  Reasoning: "With a soft 12 (Ace counting as 1) and dealer showing a weak 6, hitting is the statistically correct play as the dealer has a high chance of busting, and we have room to improve our hand."
+  Drew Q♣ -> Q♥ 2♠ Q♣ (BUST 22)
+  DeepCogito V2.1-671B BUSTS!
+AllenAI Olmo 3.1-32B Think [allenai/olmo-3.1-32b-think]: Stand
+  Reasoning: "20 is a strong hand, and the dealer's 6 is weak, minimizing risk of busting by hitting."
+  Stands with J♥ J♥ (20)
+
+Dealer reveals: 6♣ A♠ (17 soft)
+Dealer draws Q♠ -> 6♣ A♠ Q♠ (17)
+Dealer stands with 6♣ A♠ Q♠ (17)
+
+=== Results ===
+Essential RNJ-1 Instruct: WIN! Wins $15 (New balance: $50)
+LiquidAI LFM2 8B A1B: LOSE (New balance: $15)
+Command R7B: LOSE (New balance: $5)
+DeepCogito V2.1-671B: LOSE (New balance: $47)
+AllenAI Olmo 3.1-32B Think: WIN! Wins $10 (New balance: $20)
+
+=== New Round #6 ===
+Essential RNJ-1 Instruct [essentialai/rnj-1-instruct] bets $10
+  Reasoning: "Bet $10 to moderately capitalize on favorable odds while staying within the minimum threshold and maintaining a balanced approach given other players' conservative balances."
+LiquidAI LFM2 8B A1B [liquid/lfm2-8b-a1b] bets $10
+  Reasoning: "The table has a passive opponent at minimum bet; increasing to $10 balances risk and reward, capitalizing on low activity without overcommitting given the $15 balance."
+Command R7B [cohere/command-r7b-12-2024] bets $5
+  Reasoning: "I start with a small bet to conserve my resources and observe the other players' strategies. This allows me to gauge the table's dynamics and make more informed decisions in the future."
+DeepCogito V2.1-671B [deepcogito/cogito-v2.1-671b] bets $10
+  Reasoning: "Matching the current table bet to maintain position and pressure, while preserving bankroll for multiple hands."
+AllenAI Olmo 3.1-32B Think [allenai/olmo-3.1-32b-think] bets $10
+  Reasoning: "Aligning with competitive bets while preserving sufficient funds for future hands."
+Dealer shows: 2♥ ??
+Essential RNJ-1 Instruct: 4♣ 10♠ (14)
+LiquidAI LFM2 8B A1B: 10♦ 3♦ (13)
+Command R7B: 5♣ 2♦ (7)
+DeepCogito V2.1-671B: 8♠ 5♣ (13)
+AllenAI Olmo 3.1-32B Think: J♥ Q♣ (20)
+Essential RNJ-1 Instruct [essentialai/rnj-1-instruct]: Stand
+  Reasoning: "[Parse error, defaulting to stand] Raw: {
+  "action": "Stand",
+  "reason": "With a hand value of 14 and the dealer showing a weak 2, I have a favorable position. Standing allows me to let the other players' potentially stronger hands (like LiquidAI LFM2 and DeepCogito) take on more risk, while I benefit from the dealer's likely low-up card."
+}"
+  Stands with 4♣ 10♠ (14)
+LiquidAI LFM2 8B A1B [liquid/lfm2-8b-a1b]: Stand
+  Reasoning: "With a total of 13, standing against a high dealer up card (2) risks busting; other players show strong hands, especially AllenAI's 20, making standing the safer, value-preserving choice."
+  Stands with 10♦ 3♦ (13)
+Command R7B [cohere/command-r7b-12-2024]: Hit
+  Reasoning: "The dealer's up card is a 2, which is a weak hand. I'll hit to improve my 7 to a stronger hand."
+  Drew 9♥ -> 5♣ 2♦ 9♥ (16)
+Command R7B [cohere/command-r7b-12-2024]: Hit
+  Reasoning: "With a soft 16 and the dealer showing a 2, it's a good decision to hit to see if I can make a stronger hand."
+  Drew 3♠ -> 5♣ 2♦ 9♥ 3♠ (19)
+Command R7B [cohere/command-r7b-12-2024]: Stand
+  Reasoning: "With a total of 19 and the dealer's up card being a 2, my hand is strong enough to stand and see if the dealer busts."
+  Stands with 5♣ 2♦ 9♥ 3♠ (19)
+DeepCogito V2.1-671B [deepcogito/cogito-v2.1-671b]: Hit
+  Reasoning: "With a soft 13 against dealer's 2, the correct basic strategy is to hit to improve the hand, as standing risks losing to likely dealer improvement."
+  Drew K♦ -> 8♠ 5♣ K♦ (BUST 23)
+  DeepCogito V2.1-671B BUSTS!
+AllenAI Olmo 3.1-32B Think [allenai/olmo-3.1-32b-think]: Stand
+  Reasoning: "A hand totaling 20 is strong; hitting risks busting, while doubling is unnecessary here."
+  Stands with J♥ Q♣ (20)
+
+Dealer reveals: 2♥ 4♦ (6)
+Dealer draws A♦ -> 2♥ 4♦ A♦ (17 soft)
+Dealer draws Q♥ -> 2♥ 4♦ A♦ Q♥ (17)
+Dealer stands with 2♥ 4♦ A♦ Q♥ (17)
+
+=== Results ===
+Essential RNJ-1 Instruct: LOSE (New balance: $40)
+LiquidAI LFM2 8B A1B: LOSE (New balance: $5)
+Command R7B: WIN! Wins $5 (New balance: $10)
+DeepCogito V2.1-671B: LOSE (New balance: $37)
+AllenAI Olmo 3.1-32B Think: WIN! Wins $10 (New balance: $30)
+
+=== New Round #7 ===
+Essential RNJ-1 Instruct [essentialai/rnj-1-instruct] bets $5
+  Reasoning: "Starting with minimum bet to conserve chips while observing other players' actions before increasing risk"
+LiquidAI LFM2 8B A1B [liquid/lfm2-8b-a1b] bets $5
+  Reasoning: "With only $5 and no active bets, raising risks exposure; sticking to minimum bet preserves capital while waiting for better opportunities against cautious players."
+Command R7B [cohere/command-r7b-12-2024] bets $8
+  Reasoning: "I have a good balance and can take moderate risk. My position is advantageous with players having higher balances, so I'll increase my bet to $8 to potentially win more without exceeding my limit."
+DeepCogito V2.1-671B [deepcogito/cogito-v2.1-671b] bets $10
+  Reasoning: "Betting $10 positions me competitively against Command R7B's $8 bet while leaving sufficient bankroll for multiple hands. This moderate bet size balances risk with potential reward given my bankroll."
+AllenAI Olmo 3.1-32B Think [allenai/olmo-3.1-32b-think] bets $15
+  Reasoning: "Balancing risk with available funds and observing opponents' bets, a moderate increase to capitalize on potential wins without overcommitting."
+Dealer shows: K♣ ??
+Essential RNJ-1 Instruct: A♣ 8♦ (19 soft)
+LiquidAI LFM2 8B A1B: 7♥ K♦ (17)
+Command R7B: 5♣ 7♣ (12)
+DeepCogito V2.1-671B: 6♦ A♣ (17 soft)
+AllenAI Olmo 3.1-32B Think: 8♦ A♥ (19 soft)
+Essential RNJ-1 Instruct [essentialai/rnj-1-instruct]: Stand
+  Reasoning: "Hand value of 19 is strong against dealer's K♣. Following basic strategy, stand on 19 against any dealer up card."
+  Stands with A♣ 8♦ (19 soft)
+LiquidAI LFM2 8B A1B [liquid/lfm2-8b-a1b]: Stand
+  Reasoning: "Dealer shows K, hand value 17; I have 17 with a soft 19-value hand. Opponents show strong visible hands including AllenAI’s 19 and DeepCogito’s 17, making standing the safest to avoid bust or beating a weak dealer hit."
+  Stands with 7♥ K♦ (17)
+Command R7B [cohere/command-r7b-12-2024]: Stand
+  Reasoning: "With a hand value of 12, standing is a good strategy as it is close to the dealer's upcard of King of Clubs (value 13). Standing allows me to avoid the risk of busting and potentially losing my bet."
+  Stands with 5♣ 7♣ (12)
+DeepCogito V2.1-671B [deepcogito/cogito-v2.1-671b]: Hit
+  Reasoning: "With a soft 17 against dealer's 10, hitting is statistically the correct play to improve the hand, as there's no risk of busting and a good chance to reach 18-21."
+  Drew 9♠ -> 6♦ A♣ 9♠ (16)
+DeepCogito V2.1-671B [deepcogito/cogito-v2.1-671b]: Hit
+  Reasoning: "With a hard 16 against dealer's 10, hitting is the statistically correct play despite the risk of busting, as standing would only win if the dealer busts."
+  Drew 6♠ -> 6♦ A♣ 9♠ 6♠ (BUST 22)
+  DeepCogito V2.1-671B BUSTS!
+AllenAI Olmo 3.1-32B Think [allenai/olmo-3.1-32b-think]: Stand
+  Reasoning: "With a soft 19 against a dealer's K, the risk of busting by hitting outweighs the potential gain, and basic strategy recommends standing in this scenario."
+  Stands with 8♦ A♥ (19 soft)
+
+Dealer reveals: K♣ K♠ (20)
+Dealer stands with K♣ K♠ (20)
+
+=== Results ===
+Essential RNJ-1 Instruct: LOSE (New balance: $35)
+LiquidAI LFM2 8B A1B: LOSE (New balance: $0)
+Command R7B: LOSE (New balance: $2)
+DeepCogito V2.1-671B: LOSE (New balance: $27)
+AllenAI Olmo 3.1-32B Think: LOSE (New balance: $15)
+Command R7B is eliminated (Balance: $2).
+LiquidAI LFM2 8B A1B is eliminated (Balance: $0).
+
+=== New Round #8 ===
+Essential RNJ-1 Instruct [essentialai/rnj-1-instruct] bets $5
+  Reasoning: "I'm betting the minimum $5 to stay in the game while observing other players' strategies without risking significant capital."
+DeepCogito V2.1-671B [deepcogito/cogito-v2.1-671b] bets $8
+  Reasoning: "Betting $8 balances aggression with bankroll management, allowing for multiple hands while maintaining enough chips to double down or split if needed."
+AllenAI Olmo 3.1-32B Think [allenai/olmo-3.1-32b-think] bets $8
+  Reasoning: "Matching the higher bet to stay competitive while preserving capital for future hands."
+Dealer shows: 5♦ ??
+Essential RNJ-1 Instruct: Q♠ 5♥ (15)
+DeepCogito V2.1-671B: J♣ 6♦ (16)
+AllenAI Olmo 3.1-32B Think: 6♦ J♦ (16)
+Essential RNJ-1 Instruct [essentialai/rnj-1-instruct]: Hit
+  Reasoning: "With a dealer showing 5 (weak up card) and holding 15, I have a marginal hand that could improve to 16-21. Since the dealer is likely to bust when showing a 5, I choose to hit rather than risk doubling down with a stronger hand."
+  Drew 9♥ -> Q♠ 5♥ 9♥ (BUST 24)
+  Essential RNJ-1 Instruct BUSTS!
+DeepCogito V2.1-671B [deepcogito/cogito-v2.1-671b]: Stand
+  Reasoning: "With a hard 16 against dealer's weak upcard of 5, standing is the statistically optimal play as the dealer has a high probability of busting."
+  Stands with J♣ 6♦ (16)
+AllenAI Olmo 3.1-32B Think [allenai/olmo-3.1-32b-think]: Hit
+  Reasoning: "With a total of 16 against a dealer's 5, basic strategy advises hitting to improve the hand, as the risk of busting is less critical than the dealer's potential to reach a strong hand."
+  Drew K♠ -> 6♦ J♦ K♠ (BUST 26)
+  AllenAI Olmo 3.1-32B Think BUSTS!
+
+Dealer reveals: 5♦ K♣ (15)
+Dealer draws A♠ -> 5♦ K♣ A♠ (16)
+Dealer draws A♠ -> 5♦ K♣ A♠ A♠ (17)
+Dealer stands with 5♦ K♣ A♠ A♠ (17)
+
+=== Results ===
+Essential RNJ-1 Instruct: LOSE (New balance: $30)
+DeepCogito V2.1-671B: LOSE (New balance: $19)
+AllenAI Olmo 3.1-32B Think: LOSE (New balance: $7)
+
+=== New Round #9 ===
+Essential RNJ-1 Instruct [essentialai/rnj-1-instruct] bets $5
+  Reasoning: "Minimum bet to stay in action with lowest possible risk, conserving bankroll for potential future opportunities"
+DeepCogito V2.1-671B [deepcogito/cogito-v2.1-671b] bets $5
+  Reasoning: "Minimum bet is prudent with limited bankroll to extend playtime and wait for better opportunities, especially with only $19 balance."
+AllenAI Olmo 3.1-32B Think [allenai/olmo-3.1-32b-think] bets $5
+  Reasoning: "Conserving funds to extend playtime while minimizing risk with limited balance against opponents' conservative bets."
+Dealer shows: A♦ ??
+Essential RNJ-1 Instruct: 9♦ 9♠ (18)
+DeepCogito V2.1-671B: A♠ 6♦ (17 soft)
+AllenAI Olmo 3.1-32B Think: 10♠ 2♣ (12)
+Essential RNJ-1 Instruct [essentialai/rnj-1-instruct]: Stand
+  Reasoning: "With a strong hand of 18 and the dealer showing a weak A♦, standing is optimal. The dealer has a high chance of busting with this up card, and my hand is already strong enough to confidently stand."
+  Stands with 9♦ 9♠ (18)
+DeepCogito V2.1-671B [deepcogito/cogito-v2.1-671b]: Hit
+  Reasoning: "With a soft 17 against dealer's Ace, statistically hitting improves our position. The dealer has a strong upcard and we need to try to improve our hand rather than standing on a weak 17."
+  Drew 2♠ -> A♠ 6♦ 2♠ (19 soft)
+DeepCogito V2.1-671B [deepcogito/cogito-v2.1-671b]: Stand
+  Reasoning: "With a strong soft 19 against dealer's Ace, standing is the statistically optimal play as the risk of busting outweighs potential gains."
+  Stands with A♠ 6♦ 2♠ (19 soft)
+AllenAI Olmo 3.1-32B Think [allenai/olmo-3.1-32b-think]: Hit
+  Reasoning: "A hard 12 against dealer's Ace requires hitting per basic strategy to improve the hand, despite bust risk, as standing likely leads to loss if dealer avoids busting."
+  Drew 4♥ -> 10♠ 2♣ 4♥ (16)
+AllenAI Olmo 3.1-32B Think [allenai/olmo-3.1-32b-think]: Hit
+  Reasoning: "Hard 16 against dealer's Ace requires hitting per basic strategy to improve the hand, as standing risks losing if dealer avoids busting."
+  Drew 3♦ -> 10♠ 2♣ 4♥ 3♦ (19)
+AllenAI Olmo 3.1-32B Think [allenai/olmo-3.1-32b-think]: Stand
+  Reasoning: "Hard 19 is a strong hand; hitting risks busting with any card 3 or higher, while standing leverages the high probability of winning if the dealer doesn't have blackjack."
+  Stands with 10♠ 2♣ 4♥ 3♦ (19)
+
+Dealer reveals: A♦ 5♣ (16 soft)
+Dealer draws A♣ -> A♦ 5♣ A♣ (17 soft)
+Dealer draws 2♥ -> A♦ 5♣ A♣ 2♥ (19 soft)
+Dealer stands with A♦ 5♣ A♣ 2♥ (19 soft)
+
+=== Results ===
+Essential RNJ-1 Instruct: LOSE (New balance: $25)
+DeepCogito V2.1-671B: PUSH (New balance: $19)
+AllenAI Olmo 3.1-32B Think: PUSH (New balance: $7)
+
+=== New Round #10 ===
+Essential RNJ-1 Instruct [essentialai/rnj-1-instruct] bets $15
+  Reasoning: "Bet $15 to balance moderate risk while maintaining table position; sufficient to cover potential losses while leaving room for double down opportunities"
+DeepCogito V2.1-671B [deepcogito/cogito-v2.1-671b] bets $5
+  Reasoning: "With only $19 and other players betting large, I'll play it safe with the minimum $5 bet to preserve my bankroll and avoid busting out too quickly."
+AllenAI Olmo 3.1-32B Think [allenai/olmo-3.1-32b-think] bets $5
+  Reasoning: "Minimum bet conserves funds to sustain longer play; higher bets risk depleting limited balance quickly."
+Dealer shows: 5♣ ??
+Essential RNJ-1 Instruct: K♣ 3♠ (13)
+DeepCogito V2.1-671B: 8♠ Q♦ (18)
+AllenAI Olmo 3.1-32B Think: A♠ J♠ (Blackjack)
+Essential RNJ-1 Instruct [essentialai/rnj-1-instruct]: Hit
+  Reasoning: "With a starting total of 13 and the dealer showing a 5, the risk of busting is moderate. Since the dealer has a weak up card, there's a good chance they will improve, but my hand is also vulnerable to exceeding 21 with just one additional card. Taking a hit gives me the opportunity to improve my hand without committing to a full double down."
+  Drew 2♣ -> K♣ 3♠ 2♣ (15)
+Essential RNJ-1 Instruct [essentialai/rnj-1-instruct]: Stand
+  Reasoning: "Having improved to a total of 15, which is a solid hand against the dealer's 5, it's now optimal to stand and let the dealer risk busting. With a remaining balance of $10, conserving chips is important, and standing reduces the risk of exceeding 21."
+  Stands with K♣ 3♠ 2♣ (15)
+DeepCogito V2.1-671B [deepcogito/cogito-v2.1-671b]: Stand
+  Reasoning: "With 18 against dealer's 5, the mathematical play is to stand as the dealer has a high chance of busting with a weak upcard, and improving a hard 18 is very risky."
+  Stands with 8♠ Q♦ (18)
+AllenAI Olmo 3.1-32B Think has Blackjack.
+
+Dealer reveals: 5♣ 10♣ (15)
+Dealer draws K♣ -> 5♣ 10♣ K♣ (BUST 25)
+Dealer BUSTS!
+
+=== Results ===
+Essential RNJ-1 Instruct: WIN! Wins $15 (New balance: $40)
+DeepCogito V2.1-671B: WIN! Wins $5 (New balance: $24)
+AllenAI Olmo 3.1-32B Think: BLACKJACK! Wins $12 (New balance: $14)
+
+=== New Round #11 ===
+Essential RNJ-1 Instruct [essentialai/rnj-1-instruct] bets $5
+  Reasoning: "I'm betting the minimum $5 to stay in the game and observe other players' actions without risking significant losses."
+DeepCogito V2.1-671B [deepcogito/cogito-v2.1-671b] bets $10
+  Reasoning: "Betting half the table minimum shows confidence while preserving bankroll for multiple hands, and positions me well relative to the other players' stacks."
+AllenAI Olmo 3.1-32B Think [allenai/olmo-3.1-32b-think] bets $5
+  Reasoning: "Low balance necessitates conservative betting to preserve funds and maintain playable stack."
+Dealer shows: J♣ ??
+Essential RNJ-1 Instruct: 4♥ Q♦ (14)
+DeepCogito V2.1-671B: 10♦ 5♥ (15)
+AllenAI Olmo 3.1-32B Think: 7♥ 3♥ (10)
+Essential RNJ-1 Instruct [essentialai/rnj-1-instruct]: Stand
+  Reasoning: "With a strong 14 and the dealer showing a 10-value card, it's optimal to stand against this stiff dealer upcard. The dealer is likely to have a strong hand (17+), and hitting could risk busting on a stiff total."
+  Stands with 4♥ Q♦ (14)
+DeepCogito V2.1-671B [deepcogito/cogito-v2.1-671b]: Hit
+  Reasoning: "With a hard 15 against dealer's J, basic strategy dictates hitting since standing has a high chance of losing to dealer's strong upcard."
+  Drew 3♠ -> 10♦ 5♥ 3♠ (18)
+DeepCogito V2.1-671B [deepcogito/cogito-v2.1-671b]: Stand
+  Reasoning: "With a hard 18, the risk of busting by hitting is too high, and the dealer's J upcard gives them a good chance to make a strong hand, so standing is the optimal play."
+  Stands with 10♦ 5♥ 3♠ (18)
+AllenAI Olmo 3.1-32B Think [allenai/olmo-3.1-32b-think]: Hit
+  Reasoning: "With a low total of 10 against a dealer's strong upcard (J), hitting is necessary to improve the hand toward a stronger total."
+  Drew 10♥ -> 7♥ 3♥ 10♥ (20)
+AllenAI Olmo 3.1-32B Think [allenai/olmo-3.1-32b-think]: Stand
+  Reasoning: "A total of 20 is a strong hand; hitting risks busting with a high probability due to the dealer's strong upcard (J), making standing the optimal choice."
+  Stands with 7♥ 3♥ 10♥ (20)
+
+Dealer reveals: J♣ 6♠ (16)
+Dealer draws 8♥ -> J♣ 6♠ 8♥ (BUST 24)
+Dealer BUSTS!
+
+=== Results ===
+Essential RNJ-1 Instruct: WIN! Wins $5 (New balance: $45)
+DeepCogito V2.1-671B: WIN! Wins $10 (New balance: $34)
+AllenAI Olmo 3.1-32B Think: WIN! Wins $5 (New balance: $19)
+
+=== New Round #12 ===
+Essential RNJ-1 Instruct [essentialai/rnj-1-instruct] bets $5
+  Reasoning: "Minimum bet to maintain table presence and observe other players' strategies before potentially increasing bets as the game progresses."
+DeepCogito V2.1-671B [deepcogito/cogito-v2.1-671b] bets $10
+  Reasoning: "Betting $10 balances aggression with risk management, leaving room for multiple hands while maintaining enough bankroll to capitalize on good hands."
+AllenAI Olmo 3.1-32B Think [allenai/olmo-3.1-32b-think] bets $10
+  Reasoning: "Matching the higher bet to stay competitive while preserving adequate funds for subsequent rounds."
+Dealer shows: K♦ ??
+Essential RNJ-1 Instruct: 6♥ 3♣ (9)
+DeepCogito V2.1-671B: Q♥ 10♥ (20)
+AllenAI Olmo 3.1-32B Think: 5♥ 10♠ (15)
+Essential RNJ-1 Instruct [essentialai/rnj-1-instruct]: DoubleDown
+  Reasoning: "Dealer shows a strong K♦, and with a 9, doubling down maximizes potential gain before likely dealer bust."
+  Doubled down, drew 9♥ -> 6♥ 3♣ 9♥ (18) (Bet: $10)
+DeepCogito V2.1-671B [deepcogito/cogito-v2.1-671b]: Stand
+  Reasoning: "With 20, you have a very strong hand that's unlikely to bust. Standing is the optimal play as hitting risks busting with any card 10 or higher."
+  Stands with Q♥ 10♥ (20)
+AllenAI Olmo 3.1-32B Think [allenai/olmo-3.1-32b-think]: Stand
+  Reasoning: "With a dealer's strong upcard (K), standing on 15 minimizes bust risk and aligns with basic strategy, as improving to a winning hand is unlikely without exceeding 21."
+  Stands with 5♥ 10♠ (15)
+
+Dealer reveals: K♦ 4♣ (14)
+Dealer draws 6♣ -> K♦ 4♣ 6♣ (20)
+Dealer stands with K♦ 4♣ 6♣ (20)
+
+=== Results ===
+Essential RNJ-1 Instruct: LOSE (New balance: $35)
+DeepCogito V2.1-671B: PUSH (New balance: $34)
+AllenAI Olmo 3.1-32B Think: LOSE (New balance: $9)
+
+=== New Round #13 ===
+Essential RNJ-1 Instruct [essentialai/rnj-1-instruct] bets $10
+  Reasoning: "Bet $10 to balance risk with potential return, as it's a moderate amount that allows for strategic play without putting too much at stake."
+DeepCogito V2.1-671B [deepcogito/cogito-v2.1-671b] bets $8
+  Reasoning: "With a short stack and position advantage, I'm betting moderately to preserve capital while still applying pressure on later positions."
+AllenAI Olmo 3.1-32B Think [allenai/olmo-3.1-32b-think] bets $5
+  Reasoning: "With a low balance of $9, betting the minimum $5 preserves funds and minimizes risk while observing others' higher bets."
+Dealer shows: 7♦ ??
+Essential RNJ-1 Instruct: Q♣ K♠ (20)
+DeepCogito V2.1-671B: 5♣ 9♥ (14)
+AllenAI Olmo 3.1-32B Think: 7♠ 8♣ (15)
+Essential RNJ-1 Instruct [essentialai/rnj-1-instruct]: Stand
+  Reasoning: "With a strong 20, I stand to avoid the risk of busting while the dealer shows a 7, which is a moderate up card."
+  Stands with Q♣ K♠ (20)
+DeepCogito V2.1-671B [deepcogito/cogito-v2.1-671b]: Hit
+  Reasoning: "With a soft 14 (Ace counted as 1) against dealer's 7, hitting is the statistically correct play to improve a weak hand, despite the risk of busting."
+  Drew 10♦ -> 5♣ 9♥ 10♦ (BUST 24)
+  DeepCogito V2.1-671B BUSTS!
+AllenAI Olmo 3.1-32B Think [allenai/olmo-3.1-32b-think]: Hit
+  Reasoning: "Hitting 15 against dealer's 7 maximizes chance to reach 17+ before risking bust, as dealer's upcard suggests strong hand."
+  Drew K♥ -> 7♠ 8♣ K♥ (BUST 25)
+  AllenAI Olmo 3.1-32B Think BUSTS!
+
+Dealer reveals: 7♦ 9♣ (16)
+Dealer draws K♠ -> 7♦ 9♣ K♠ (BUST 26)
+Dealer BUSTS!
+
+=== Results ===
+Essential RNJ-1 Instruct: WIN! Wins $10 (New balance: $45)
+DeepCogito V2.1-671B: LOSE (New balance: $26)
+AllenAI Olmo 3.1-32B Think: LOSE (New balance: $4)
+AllenAI Olmo 3.1-32B Think is eliminated (Balance: $4).
+
+=== New Round #14 ===
+Essential RNJ-1 Instruct [essentialai/rnj-1-instruct] bets $5
+  Reasoning: "Minimum bet to stay in the game with $45 balance while waiting for better opportunities"
+DeepCogito V2.1-671B [deepcogito/cogito-v2.1-671b] bets $10
+  Reasoning: "Betting $10 allows for multiple hands at the minimum bet if needed, while maintaining enough bankroll to double down or split if the opportunity arises."
+Dealer shows: 10♣ ??
+Essential RNJ-1 Instruct: J♦ 5♠ (15)
+DeepCogito V2.1-671B: A♥ 9♠ (20 soft)
+Essential RNJ-1 Instruct [essentialai/rnj-1-instruct]: Hit
+  Reasoning: "With a 15 against a dealer 10, basic strategy calls for hitting. The dealer has a strong upcard, and my hand is less than 17, so I need to improve without exceeding 21."
+  Drew K♠ -> J♦ 5♠ K♠ (BUST 25)
+  Essential RNJ-1 Instruct BUSTS!
+DeepCogito V2.1-671B [deepcogito/cogito-v2.1-671b]: Stand
+  Reasoning: "With a soft 20, I have a very strong hand that's highly likely to win against the dealer's 10 up card. Standing is the optimal play as hitting risks busting an already excellent hand."
+  Stands with A♥ 9♠ (20 soft)
+
+Dealer reveals: 10♣ J♠ (20)
+Dealer stands with 10♣ J♠ (20)
+
+=== Results ===
+Essential RNJ-1 Instruct: LOSE (New balance: $40)
+DeepCogito V2.1-671B: PUSH (New balance: $26)
+
+=== New Round #15 ===
+Essential RNJ-1 Instruct [essentialai/rnj-1-instruct] bets $20
+  Reasoning: "I'm betting $20 to position myself as a significant player without being overly aggressive, given my $40 balance. This amount allows me to stay competitive while maintaining flexibility."
+DeepCogito V2.1-671B [deepcogito/cogito-v2.1-671b] bets $13
+  Reasoning: "With a balance of $26 and a $5 minimum, I'm betting 50% of my stack ($13) to balance risk while maintaining enough funds for multiple hands. This allows me to stay competitive with the other player's $20 bet while managing my bankroll responsibly."
+Dealer shows: K♦ ??
+Essential RNJ-1 Instruct: A♦ 5♠ (16 soft)
+DeepCogito V2.1-671B: 10♣ K♠ (20)
+Essential RNJ-1 Instruct [essentialai/rnj-1-instruct]: Hit
+  Reasoning: "With a soft 16 and dealer showing a strong K♦, I have flexibility to improve my hand without risk of busting. The dealer's high card requires caution."
+  Drew 6♦ -> A♦ 5♠ 6♦ (12)
+Essential RNJ-1 Instruct [essentialai/rnj-1-instruct]: Hit
+  Reasoning: "With a 12 and dealer showing a K♦, I continue to improve my hand while avoiding the risk of busting with a single hit."
+  Drew 4♦ -> A♦ 5♠ 6♦ 4♦ (16)
+Essential RNJ-1 Instruct [essentialai/rnj-1-instruct]: Stand
+  Reasoning: "With a 16 and dealer showing K♦, I maintain my hand as I've already improved to 16 from the initial soft 16. The dealer's strong card requires caution, and standing reduces potential losses."
+  Stands with A♦ 5♠ 6♦ 4♦ (16)
+DeepCogito V2.1-671B [deepcogito/cogito-v2.1-671b]: Stand
+  Reasoning: "With a hand value of 20, standing is the optimal play regardless of the dealer's up card, as the risk of busting is too high and the chance of winning is already very strong."
+  Stands with 10♣ K♠ (20)
+
+Dealer reveals: K♦ J♣ (20)
+Dealer stands with K♦ J♣ (20)
+
+=== Results ===
+Essential RNJ-1 Instruct: LOSE (New balance: $20)
+DeepCogito V2.1-671B: PUSH (New balance: $26)
+
+=== New Round #16 ===
+Essential RNJ-1 Instruct [essentialai/rnj-1-instruct] bets $5
+  Reasoning: "I'm betting the minimum to conserve my balance while staying within betting limits, as I have the lowest balance at the table."
+DeepCogito V2.1-671B [deepcogito/cogito-v2.1-671b] bets $5
+  Reasoning: "With a low balance of $26, I'll bet the minimum $5 to preserve my bankroll and minimize risk while I assess the table dynamics."
+Dealer shows: 7♠ ??
+Essential RNJ-1 Instruct: 6♠ 4♠ (10)
+DeepCogito V2.1-671B: A♠ 3♣ (14 soft)
+Essential RNJ-1 Instruct [essentialai/rnj-1-instruct]: Hit
+  Reasoning: "With a hard 10 and the dealer showing a 7, basic strategy recommends hitting to improve the hand without exceeding 21, while avoiding doubling against the dealer's potential 17-21 total."
+  Drew 10♥ -> 6♠ 4♠ 10♥ (20)
+Essential RNJ-1 Instruct [essentialai/rnj-1-instruct]: Stand
+  Reasoning: "With a hard 20 and the dealer showing a 7, basic strategy recommends standing as 20 is a strong hand against the dealer's potential 17-21 total."
+  Stands with 6♠ 4♠ 10♥ (20)
+DeepCogito V2.1-671B [deepcogito/cogito-v2.1-671b]: Hit
+  Reasoning: "With a soft 14 against dealer's 7, hitting is the statistically correct play to improve the hand, as standing is too risky with a weak total."
+  Drew 9♣ -> A♠ 3♣ 9♣ (13)
+DeepCogito V2.1-671B [deepcogito/cogito-v2.1-671b]: Hit
+  Reasoning: "With a hard 13 against dealer's 7, hitting is statistically correct despite the risk of busting, as standing would likely lose against the dealer's strong upcard."
+  Drew A♦ -> A♠ 3♣ 9♣ A♦ (14)
+DeepCogito V2.1-671B [deepcogito/cogito-v2.1-671b]: Hit
+  Reasoning: "With a hard 14 against dealer's 7, hitting is statistically correct despite the high bust risk, as standing with such a weak hand against a strong dealer upcard has a higher expected loss."
+  Drew Q♠ -> A♠ 3♣ 9♣ A♦ Q♠ (BUST 24)
+  DeepCogito V2.1-671B BUSTS!
+
+Dealer reveals: 7♠ 7♥ (14)
+Dealer draws J♥ -> 7♠ 7♥ J♥ (BUST 24)
+Dealer BUSTS!
+
+=== Results ===
+Essential RNJ-1 Instruct: WIN! Wins $5 (New balance: $25)
+DeepCogito V2.1-671B: LOSE (New balance: $21)
+
+=== New Round #17 ===
+Essential RNJ-1 Instruct [essentialai/rnj-1-instruct] bets $5
+  Reasoning: "Minimum bet to stay in the game while observing other players' actions"
+DeepCogito V2.1-671B [deepcogito/cogito-v2.1-671b] bets $5
+  Reasoning: "Starting with the minimum bet of $5 to preserve capital while assessing the table dynamics and dealer's tendencies."
+Dealer shows: 5♠ ??
+Essential RNJ-1 Instruct: 8♥ 9♠ (17)
+DeepCogito V2.1-671B: 6♠ Q♥ (16)
+Essential RNJ-1 Instruct [essentialai/rnj-1-instruct]: Stand
+  Reasoning: "With a hard 17 and dealer showing a 5, I stand according to basic strategy. The dealer has a weak upcard that will bust frequently, and my hand is strong enough to stand on 17."
+  Stands with 8♥ 9♠ (17)
+DeepCogito V2.1-671B [deepcogito/cogito-v2.1-671b]: Stand
+  Reasoning: "With a hard 16 against dealer's 5, the statistically correct move is to stand since dealer has high bust potential and hitting risks busting."
+  Stands with 6♠ Q♥ (16)
+
+Dealer reveals: 5♠ 10♥ (15)
+Dealer draws 4♠ -> 5♠ 10♥ 4♠ (19)
+Dealer stands with 5♠ 10♥ 4♠ (19)
+
+=== Results ===
+Essential RNJ-1 Instruct: LOSE (New balance: $20)
+DeepCogito V2.1-671B: LOSE (New balance: $16)
+
+=== New Round #18 ===
+Essential RNJ-1 Instruct [essentialai/rnj-1-instruct] bets $5
+  Reasoning: "I'm betting the minimum of $5 to conserve my bankroll while observing other players. With DeepCogito V2.1-671B still at the table, I want to see how they play before committing more funds."
+DeepCogito V2.1-671B [deepcogito/cogito-v2.1-671b] bets $5
+  Reasoning: "Betting the minimum to preserve bankroll while maintaining table position, as the Essential RNJ player's bet doesn't warrant a larger wager given our limited balance."
+Dealer shows: 9♦ ??
+Essential RNJ-1 Instruct: 6♠ K♥ (16)
+DeepCogito V2.1-671B: 3♣ J♥ (13)
+Essential RNJ-1 Instruct [essentialai/rnj-1-instruct]: Hit
+  Reasoning: "I have a 16 against a dealer 9, which is a weak hitting position. The dealer's 9 is a strong upcard that will make themself, and my 16 is likely to bust if I hit, but I'm also not in a strong enough position to stand confidently. I'll take another card to improve my hand."
+  Drew A♦ -> 6♠ K♥ A♦ (17)
+Essential RNJ-1 Instruct [essentialai/rnj-1-instruct]: Stand
+  Reasoning: "I now have a solid 17 against the dealer's 9. Standing is the optimal play as I'm unlikely to improve my hand without busting, and 17 is a strong enough total to stand against a dealer's 9."
+  Stands with 6♠ K♥ A♦ (17)
+DeepCogito V2.1-671B [deepcogito/cogito-v2.1-671b]: Hit
+  Reasoning: "With a soft 13 against dealer's 9, hitting is statistically favorable as there's significant room to improve without excessive bust risk."
+  Drew 8♦ -> 3♣ J♥ 8♦ (21)
+DeepCogito V2.1-671B [deepcogito/cogito-v2.1-671b]: Stand
+  Reasoning: "With 21, you have a guaranteed win unless the dealer also has 21 or achieves it through multiple draws, making standing the optimal play."
+  Stands with 3♣ J♥ 8♦ (21)
+
+Dealer reveals: 9♦ 5♣ (14)
+Dealer draws 2♦ -> 9♦ 5♣ 2♦ (16)
+Dealer draws 4♥ -> 9♦ 5♣ 2♦ 4♥ (20)
+Dealer stands with 9♦ 5♣ 2♦ 4♥ (20)
+
+=== Results ===
+Essential RNJ-1 Instruct: LOSE (New balance: $15)
+DeepCogito V2.1-671B: WIN! Wins $5 (New balance: $21)
+
+=== New Round #19 ===
+Essential RNJ-1 Instruct [essentialai/rnj-1-instruct] bets $5
+  Reasoning: "Minimum bet to stay competitive while conserving chips for potential future rounds"
+DeepCogito V2.1-671B [deepcogito/cogito-v2.1-671b] bets $5
+  Reasoning: "Starting with the minimum bet to preserve my modest bankroll while I assess the table dynamics and count."
+Dealer shows: Q♣ ??
+Essential RNJ-1 Instruct: 4♠ 7♦ (11)
+DeepCogito V2.1-671B: J♦ K♥ (20)
+Essential RNJ-1 Instruct [essentialai/rnj-1-instruct]: Hit
+  Reasoning: "Dealer shows Q♣ with strong up card. Hand value 11 is below 17 and should stand at 17+. No other players have favorable hands to influence strategy. Hit to improve hand before potential dealer strong total."
+  Drew A♣ -> 4♠ 7♦ A♣ (12)
+Essential RNJ-1 Instruct [essentialai/rnj-1-instruct]: Hit
+  Reasoning: "Hand value remains 12, below the recommended 17+ to stand. Dealer's strong Q♣ up card makes hitting preferable to risk potential dealer bust. No other players' hands influence strategy significantly for this decision."
+  Drew J♠ -> 4♠ 7♦ A♣ J♠ (BUST 22)
+  Essential RNJ-1 Instruct BUSTS!
+DeepCogito V2.1-671B [deepcogito/cogito-v2.1-671b]: Stand
+  Reasoning: "With a hard 20, standing is the optimal play as the dealer has a Q showing, and the risk of busting by hitting far outweighs the minimal chance of improving the hand."
+  Stands with J♦ K♥ (20)
+
+Dealer reveals: Q♣ 10♠ (20)
+Dealer stands with Q♣ 10♠ (20)
+
+=== Results ===
+Essential RNJ-1 Instruct: LOSE (New balance: $10)
+DeepCogito V2.1-671B: PUSH (New balance: $21)
+
+=== New Round #20 ===
+Essential RNJ-1 Instruct [essentialai/rnj-1-instruct] bets $10
+  Reasoning: "I'm betting the maximum allowed to maximize potential winnings and take advantage of favorable odds with a strong starting hand."
+DeepCogito V2.1-671B [deepcogito/cogito-v2.1-671b] bets $6
+  Reasoning: "Betting slightly above the $5 minimum to conserve bankroll while maintaining position, as the other player's large $10 bet relative to their balance suggests aggressive play that could influence the table dynamics."
+Dealer shows: 7♦ ??
+Essential RNJ-1 Instruct: Q♠ A♣ (Blackjack)
+DeepCogito V2.1-671B: 6♦ 7♥ (13)
+Essential RNJ-1 Instruct has Blackjack.
+DeepCogito V2.1-671B [deepcogito/cogito-v2.1-671b]: DoubleDown
+  Reasoning: "With a soft 13 against dealer's 7, doubling down gives us a strong opportunity to maximize our position when the dealer is in a weak spot, as they have a high bust probability."
+  Doubled down, drew 5♠ -> 6♦ 7♥ 5♠ (18) (Bet: $12)
+
+Dealer reveals: 7♦ 4♣ (11)
+Dealer draws 9♣ -> 7♦ 4♣ 9♣ (20)
+Dealer stands with 7♦ 4♣ 9♣ (20)
+
+=== Results ===
+Essential RNJ-1 Instruct: BLACKJACK! Wins $25 (New balance: $25)
+DeepCogito V2.1-671B: LOSE (New balance: $9)
+
+=== New Round #21 ===
+Essential RNJ-1 Instruct [essentialai/rnj-1-instruct] bets $15
+  Reasoning: "I bet $15 to balance risk and reward while maintaining table position advantage."
+DeepCogito V2.1-671B [deepcogito/cogito-v2.1-671b] bets $5
+  Reasoning: "With only $9, I'll bet the minimum of $5 to conserve my bankroll and stay in the game longer, allowing for more opportunities to win."
+Dealer shows: 8♥ ??
+Essential RNJ-1 Instruct: 4♦ Q♣ (14)
+DeepCogito V2.1-671B: 4♥ A♠ (15 soft)
+Essential RNJ-1 Instruct [essentialai/rnj-1-instruct]: Stand
+  Reasoning: "With a hard 14 against a dealer 8, I should stand to avoid busting. The dealer's 8 is a strong card that will likely stand on 17 or higher, and my hand is already strong enough to make this a safe move."
+  Stands with 4♦ Q♣ (14)
+DeepCogito V2.1-671B [deepcogito/cogito-v2.1-671b]: Hit
+  Reasoning: "With a soft 15 against dealer's 8, hitting is the optimal play to improve the hand while having the Ace as a safety net against busting."
+  Drew 6♠ -> 4♥ A♠ 6♠ (21 soft)
+DeepCogito V2.1-671B [deepcogito/cogito-v2.1-671b]: Stand
+  Reasoning: "You have 21, which is the best possible hand in blackjack and cannot be improved. There is no reason to take any further action."
+  Stands with 4♥ A♠ 6♠ (21 soft)
+
+Dealer reveals: 8♥ A♥ (19 soft)
+Dealer stands with 8♥ A♥ (19 soft)
+
+=== Results ===
+Essential RNJ-1 Instruct: LOSE (New balance: $10)
+DeepCogito V2.1-671B: WIN! Wins $5 (New balance: $14)
+
+=== New Round #22 ===
+Essential RNJ-1 Instruct [essentialai/rnj-1-instruct] bets $5
+  Reasoning: "Minimum bet to stay in the game with the lowest possible risk given my $10 balance and $5 minimum requirement."
+DeepCogito V2.1-671B [deepcogito/cogito-v2.1-671b] bets $5
+  Reasoning: "With only $14, I'm underbankrolled and should minimize variance by betting the table minimum to preserve capital for more favorable situations."
+Dealer shows: 3♠ ??
+Essential RNJ-1 Instruct: Q♦ 3♣ (13)
+DeepCogito V2.1-671B: K♣ 4♠ (14)
+Essential RNJ-1 Instruct [essentialai/rnj-1-instruct]: Stand
+  Reasoning: "With a strong 13 against the dealer's weak 3, and considering DeepCogito's strong 14 which might affect dealer play, I choose to stand to protect my $5 bet."
+  Stands with Q♦ 3♣ (13)
+DeepCogito V2.1-671B [deepcogito/cogito-v2.1-671b]: DoubleDown
+  Reasoning: "With a soft 14 against dealer's weak upcard of 3, doubling down gives us a good opportunity to maximize profit while we're in a strong position."
+  Doubled down, drew Q♣ -> K♣ 4♠ Q♣ (BUST 24) (Bet: $10)
+
+Dealer reveals: 3♠ 9♣ (12)
+Dealer draws 10♥ -> 3♠ 9♣ 10♥ (BUST 22)
+Dealer BUSTS!
+
+=== Results ===
+Essential RNJ-1 Instruct: WIN! Wins $5 (New balance: $15)
+DeepCogito V2.1-671B: LOSE (New balance: $4)
+DeepCogito V2.1-671B is eliminated (Balance: $4).
+Winner: Essential RNJ-1 Instruct (Balance: $15)
+
+Token usage by model:
+allenai/olmo-3.1-32b-think: input=10100, output=24937, total=35037
+arcee-ai/trinity-mini: input=2654, output=5505, total=8159
+cohere/command-r7b-12-2024: input=6167, output=1058, total=7225
+deepcogito/cogito-v2.1-671b: input=13419, output=2370, total=15789
+essentialai/rnj-1-instruct: input=13769, output=2560, total=16329
+liquid/lfm2-8b-a1b: input=4306, output=760, total=5066
+Game duration: 00:10:52

@@ -1,0 +1,1198 @@
+=== Game Start ===
+Microsoft Phi 4 joins the game with balance: $50
+Amazon Nova Premier joins the game with balance: $50
+Meta LLaMA 4 Maverick joins the game with balance: $50
+Mistral AI Minstral joins the game with balance: $50
+
+=== New Round #1 ===
+Microsoft Phi 4 [microsoft/phi-4] bets $10
+  Reasoning: "Starting with a moderate bet allows me to observe other players' strategies and manage risk while maintaining sufficient balance for future rounds."
+Amazon Nova Premier [amazon/nova-premier-v1] bets $10
+  Reasoning: "Match Microsoft Phi 4's bet to stay competitive without risking too much."
+Meta LLaMA 4 Maverick [meta-llama/llama-4-maverick] bets $5
+  Reasoning: "I'm starting with the minimum bet to conserve my balance and assess the table dynamics, as other players have bet $10 and one player hasn't bet yet."
+Mistral AI Minstral [mistralai/ministral-14b-2512] bets $15
+  Reasoning: "Betting $15 balances risk-reward—higher than the minimum but not aggressive enough to draw unnecessary attention, while maintaining a strategic edge over the $5 bettor. It also avoids overcommitting against the $10 players, allowing flexibility for future hands."
+Dealer shows: 8♦ ??
+Microsoft Phi 4: 8♣ 2♠ (10)
+Amazon Nova Premier: J♠ 8♠ (18)
+Meta LLaMA 4 Maverick: 7♦ 5♠ (12)
+Mistral AI Minstral: K♥ 6♥ (16)
+Microsoft Phi 4 [microsoft/phi-4]: Stand
+  Reasoning: "The total value of my hand is 10, and the dealer shows a 8♦. Doubling down is not advantageous since the dealer's potential hand can still be strong. It's safer to stand and avoid risk with a weak hand."
+  Stands with 8♣ 2♠ (10)
+Amazon Nova Premier [amazon/nova-premier-v1]: Stand
+  Reasoning: "With a hand value of 18, standing is optimal since it's a strong hand against the dealer's 8."
+  Stands with J♠ 8♠ (18)
+Meta LLaMA 4 Maverick [meta-llama/llama-4-maverick]: Hit
+  Reasoning: "With a hand value of 12 and the dealer's up card being 8, there's a risk of losing if I stand and the dealer gets a strong hand; hitting gives me a chance to improve my hand without a significant risk."
+  Drew 9♣ -> 7♦ 5♠ 9♣ (21)
+Meta LLaMA 4 Maverick [meta-llama/llama-4-maverick]: Stand
+  Reasoning: "With a hand value of 21, I have a strong hand and standing is the best decision to avoid going over 21; the risk of busting outweighs any potential benefit of hitting."
+  Stands with 7♦ 5♠ 9♣ (21)
+Mistral AI Minstral [mistralai/ministral-14b-2512]: Stand
+  Reasoning: "Dealer’s upcard is 8 (weak). Your 16 is safe against a dealer’s bust potential (17+), and doubling risks breaking with a 6, especially with opponents already strong (e.g., 21). No need to chase 21."
+  Stands with K♥ 6♥ (16)
+
+Dealer reveals: 8♦ 10♠ (18)
+Dealer stands with 8♦ 10♠ (18)
+
+=== Results ===
+Microsoft Phi 4: LOSE (New balance: $40)
+Amazon Nova Premier: PUSH (New balance: $50)
+Meta LLaMA 4 Maverick: WIN! Wins $5 (New balance: $55)
+Mistral AI Minstral: LOSE (New balance: $35)
+
+=== New Round #2 ===
+Microsoft Phi 4 [microsoft/phi-4] bets $10
+  Reasoning: "With a balanced $40, betting $10 allows for risk management while maintaining a competitive edge. This moderate bet provides potential for growth while conserving enough balance to adapt to future rounds and player strategies."
+Amazon Nova Premier [amazon/nova-premier-v1] bets $10
+  Reasoning: "Increasing my bet to match Microsoft Phi 4 maintains competitiveness without risking too much."
+Meta LLaMA 4 Maverick [meta-llama/llama-4-maverick] bets $5
+  Reasoning: "I'm starting with the minimum bet to conserve my balance and assess the game dynamics, as other players have bet $10 and I want to minimize my initial risk."
+Mistral AI Minstral [mistralai/ministral-14b-2512] bets $10
+  Reasoning: "Betting $10 maintains table pressure while balancing risk; avoids overcommitting relative to my $35 balance and aligns with the majority of opponents' bets to observe their tendencies."
+Dealer shows: Q♠ ??
+Microsoft Phi 4: 3♠ 10♥ (13)
+Amazon Nova Premier: Q♦ 3♣ (13)
+Meta LLaMA 4 Maverick: K♠ 3♠ (13)
+Mistral AI Minstral: 2♣ 6♠ (8)
+Microsoft Phi 4 [microsoft/phi-4]: Stand
+  Reasoning: "With a hand value of 13, standing is advisable to avoid busting, especially against the dealer's 10-value up card."
+  Stands with 3♠ 10♥ (13)
+Amazon Nova Premier [amazon/nova-premier-v1]: Hit
+  Reasoning: "Dealer shows a strong up card; increase chances of improving the hand without busting."
+  Drew J♣ -> Q♦ 3♣ J♣ (BUST 23)
+  Amazon Nova Premier BUSTS!
+Meta LLaMA 4 Maverick [meta-llama/llama-4-maverick]: Hit
+  Reasoning: "With a hand value of 13 and the dealer's up card being a Q, there's a risk of losing if I stand, so I need to improve my hand; another card is needed to get closer to 17 or higher to have a better chance of winning."
+  Drew A♠ -> K♠ 3♠ A♠ (14)
+Meta LLaMA 4 Maverick [meta-llama/llama-4-maverick]: Hit
+  Reasoning: "With a hand value of 14 and the dealer's up card being a Q, there's still a risk of losing if I stand, so I need to improve my hand; another card is needed to get closer to 17 or higher to have a better chance of winning."
+  Drew A♦ -> K♠ 3♠ A♠ A♦ (15)
+Meta LLaMA 4 Maverick [meta-llama/llama-4-maverick]: Stand
+  Reasoning: "[Parse error, defaulting to stand] Raw: {"action": "Hit", "reasoning": "With a hand value of 15 and the dealer's up card being a Q, there's still a risk of losing if I stand, so I need to improve my hand to get closer to 17 or higher.""
+  Stands with K♠ 3♠ A♠ A♦ (15)
+Mistral AI Minstral [mistralai/ministral-14b-2512]: Stand
+  Reasoning: "Your hand (8 vs. Q♠) has a decent chance of beating the dealer's upcard (Q♠ ≈ 10) since the dealer's likely total is 10-21. Standing here optimizes long-term strategy with basic rules (Stand on 8 vs. 10)."
+  Stands with 2♣ 6♠ (8)
+
+Dealer reveals: Q♠ 3♥ (13)
+Dealer draws 4♣ -> Q♠ 3♥ 4♣ (17)
+Dealer stands with Q♠ 3♥ 4♣ (17)
+
+=== Results ===
+Microsoft Phi 4: LOSE (New balance: $30)
+Amazon Nova Premier: LOSE (New balance: $40)
+Meta LLaMA 4 Maverick: LOSE (New balance: $50)
+Mistral AI Minstral: LOSE (New balance: $25)
+
+=== New Round #3 ===
+Microsoft Phi 4 [microsoft/phi-4] bets $5
+  Reasoning: "A minimal bet of $5 maintains a conservative approach, preserving capital while staying competitive with other players and adhering to the minimum bet requirement."
+Amazon Nova Premier [amazon/nova-premier-v1] bets $10
+  Reasoning: "Balancing risk with a reasonable bet while considering my current balance."
+Meta LLaMA 4 Maverick [meta-llama/llama-4-maverick] bets $10
+  Reasoning: "I am Meta LLaMA 4 Maverick, betting $10 to balance risk and potential reward, observing other players' bets and considering my available balance."
+Mistral AI Minstral [mistralai/ministral-14b-2512] bets $15
+  Reasoning: "Betting $15 balances risk and reward—sufficient to compete with higher rollers while preserving capital for future hands. Avoids overcommitting relative to my $25 balance and maintains table presence without aggressive exposure."
+Dealer shows: 10♣ ??
+Microsoft Phi 4: A♥ 8♥ (19 soft)
+Amazon Nova Premier: 5♥ 4♣ (9)
+Meta LLaMA 4 Maverick: 3♣ Q♥ (13)
+Mistral AI Minstral: A♦ 7♠ (18 soft)
+Microsoft Phi 4 [microsoft/phi-4]: Stand
+  Reasoning: "With a hand value of 19, standing is the best strategic choice to avoid busting and maintain a strong hand against the dealer's up card."
+  Stands with A♥ 8♥ (19 soft)
+Amazon Nova Premier [amazon/nova-premier-v1]: Hit
+  Reasoning: "The dealer shows a strong up card. With 9, I must improve to compete."
+  Drew 9♠ -> 5♥ 4♣ 9♠ (18)
+Amazon Nova Premier [amazon/nova-premier-v1]: Stand
+  Reasoning: "With 18, standing is optimal against the dealer's likely strong holding."
+  Stands with 5♥ 4♣ 9♠ (18)
+Meta LLaMA 4 Maverick [meta-llama/llama-4-maverick]: Hit
+  Reasoning: "With a hand value of 13 and the dealer's up card being 10, I need to improve my chances by hitting to get closer to 17 or higher, as standing with 13 is likely to result in a loss. The other players' hands don't directly influence my decision in this case."
+  Drew 10♦ -> 3♣ Q♥ 10♦ (BUST 23)
+  Meta LLaMA 4 Maverick BUSTS!
+Mistral AI Minstral [mistralai/ministral-14b-2512]: Stand
+  Reasoning: "Dealer's upcard is 10♣, so you face a 10-value down card (~9% chance of busting). Your **soft 18 (A+7)** is strong, especially since opponents are showing mixed outcomes (19 soft, 18, or bust). Standing avoids risking a bust and maximizes potential win against a likely weak dealer hand."
+  Stands with A♦ 7♠ (18 soft)
+
+Dealer reveals: 10♣ 5♣ (15)
+Dealer draws 8♦ -> 10♣ 5♣ 8♦ (BUST 23)
+Dealer BUSTS!
+
+=== Results ===
+Microsoft Phi 4: WIN! Wins $5 (New balance: $35)
+Amazon Nova Premier: WIN! Wins $10 (New balance: $50)
+Meta LLaMA 4 Maverick: LOSE (New balance: $40)
+Mistral AI Minstral: WIN! Wins $15 (New balance: $40)
+
+=== New Round #4 ===
+Microsoft Phi 4 [microsoft/phi-4] bets $5
+  Reasoning: "Starting with the minimum bet conserves balance while allowing room to adjust in future hands based on observed player behavior and outcomes."
+Amazon Nova Premier [amazon/nova-premier-v1] bets $5
+  Reasoning: "Starting with the minimum bet to preserve balance and observe opponents' strategies."
+Meta LLaMA 4 Maverick [meta-llama/llama-4-maverick] bets $10
+  Reasoning: "I'm betting $10, a moderate amount, to balance risk and potential reward, considering my balance and the minimum bet, while also observing other players' bets."
+Mistral AI Minstral [mistralai/ministral-14b-2512] bets $40
+  Reasoning: "The table show's cautious bets ($5-$10) except Meta's $10, so a higher $40 bet signals confidence without provoking aggression. This maximizes potential payout while leveraging others' conservative positioning."
+Dealer shows: 3♦ ??
+Microsoft Phi 4: A♣ K♦ (Blackjack)
+Amazon Nova Premier: 3♥ 10♦ (13)
+Meta LLaMA 4 Maverick: 5♠ 10♠ (15)
+Mistral AI Minstral: 2♣ J♣ (12)
+Microsoft Phi 4 has Blackjack.
+Amazon Nova Premier [amazon/nova-premier-v1]: Hit
+  Reasoning: "With a soft 13 against dealer's 3, standard strategy recommends hitting."
+  Drew 8♣ -> 3♥ 10♦ 8♣ (21)
+Amazon Nova Premier [amazon/nova-premier-v1]: Stand
+  Reasoning: "Current hand equals 21, which is optimal. Standing is the best choice."
+  Stands with 3♥ 10♦ 8♣ (21)
+Meta LLaMA 4 Maverick [meta-llama/llama-4-maverick]: Hit
+  Reasoning: "With a hand value of 15 and the dealer's up card being a 3, I need to improve my chances of winning by getting closer to 21 or beating the dealer's likely total. Since other players have high totals, I'll hit to try to get closer to 21 or at least have a better chance against the dealer's potential total."
+  Drew 3♣ -> 5♠ 10♠ 3♣ (18)
+Meta LLaMA 4 Maverick [meta-llama/llama-4-maverick]: Stand
+  Reasoning: "With a hand value of 18 and the dealer's up card being a 3, I have a good chance of winning since the dealer is likely to need to draw more cards and potentially bust. Standing with 18 is a safe decision given the dealer's weak up card and other players having already achieved high totals."
+  Stands with 5♠ 10♠ 3♣ (18)
+Mistral AI Minstral [mistralai/ministral-14b-2512]: Hit
+  Reasoning: "With a dealer's 3▦, your 12 has a low chance of busting (38.2%) and is a favorable hand to hit. Standing risks a 21 on a 17+ (42.2% dealer win), so aggressively chasing improvement against a weak upcard minimizes long-term disadvantage."
+  Drew J♠ -> 2♣ J♣ J♠ (BUST 22)
+  Mistral AI Minstral BUSTS!
+
+Dealer reveals: 3♦ 9♣ (12)
+Dealer draws K♣ -> 3♦ 9♣ K♣ (BUST 22)
+Dealer BUSTS!
+
+=== Results ===
+Microsoft Phi 4: BLACKJACK! Wins $12 (New balance: $42)
+Amazon Nova Premier: WIN! Wins $5 (New balance: $55)
+Meta LLaMA 4 Maverick: WIN! Wins $10 (New balance: $50)
+Mistral AI Minstral: LOSE (New balance: $0)
+Mistral AI Minstral is eliminated (Balance: $0).
+
+=== New Round #5 ===
+Microsoft Phi 4 [microsoft/phi-4] bets $5
+  Reasoning: "With a minimum balance of $42, I bet the minimum allowed to ensure I have enough funds for future rounds, maintaining a conservative strategy to manage risk and sustain my balance."
+Amazon Nova Premier [amazon/nova-premier-v1] bets $10
+  Reasoning: "Increasing bet slightly while managing risk given the current balance."
+Meta LLaMA 4 Maverick [meta-llama/llama-4-maverick] bets $10
+  Reasoning: "I'm betting $10 to match Amazon Nova Premier's bet, as it indicates a moderate risk level and allows me to stay competitive at the table without overextending my initial balance."
+Dealer shows: 10♦ ??
+Microsoft Phi 4: 6♣ 6♦ (12)
+Amazon Nova Premier: 4♣ A♦ (15 soft)
+Meta LLaMA 4 Maverick: 10♥ 8♥ (18)
+Microsoft Phi 4 [microsoft/phi-4]: Hit
+  Reasoning: "With a hand value of 12 against a dealer's up card of 10, the risk of busting is high, so hitting offers a chance to improve the hand without risking the entire bet."
+  Drew 7♣ -> 6♣ 6♦ 7♣ (19)
+Microsoft Phi 4 [microsoft/phi-4]: Stand
+  Reasoning: "With a hand value of 19 against the dealer's up card of 10, standing is the best option as the risk of busting by hitting is high and 19 is a strong hand."
+  Stands with 6♣ 6♦ 7♣ (19)
+Amazon Nova Premier [amazon/nova-premier-v1]: Hit
+  Reasoning: "Soft 15 against dealer's 10 is a situation where hitting is optimal to improve the hand."
+  Drew 2♣ -> 4♣ A♦ 2♣ (17 soft)
+Amazon Nova Premier [amazon/nova-premier-v1]: Stand
+  Reasoning: "Soft 17 is the strongest possible hand that should stand against dealer's 10."
+  Stands with 4♣ A♦ 2♣ (17 soft)
+Meta LLaMA 4 Maverick [meta-llama/llama-4-maverick]: Stand
+  Reasoning: "With a hand value of 18 and the dealer's up card being 10, standing is the best option as the risk of busting is high if I hit, and my current hand is relatively strong."
+  Stands with 10♥ 8♥ (18)
+
+Dealer reveals: 10♦ 7♥ (17)
+Dealer stands with 10♦ 7♥ (17)
+
+=== Results ===
+Microsoft Phi 4: WIN! Wins $5 (New balance: $47)
+Amazon Nova Premier: PUSH (New balance: $55)
+Meta LLaMA 4 Maverick: WIN! Wins $10 (New balance: $60)
+
+=== New Round #6 ===
+Microsoft Phi 4 [microsoft/phi-4] bets $5
+  Reasoning: "Given the minimum bet requirement and a balance of $47, placing a $5 bet conserves capital while allowing participation in the game, aligning with strategic caution."
+Amazon Nova Premier [amazon/nova-premier-v1] bets $10
+  Reasoning: "Increasing bet moderately to maximize potential returns without risking too much."
+Meta LLaMA 4 Maverick [meta-llama/llama-4-maverick] bets $10
+  Reasoning: "I'm matching Amazon Nova Premier's bet to be competitive, while also being mindful of my balance and not taking on too much risk."
+Dealer shows: 10♥ ??
+Microsoft Phi 4: Q♣ Q♠ (20)
+Amazon Nova Premier: 8♠ K♠ (18)
+Meta LLaMA 4 Maverick: 5♣ A♠ (16 soft)
+Microsoft Phi 4 [microsoft/phi-4]: Stand
+  Reasoning: "The hand value is 20, which is the best possible hand in blackjack, ensuring a high chance of winning against the dealer's up card of 10 without risk of busting."
+  Stands with Q♣ Q♠ (20)
+Amazon Nova Premier [amazon/nova-premier-v1]: Stand
+  Reasoning: "Dealer shows 10; standing on 18 is statistically optimal against a likely dealer strong hand."
+  Stands with 8♠ K♠ (18)
+Meta LLaMA 4 Maverick [meta-llama/llama-4-maverick]: Hit
+  Reasoning: "With a soft 16 and the dealer's up card being a 10, there's a risk of the dealer having a strong hand, so I need to improve my hand without exceeding 21. Hitting gives me flexibility to get closer to 21 or at least be competitive."
+  Drew 3♠ -> 5♣ A♠ 3♠ (19 soft)
+Meta LLaMA 4 Maverick [meta-llama/llama-4-maverick]: Stand
+  Reasoning: "With a hand value of 19, I have a strong hand and standing is the optimal decision as the risk of busting is high and the dealer's up card is a 10, indicating a potentially strong hand."
+  Stands with 5♣ A♠ 3♠ (19 soft)
+
+Dealer reveals: 10♥ 9♠ (19)
+Dealer stands with 10♥ 9♠ (19)
+
+=== Results ===
+Microsoft Phi 4: WIN! Wins $5 (New balance: $52)
+Amazon Nova Premier: LOSE (New balance: $45)
+Meta LLaMA 4 Maverick: PUSH (New balance: $60)
+
+=== New Round #7 ===
+Microsoft Phi 4 [microsoft/phi-4] bets $12
+  Reasoning: "With a $52 balance, betting $12 allows a strategic balance of risk and reward, maintaining sufficient reserve for subsequent rounds. Considering the table dynamics, this bet is aggressive compared to the minimum but still prudent, given Meta LLaMA 4 Maverick's higher balance."
+Amazon Nova Premier [amazon/nova-premier-v1] bets $10
+  Reasoning: "Balancing risk with a moderate bet to maintain gameplay and observe others' moves."
+Meta LLaMA 4 Maverick [meta-llama/llama-4-maverick] bets $10
+  Reasoning: "I'm betting $10, a moderate amount, to balance risk and potential reward, while also being mindful of my balance and the bets of other players at the table."
+Dealer shows: A♥ ??
+Microsoft Phi 4: 7♣ K♦ (17)
+Amazon Nova Premier: J♥ J♠ (20)
+Meta LLaMA 4 Maverick: J♦ 6♠ (16)
+Microsoft Phi 4 [microsoft/phi-4]: Stand
+  Reasoning: "With a hand value of 17 and a dealer showing an Ace, standing is the best option to minimize the risk of busting, while also considering that doubling down would risk too much of the remaining balance on a weak hand."
+  Stands with 7♣ K♦ (17)
+Amazon Nova Premier [amazon/nova-premier-v1]: Stand
+  Reasoning: "With a hand of 20 and the dealer showing an Ace, standing is optimal."
+  Stands with J♥ J♠ (20)
+Meta LLaMA 4 Maverick [meta-llama/llama-4-maverick]: Stand
+  Reasoning: "With a hand value of 16 and the dealer's up card being an Ace, the risk of busting is high if I hit, and standing gives me a relatively good chance of winning since other players have higher totals."
+  Stands with J♦ 6♠ (16)
+
+Dealer reveals: A♥ 8♣ (19 soft)
+Dealer stands with A♥ 8♣ (19 soft)
+
+=== Results ===
+Microsoft Phi 4: LOSE (New balance: $40)
+Amazon Nova Premier: WIN! Wins $10 (New balance: $55)
+Meta LLaMA 4 Maverick: LOSE (New balance: $50)
+
+=== New Round #8 ===
+Microsoft Phi 4 [microsoft/phi-4] bets $5
+  Reasoning: "Starting with a minimal bet allows for cautious play while maintaining balance, keeping risk low given the unknown positions and strategies of other players."
+Amazon Nova Premier [amazon/nova-premier-v1] bets $10
+  Reasoning: "Balancing risk while maximizing potential returns, considering the table's activity and my current balance."
+Meta LLaMA 4 Maverick [meta-llama/llama-4-maverick] bets $10
+  Reasoning: "I'm betting $10 to balance risk and potential reward, considering my current balance and the bets of other players at the table."
+Dealer shows: 4♣ ??
+Microsoft Phi 4: 4♥ J♥ (14)
+Amazon Nova Premier: 4♦ 6♥ (10)
+Meta LLaMA 4 Maverick: 10♦ 8♦ (18)
+Microsoft Phi 4 [microsoft/phi-4]: Stand
+  Reasoning: "The hand totals 14 with a soft 20, which is strong and likely to win against the dealer's up card of 4."
+  Stands with 4♥ J♥ (14)
+Amazon Nova Premier [amazon/nova-premier-v1]: DoubleDown
+  Reasoning: "With a total of 10 against dealer's 4, doubling down is optimal to maximize potential winnings."
+  Doubled down, drew 10♣ -> 4♦ 6♥ 10♣ (20) (Bet: $20)
+Meta LLaMA 4 Maverick [meta-llama/llama-4-maverick]: Stand
+  Reasoning: "[Parse error, defaulting to stand] Raw: action": "Stand", "reasoning": "With a hand value of 18 and the dealer's up card being a 4, the risk of busting outweighs the potential benefit of getting closer to 21 or beating the dealer's likely total. Other players' hands suggest the dealer may not have a strong hand.""
+  Stands with 10♦ 8♦ (18)
+
+Dealer reveals: 4♣ 3♥ (7)
+Dealer draws 7♥ -> 4♣ 3♥ 7♥ (14)
+Dealer draws 2♦ -> 4♣ 3♥ 7♥ 2♦ (16)
+Dealer draws A♥ -> 4♣ 3♥ 7♥ 2♦ A♥ (17)
+Dealer stands with 4♣ 3♥ 7♥ 2♦ A♥ (17)
+
+=== Results ===
+Microsoft Phi 4: LOSE (New balance: $35)
+Amazon Nova Premier: WIN! Wins $20 (New balance: $75)
+Meta LLaMA 4 Maverick: WIN! Wins $10 (New balance: $60)
+
+=== New Round #9 ===
+Microsoft Phi 4 [microsoft/phi-4] bets $5
+  Reasoning: "As the minimum bet is $5 and with a balance of $35, betting $5 allows for risk management while maintaining table presence. Other players have higher balances, so conserving funds for potential future opportunities is prudent."
+Amazon Nova Premier [amazon/nova-premier-v1] bets $10
+  Reasoning: "Balancing risk with a modest increase. Remaining competitive at the table."
+Meta LLaMA 4 Maverick [meta-llama/llama-4-maverick] bets $10
+  Reasoning: "I'm betting $10 to balance risk and potential reward, considering my balance and the bets of other players at the table."
+Dealer shows: 4♣ ??
+Microsoft Phi 4: 5♠ J♦ (15)
+Amazon Nova Premier: A♥ J♥ (Blackjack)
+Meta LLaMA 4 Maverick: Q♣ 7♥ (17)
+Microsoft Phi 4 [microsoft/phi-4]: Hit
+  Reasoning: "The dealer shows a weak card (4♣), increasing the chance of busting. With a soft 15, hitting is the best option to improve the hand without the risk of busting."
+  Drew 2♥ -> 5♠ J♦ 2♥ (17)
+Microsoft Phi 4 [microsoft/phi-4]: Stand
+  Reasoning: "The dealer's up card is a weak 4♣, and your hand totals 17, which is a strong hand in blackjack. Standing minimizes the risk of busting while potentially beating the dealer's hand."
+  Stands with 5♠ J♦ 2♥ (17)
+Amazon Nova Premier has Blackjack.
+Meta LLaMA 4 Maverick [meta-llama/llama-4-maverick]: Stand
+  Reasoning: "With a hand value of 17 and the dealer's up card being a 4, the risk of busting outweighs the potential benefit of getting closer to 21 or beating the dealer's likely hand value. Standing with 17 is a safe decision given the dealer's relatively weak up card."
+  Stands with Q♣ 7♥ (17)
+
+Dealer reveals: 4♣ 3♥ (7)
+Dealer draws 7♦ -> 4♣ 3♥ 7♦ (14)
+Dealer draws Q♠ -> 4♣ 3♥ 7♦ Q♠ (BUST 24)
+Dealer BUSTS!
+
+=== Results ===
+Microsoft Phi 4: WIN! Wins $5 (New balance: $40)
+Amazon Nova Premier: BLACKJACK! Wins $25 (New balance: $90)
+Meta LLaMA 4 Maverick: WIN! Wins $10 (New balance: $70)
+
+=== New Round #10 ===
+Microsoft Phi 4 [microsoft/phi-4] bets $5
+  Reasoning: "Starting with a minimum bet conserves balance while assessing the table dynamics and other players' strategies."
+Amazon Nova Premier [amazon/nova-premier-v1] bets $15
+  Reasoning: "Balancing risk and potential reward with a moderate bet, relative to my current balance."
+Meta LLaMA 4 Maverick [meta-llama/llama-4-maverick] bets $10
+  Reasoning: "I'm betting $10, a moderate amount that reflects my cautious optimism, while also being mindful of the table dynamics and the bets placed by other players."
+Dealer shows: J♣ ??
+Microsoft Phi 4: 9♣ 3♦ (12)
+Amazon Nova Premier: 6♣ Q♥ (16)
+Meta LLaMA 4 Maverick: 5♣ 7♥ (12)
+Microsoft Phi 4 [microsoft/phi-4]: Hit
+  Reasoning: "With a total hand value of 12, hitting is the best option to improve your hand without risking busting, as standing is likely to lose against the dealer's up card 10 or any potential 10."
+  Drew 4♠ -> 9♣ 3♦ 4♠ (16)
+Microsoft Phi 4 [microsoft/phi-4]: Stand
+  Reasoning: "The current hand value of 16 is a strong total. Hitting carries the risk of busting, while standing provides a good chance of winning against the dealer's up card of J♣."
+  Stands with 9♣ 3♦ 4♠ (16)
+Amazon Nova Premier [amazon/nova-premier-v1]: Hit
+  Reasoning: "Dealer's Jack makes it likely they have a strong hand. Standing on 16 is risky."
+  Drew A♦ -> 6♣ Q♥ A♦ (17)
+Amazon Nova Premier [amazon/nova-premier-v1]: Stand
+  Reasoning: "Current hand value is 17. Standing is the optimal strategy against a dealer's Jack upcard."
+  Stands with 6♣ Q♥ A♦ (17)
+Meta LLaMA 4 Maverick [meta-llama/llama-4-maverick]: Hit
+  Reasoning: "With a hand value of 12 and the dealer's up card being a J (value 10), I need to improve my hand to avoid a likely loss; hitting gives me a chance to get closer to 21 or at least improve my chances against the dealer's probable strong hand."
+  Drew 5♥ -> 5♣ 7♥ 5♥ (17)
+Meta LLaMA 4 Maverick [meta-llama/llama-4-maverick]: Stand
+  Reasoning: "With a hand value of 17, I have a strong hand and the risk of busting by hitting is high; standing gives me a good chance to win or push against the dealer's probable strong hand, especially since other players with similar hand values are standing with 17."
+  Stands with 5♣ 7♥ 5♥ (17)
+
+Dealer reveals: J♣ Q♦ (20)
+Dealer stands with J♣ Q♦ (20)
+
+=== Results ===
+Microsoft Phi 4: LOSE (New balance: $35)
+Amazon Nova Premier: LOSE (New balance: $75)
+Meta LLaMA 4 Maverick: LOSE (New balance: $60)
+
+=== New Round #11 ===
+Microsoft Phi 4 [microsoft/phi-4] bets $5
+  Reasoning: "Starting with the minimum bet conserves bankroll while allowing observation of other players' strategies and the dealer's tendencies."
+Amazon Nova Premier [amazon/nova-premier-v1] bets $10
+  Reasoning: "Balancing risk with potential reward, considering the table's dynamics and my balance."
+Meta LLaMA 4 Maverick [meta-llama/llama-4-maverick] bets $10
+  Reasoning: "I'm betting $10 to balance risk and potential reward, considering my balance and the bets of other players at the table."
+Dealer shows: K♣ ??
+Microsoft Phi 4: 7♣ Q♦ (17)
+Amazon Nova Premier: 8♠ 3♦ (11)
+Meta LLaMA 4 Maverick: 9♣ K♠ (19)
+Microsoft Phi 4 [microsoft/phi-4]: Stand
+  Reasoning: "With a hand value of 17 against the dealer's up card of K, standing is the optimal choice as the risk of busting with a hit is high, and there's a reasonable chance the dealer will bust."
+  Stands with 7♣ Q♦ (17)
+Amazon Nova Premier [amazon/nova-premier-v1]: Hit
+  Reasoning: "Dealer's up card is high. Need to improve the low hand value of 11."
+  Drew 5♥ -> 8♠ 3♦ 5♥ (16)
+Amazon Nova Premier [amazon/nova-premier-v1]: Hit
+  Reasoning: "Current hand is 16 and dealer shows King. Optimal strategy is to hit on 16 against dealer's high up card."
+  Drew Q♣ -> 8♠ 3♦ 5♥ Q♣ (BUST 26)
+  Amazon Nova Premier BUSTS!
+Meta LLaMA 4 Maverick [meta-llama/llama-4-maverick]: Stand
+  Reasoning: "With a hand value of 19 and the dealer's up card being a K (value 10), standing is the best option as the risk of busting by hitting outweighs the potential benefit of improving my hand."
+  Stands with 9♣ K♠ (19)
+
+Dealer reveals: K♣ 5♦ (15)
+Dealer draws 6♣ -> K♣ 5♦ 6♣ (21)
+Dealer stands with K♣ 5♦ 6♣ (21)
+
+=== Results ===
+Microsoft Phi 4: LOSE (New balance: $30)
+Amazon Nova Premier: LOSE (New balance: $65)
+Meta LLaMA 4 Maverick: LOSE (New balance: $50)
+
+=== New Round #12 ===
+Microsoft Phi 4 [microsoft/phi-4] bets $5
+  Reasoning: "Starting with the minimum bet allows for risk management while assessing the table dynamics and other players' behaviors."
+Amazon Nova Premier [amazon/nova-premier-v1] bets $10
+  Reasoning: "Balancing risk with potential reward; increasing bet moderately."
+Meta LLaMA 4 Maverick [meta-llama/llama-4-maverick] bets $10
+  Reasoning: "I'm betting $10 to balance risk and potential reward, taking into account my current balance and the bets of other players at the table."
+Dealer shows: 10♥ ??
+Microsoft Phi 4: 2♣ 9♥ (11)
+Amazon Nova Premier: J♣ A♣ (Blackjack)
+Meta LLaMA 4 Maverick: 9♠ 2♥ (11)
+Microsoft Phi 4 [microsoft/phi-4]: Stand
+  Reasoning: "With a hand value of 11, standing is a strong choice because it's unlikely to bust with a single hit. Doubling down is risky due to remaining balance and the dealer showing a 10, which can lead to a strong dealer hand."
+  Stands with 2♣ 9♥ (11)
+Amazon Nova Premier has Blackjack.
+Meta LLaMA 4 Maverick [meta-llama/llama-4-maverick]: Stand
+  Reasoning: "[Parse error, defaulting to stand] Raw: action": "Hit", "reasoning": "With a hand value of 11 and the dealer's up card being 10, I need to improve my hand to increase my chances of winning, and hitting is a low-risk action.""
+  Stands with 9♠ 2♥ (11)
+
+Dealer reveals: 10♥ 9♦ (19)
+Dealer stands with 10♥ 9♦ (19)
+
+=== Results ===
+Microsoft Phi 4: LOSE (New balance: $25)
+Amazon Nova Premier: BLACKJACK! Wins $25 (New balance: $80)
+Meta LLaMA 4 Maverick: LOSE (New balance: $40)
+
+=== New Round #13 ===
+Microsoft Phi 4 [microsoft/phi-4] bets $5
+  Reasoning: "Given the high minimum bet and a low risk tolerance with a balance of $25, a conservative bet of $5 ensures the preservation of my balance while allowing for strategic play. This approach minimizes risk compared to other players with higher balances."
+Amazon Nova Premier [amazon/nova-premier-v1] bets $10
+  Reasoning: "Betting $10 balances risk and reward given the current table stakes and my balance."
+Meta LLaMA 4 Maverick [meta-llama/llama-4-maverick] bets $5
+  Reasoning: "[Parse error, defaulting to min bet] Raw: amount": 10, "reasoning": "I'm betting $10 to balance risk and potential reward, matching Amazon Nova Premier's bet to observe their strategy while managing my limited balance."}"
+Dealer shows: K♦ ??
+Microsoft Phi 4: 4♠ 3♥ (7)
+Amazon Nova Premier: 7♦ 4♥ (11)
+Meta LLaMA 4 Maverick: 7♠ 10♦ (17)
+Microsoft Phi 4 [microsoft/phi-4]: Hit
+  Reasoning: "The total hand value is 7, which is below the typical threshold of 12, making hitting the best strategic choice. The dealer's up card is a King, which could potentially lead to a strong hand, increasing the risk of busting if a stand is chosen early."
+  Drew 3♠ -> 4♠ 3♥ 3♠ (10)
+Microsoft Phi 4 [microsoft/phi-4]: Hit
+  Reasoning: "The total hand value is 10, which is below the typical stand threshold of 12. Given the dealer's King up card, hitting is the best strategy to avoid busting and improve hand value."
+  Drew Q♦ -> 4♠ 3♥ 3♠ Q♦ (20)
+Microsoft Phi 4 [microsoft/phi-4]: Stand
+  Reasoning: "The hand value is 20, which is a strong position against the dealer's King showing card."
+  Stands with 4♠ 3♥ 3♠ Q♦ (20)
+Amazon Nova Premier [amazon/nova-premier-v1]: Hit
+  Reasoning: "With a hand value of 11 and dealer showing King, it's optimal to hit to improve chances."
+  Drew 6♠ -> 7♦ 4♥ 6♠ (17)
+Amazon Nova Premier [amazon/nova-premier-v1]: Stand
+  Reasoning: "A hand value of 17 is strong, and standing is generally optimal against a dealer's King."
+  Stands with 7♦ 4♥ 6♠ (17)
+Meta LLaMA 4 Maverick [meta-llama/llama-4-maverick]: Stand
+  Reasoning: "With a hand value of 17 and the dealer's up card being a K (value 10), standing is the optimal choice as the risk of busting is high if I hit, and the dealer's chance of having a stronger hand is relatively low."
+  Stands with 7♠ 10♦ (17)
+
+Dealer reveals: K♦ 7♥ (17)
+Dealer stands with K♦ 7♥ (17)
+
+=== Results ===
+Microsoft Phi 4: WIN! Wins $5 (New balance: $30)
+Amazon Nova Premier: PUSH (New balance: $80)
+Meta LLaMA 4 Maverick: PUSH (New balance: $40)
+
+=== New Round #14 ===
+Microsoft Phi 4 [microsoft/phi-4] bets $5
+  Reasoning: "With a balance of $30, placing a minimum bet of $5 ensures I continue to play while minimizing risk. This conservative approach allows for longer play and potential recovery of balance."
+Amazon Nova Premier [amazon/nova-premier-v1] bets $10
+  Reasoning: "I want to increase my bet modestly while maintaining balance for future hands."
+Meta LLaMA 4 Maverick [meta-llama/llama-4-maverick] bets $10
+  Reasoning: "I'm betting $10 to balance risk and potential reward, considering my balance and the bets of other players at the table."
+Dealer shows: 7♥ ??
+Microsoft Phi 4: 2♥ J♣ (12)
+Amazon Nova Premier: K♣ 8♣ (18)
+Meta LLaMA 4 Maverick: K♦ 3♥ (13)
+Microsoft Phi 4 [microsoft/phi-4]: DoubleDown
+  Reasoning: "The current hand is 12, and doubling down is favorable when the total is between 9 and 11 with a soft total, especially since the dealer's up card is 7, which is a weak card."
+  Doubled down, drew 10♠ -> 2♥ J♣ 10♠ (BUST 22) (Bet: $10)
+Amazon Nova Premier [amazon/nova-premier-v1]: Stand
+  Reasoning: "[Parse error, defaulting to stand] Raw: {"action": "Stand", "reasoning": "With 18 against dealer's 7, standing is optimal as it's a strong hand and dealer likely needs to draw."};"
+  Stands with K♣ 8♣ (18)
+Meta LLaMA 4 Maverick [meta-llama/llama-4-maverick]: Hit
+  Reasoning: "With a hand value of 13 and the dealer's up card being 7, I need to improve my chances by hitting to get closer to 17 or higher, considering the dealer's potential hand strength."
+  Drew K♠ -> K♦ 3♥ K♠ (BUST 23)
+  Meta LLaMA 4 Maverick BUSTS!
+
+Dealer reveals: 7♥ 3♦ (10)
+Dealer draws 6♣ -> 7♥ 3♦ 6♣ (16)
+Dealer draws 4♣ -> 7♥ 3♦ 6♣ 4♣ (20)
+Dealer stands with 7♥ 3♦ 6♣ 4♣ (20)
+
+=== Results ===
+Microsoft Phi 4: LOSE (New balance: $20)
+Amazon Nova Premier: LOSE (New balance: $70)
+Meta LLaMA 4 Maverick: LOSE (New balance: $30)
+
+=== New Round #15 ===
+Microsoft Phi 4 [microsoft/phi-4] bets $5
+  Reasoning: "Starting with the minimum bet conserves balance for potential future rounds while observing other players' actions."
+Amazon Nova Premier [amazon/nova-premier-v1] bets $10
+  Reasoning: "Balance risk and reward, avoid overexposure relative to balance."
+Meta LLaMA 4 Maverick [meta-llama/llama-4-maverick] bets $10
+  Reasoning: "I'm betting $10 to balance risk and potential reward, considering my moderate balance and the bets of other players at the table."
+Dealer shows: A♠ ??
+Microsoft Phi 4: Q♠ 10♦ (20)
+Amazon Nova Premier: 3♦ 9♠ (12)
+Meta LLaMA 4 Maverick: 5♥ A♦ (16 soft)
+Microsoft Phi 4 [microsoft/phi-4]: Stand
+  Reasoning: "With a total of 20, it's a strong hand against the dealer's Ace, making standing the optimal choice to maximize profit."
+  Stands with Q♠ 10♦ (20)
+Amazon Nova Premier [amazon/nova-premier-v1]: Hit
+  Reasoning: "The dealer has an Ace, and with a total of 12, it's optimal to hit to avoid busting."
+  Drew Q♦ -> 3♦ 9♠ Q♦ (BUST 22)
+  Amazon Nova Premier BUSTS!
+Meta LLaMA 4 Maverick [meta-llama/llama-4-maverick]: Hit
+  Reasoning: "With a soft 16 and the dealer's up card being an Ace, I need to improve my hand to avoid losing, as the dealer has a high chance of having a strong hand."
+  Drew 6♠ -> 5♥ A♦ 6♠ (12)
+Meta LLaMA 4 Maverick [meta-llama/llama-4-maverick]: Hit
+  Reasoning: "With a hand value of 12 and the dealer's up card being an Ace, I need to improve my hand to avoid losing, as the dealer has a high chance of having a strong hand."
+  Drew 6♥ -> 5♥ A♦ 6♠ 6♥ (18)
+Meta LLaMA 4 Maverick [meta-llama/llama-4-maverick]: Stand
+  Reasoning: "With a hand value of 18 and the dealer's up card being an Ace, standing is the best option as the risk of busting outweighs the potential benefit of getting closer to 21 or beating the dealer's likely strong hand."
+  Stands with 5♥ A♦ 6♠ 6♥ (18)
+
+Dealer reveals: A♠ J♣ (Blackjack)
+Dealer has Blackjack!
+
+=== Results ===
+Microsoft Phi 4: LOSE (New balance: $15)
+Amazon Nova Premier: LOSE (New balance: $60)
+Meta LLaMA 4 Maverick: LOSE (New balance: $20)
+
+=== New Round #16 ===
+Microsoft Phi 4 [microsoft/phi-4] bets $5
+  Reasoning: "With a limited balance of $15, a conservative bet of $5 allows continued play while minimizing risk, especially since other players have higher balances."
+Amazon Nova Premier [amazon/nova-premier-v1] bets $10
+  Reasoning: "Balancing risk with potential reward, $10 is a moderate bet given the table stakes."
+Meta LLaMA 4 Maverick [meta-llama/llama-4-maverick] bets $5
+  Reasoning: "[Parse error, defaulting to min bet] Raw: amount": 5, "reasoning": "I'm betting the minimum $5 to manage risk with a low balance, observing other players' bets and table dynamics before considering an increase."}"
+Dealer shows: 5♠ ??
+Microsoft Phi 4: A♥ 5♣ (16 soft)
+Amazon Nova Premier: 3♥ K♦ (13)
+Meta LLaMA 4 Maverick: K♦ K♣ (20)
+Microsoft Phi 4 [microsoft/phi-4]: Stand
+  Reasoning: "The current hand value is 16, which is a strong hand typically close to 17. Doubling down would require a hand of 9 or 10, which is not beneficial given the dealer's weak showing."
+  Stands with A♥ 5♣ (16 soft)
+Amazon Nova Premier [amazon/nova-premier-v1]: Hit
+  Reasoning: "The dealer shows a weak up card, and drawing another card won't bust me."
+  Drew 8♥ -> 3♥ K♦ 8♥ (21)
+Amazon Nova Premier [amazon/nova-premier-v1]: Stand
+  Reasoning: "I have reached 21, the optimal blackjack score. Standing maximizes my chances of winning."
+  Stands with 3♥ K♦ 8♥ (21)
+Meta LLaMA 4 Maverick [meta-llama/llama-4-maverick]: Stand
+  Reasoning: "With a hand value of 20 and the dealer's up card being a 5, the risk of busting by hitting outweighs the potential benefit of improving my hand, and Amazon Nova Premier has already achieved a blackjack, so standing is the safest choice."
+  Stands with K♦ K♣ (20)
+
+Dealer reveals: 5♠ 7♣ (12)
+Dealer draws 6♦ -> 5♠ 7♣ 6♦ (18)
+Dealer stands with 5♠ 7♣ 6♦ (18)
+
+=== Results ===
+Microsoft Phi 4: LOSE (New balance: $10)
+Amazon Nova Premier: WIN! Wins $10 (New balance: $70)
+Meta LLaMA 4 Maverick: WIN! Wins $5 (New balance: $25)
+
+=== New Round #17 ===
+Microsoft Phi 4 [microsoft/phi-4] bets $5
+  Reasoning: "With a balance of $10 and a minimum bet of $5, betting conservatively ensures staying in the game for multiple rounds. This cautious approach allows for sustained play and potential recovery, especially given the presence of other players with higher balances."
+Amazon Nova Premier [amazon/nova-premier-v1] bets $10
+  Reasoning: "Balancing risk with a modest increase over the minimum bet."
+Meta LLaMA 4 Maverick [meta-llama/llama-4-maverick] bets $5
+  Reasoning: "I'm starting with the minimum bet to get a feel for the game and observe the other players' strategies, while conserving my balance."
+Dealer shows: 8♦ ??
+Microsoft Phi 4: K♠ 7♥ (17)
+Amazon Nova Premier: 5♦ Q♥ (15)
+Meta LLaMA 4 Maverick: 6♥ 7♠ (13)
+Microsoft Phi 4 [microsoft/phi-4]: Stand
+  Reasoning: "With a soft 17, standing is the optimal choice as the hand is strong enough against the dealer's 8."
+  Stands with K♠ 7♥ (17)
+Amazon Nova Premier [amazon/nova-premier-v1]: Stand
+  Reasoning: "With 15 against dealer's 8, statistically favorable to stand in this situation."
+  Stands with 5♦ Q♥ (15)
+Meta LLaMA 4 Maverick [meta-llama/llama-4-maverick]: Hit
+  Reasoning: "With a hand value of 13 and the dealer's up card being 8, I need to improve my chances by hitting to get closer to 17 or higher, considering Microsoft Phi 4 has already achieved 17."
+  Drew J♥ -> 6♥ 7♠ J♥ (BUST 23)
+  Meta LLaMA 4 Maverick BUSTS!
+
+Dealer reveals: 8♦ 10♦ (18)
+Dealer stands with 8♦ 10♦ (18)
+
+=== Results ===
+Microsoft Phi 4: LOSE (New balance: $5)
+Amazon Nova Premier: LOSE (New balance: $60)
+Meta LLaMA 4 Maverick: LOSE (New balance: $20)
+
+=== New Round #18 ===
+Microsoft Phi 4 [microsoft/phi-4] bets $5
+  Reasoning: "With a balance of $5, the only viable bet is the minimum $5, aligning with the table's limit and allowing participation in the game."
+Amazon Nova Premier [amazon/nova-premier-v1] bets $10
+  Reasoning: "Balancing risk with opportunity; conservative bet given low stakes from others."
+Meta LLaMA 4 Maverick [meta-llama/llama-4-maverick] bets $5
+  Reasoning: "I'm Meta LLaMA 4 Maverick, and I will start with the minimum bet to conserve my balance and observe the other players' strategies, especially Microsoft Phi 4 who is also betting cautiously."
+Dealer shows: Q♣ ??
+Microsoft Phi 4: 9♥ 5♦ (14)
+Amazon Nova Premier: K♦ 8♦ (18)
+Meta LLaMA 4 Maverick: 10♠ 3♦ (13)
+Microsoft Phi 4 [microsoft/phi-4]: Hit
+  Reasoning: "With a dealer showing a Q, the risk of busting the dealer is high, and my current hand value of 14 is weak. Hitting gives a chance to improve my hand."
+  Drew 5♠ -> 9♥ 5♦ 5♠ (19)
+Microsoft Phi 4 [microsoft/phi-4]: Stand
+  Reasoning: "With a hand value of 19, standing is the best decision to avoid busting while maximizing the hand's value against the dealer's high-value up card."
+  Stands with 9♥ 5♦ 5♠ (19)
+Amazon Nova Premier [amazon/nova-premier-v1]: Stand
+  Reasoning: "[Parse error, defaulting to stand] Raw: {"action": "Stand", "reasoning": "With 18 and the dealer showing a Queen, the odds favor standing."};"
+  Stands with K♦ 8♦ (18)
+Meta LLaMA 4 Maverick [meta-llama/llama-4-maverick]: Hit
+  Reasoning: "With a hand value of 13 and the dealer's up card being a Q, there's a high risk of losing if I stand, so I need to improve my hand; other players' hands suggest the dealer might have a strong hand, but I still have a chance to get closer to 21 or at least 17."
+  Drew Q♥ -> 10♠ 3♦ Q♥ (BUST 23)
+  Meta LLaMA 4 Maverick BUSTS!
+
+Dealer reveals: Q♣ 4♣ (14)
+Dealer draws A♠ -> Q♣ 4♣ A♠ (15)
+Dealer draws J♦ -> Q♣ 4♣ A♠ J♦ (BUST 25)
+Dealer BUSTS!
+
+=== Results ===
+Microsoft Phi 4: WIN! Wins $5 (New balance: $10)
+Amazon Nova Premier: WIN! Wins $10 (New balance: $70)
+Meta LLaMA 4 Maverick: LOSE (New balance: $15)
+
+=== New Round #19 ===
+Microsoft Phi 4 [microsoft/phi-4] bets $5
+  Reasoning: "With a balance of $10 and a minimum bet of $5, I must conserve funds to ensure I can meet the minimum betting requirements. The cautious approach is chosen to maintain a competitive position relative to other players, especially considering Meta LLaMA 4's lower balance and risk appetite."
+Amazon Nova Premier [amazon/nova-premier-v1] bets $15
+  Reasoning: "Taking a moderate risk given small balances of other players; aiming for a strategic advantage."
+Meta LLaMA 4 Maverick [meta-llama/llama-4-maverick] bets $5
+  Reasoning: "I will bet the minimum $5 to conserve my balance while still participating in the game, as my balance is relatively low compared to other players and I don't want to take excessive risk."
+Dealer shows: K♥ ??
+Microsoft Phi 4: 5♦ K♠ (15)
+Amazon Nova Premier: A♣ 5♦ (16 soft)
+Meta LLaMA 4 Maverick: A♥ Q♠ (Blackjack)
+Microsoft Phi 4 [microsoft/phi-4]: Stand
+  Reasoning: "With a hand value of 15 and a soft 16 from the other player, standing is the optimal decision to avoid busting and minimize risk."
+  Stands with 5♦ K♠ (15)
+Amazon Nova Premier [amazon/nova-premier-v1]: Hit
+  Reasoning: "Soft 16 against dealer King is weak; optimal strategy is to hit."
+  Drew 6♥ -> A♣ 5♦ 6♥ (12)
+Amazon Nova Premier [amazon/nova-premier-v1]: Hit
+  Reasoning: "Dealer has a strong up card; 12 is a weak hand and needs improvement."
+  Drew K♥ -> A♣ 5♦ 6♥ K♥ (BUST 22)
+  Amazon Nova Premier BUSTS!
+Meta LLaMA 4 Maverick has Blackjack.
+
+Dealer reveals: K♥ 8♥ (18)
+Dealer stands with K♥ 8♥ (18)
+
+=== Results ===
+Microsoft Phi 4: LOSE (New balance: $5)
+Amazon Nova Premier: LOSE (New balance: $55)
+Meta LLaMA 4 Maverick: BLACKJACK! Wins $12 (New balance: $22)
+
+=== New Round #20 ===
+Microsoft Phi 4 [microsoft/phi-4] bets $5
+  Reasoning: "With only $5 to bet, the minimum and maximum bet is the same, allowing participation in the hand while managing the risk entirely within the current balance."
+Amazon Nova Premier [amazon/nova-premier-v1] bets $10
+  Reasoning: "Balancing risk and reward while leveraging a modest increase over the minimum bet."
+Meta LLaMA 4 Maverick [meta-llama/llama-4-maverick] bets $10
+  Reasoning: "I'm betting $10, matching the higher bettor to maintain a moderate risk level and observing the other players' moves, while also being mindful of my balance."
+Dealer shows: 3♣ ??
+Microsoft Phi 4: A♥ 6♦ (17 soft)
+Amazon Nova Premier: 3♠ 7♣ (10)
+Meta LLaMA 4 Maverick: J♣ 3♥ (13)
+Microsoft Phi 4 [microsoft/phi-4]: Stand
+  Reasoning: "With a soft 17, standing is optimal when the dealer shows a 3, as there's a good chance the dealer will bust."
+  Stands with A♥ 6♦ (17 soft)
+Amazon Nova Premier [amazon/nova-premier-v1]: DoubleDown
+  Reasoning: "With a 10 against dealer's 3, doubling down is optimal to capitalize on the dealer's weak up card."
+  Doubled down, drew 9♦ -> 3♠ 7♣ 9♦ (19) (Bet: $20)
+Meta LLaMA 4 Maverick [meta-llama/llama-4-maverick]: Hit
+  Reasoning: "With a hand value of 13 and the dealer's up card being a 3, I need to improve my hand to be more competitive, and hitting is a safe option to get closer to 17 or higher without risking a bust. Other players have strong hands, but my current hand is relatively weak."
+  Drew 7♣ -> J♣ 3♥ 7♣ (20)
+Meta LLaMA 4 Maverick [meta-llama/llama-4-maverick]: Stand
+  Reasoning: "With a hand value of 20, I have a strong hand that is likely to win, and taking another card risks busting, so standing is the safest and most strategic decision."
+  Stands with J♣ 3♥ 7♣ (20)
+
+Dealer reveals: 3♣ K♦ (13)
+Dealer draws 4♦ -> 3♣ K♦ 4♦ (17)
+Dealer stands with 3♣ K♦ 4♦ (17)
+
+=== Results ===
+Microsoft Phi 4: PUSH (New balance: $5)
+Amazon Nova Premier: WIN! Wins $20 (New balance: $75)
+Meta LLaMA 4 Maverick: WIN! Wins $10 (New balance: $32)
+
+=== New Round #21 ===
+Microsoft Phi 4 [microsoft/phi-4] bets $5
+  Reasoning: "With a balance of $5, the minimum bet is $5. This conservative bet ensures maintaining the balance while observing other players' strategies and limits."
+Amazon Nova Premier [amazon/nova-premier-v1] bets $10
+  Reasoning: "Increasing bet moderately to leverage advantage but managing risk given smaller bankroll."
+Meta LLaMA 4 Maverick [meta-llama/llama-4-maverick] bets $10
+  Reasoning: "I'm Meta LLaMA 4 Maverick, betting $10 to balance risk and potential reward, considering my balance and the bets of other players at the table."
+Dealer shows: K♣ ??
+Microsoft Phi 4: J♥ 4♠ (14)
+Amazon Nova Premier: 2♦ 4♣ (6)
+Meta LLaMA 4 Maverick: 9♥ 8♦ (17)
+Microsoft Phi 4 [microsoft/phi-4]: Stand
+  Reasoning: "The dealer's up card is a King, which is strong. My hand totals 14, and with the possibility of drawing an Ace, standing is preferable to avoid busting."
+  Stands with J♥ 4♠ (14)
+Amazon Nova Premier [amazon/nova-premier-v1]: Hit
+  Reasoning: "Dealer shows a King; with a 6, hitting is optimal to improve the weak hand."
+  Drew Q♠ -> 2♦ 4♣ Q♠ (16)
+Amazon Nova Premier [amazon/nova-premier-v1]: Hit
+  Reasoning: "Dealer has a King, with 16 points, it's safer to hit rather than risk busting."
+  Drew 5♣ -> 2♦ 4♣ Q♠ 5♣ (21)
+Amazon Nova Premier [amazon/nova-premier-v1]: Stand
+  Reasoning: "Current hand value is 21. Standing is optimal to avoid busting."
+  Stands with 2♦ 4♣ Q♠ 5♣ (21)
+Meta LLaMA 4 Maverick [meta-llama/llama-4-maverick]: Stand
+  Reasoning: "[Parse error, defaulting to stand] Raw: {"action": "Stand", "reasoning": "With a hand value of 17 and the dealer's up card being a K (value 10), the risk of busting outweighs the potential benefit of getting closer to 21 or beating the dealer's likely hand value"
+  Stands with 9♥ 8♦ (17)
+
+Dealer reveals: K♣ 9♦ (19)
+Dealer stands with K♣ 9♦ (19)
+
+=== Results ===
+Microsoft Phi 4: LOSE (New balance: $0)
+Amazon Nova Premier: WIN! Wins $10 (New balance: $85)
+Meta LLaMA 4 Maverick: LOSE (New balance: $22)
+Microsoft Phi 4 is eliminated (Balance: $0).
+
+=== New Round #22 ===
+Amazon Nova Premier [amazon/nova-premier-v1] bets $10
+  Reasoning: "Betting 10% of balance maintains a balance between risk and reward."
+Meta LLaMA 4 Maverick [meta-llama/llama-4-maverick] bets $5
+  Reasoning: "I'm betting the minimum to conserve my balance and assess the game dynamics, as I'm the second player to act after Amazon Nova Premier."
+Dealer shows: 9♠ ??
+Amazon Nova Premier: 10♣ K♣ (20)
+Meta LLaMA 4 Maverick: 6♣ K♥ (16)
+Amazon Nova Premier [amazon/nova-premier-v1]: Stand
+  Reasoning: "You have a strong hand of 20. Dealer's up card is 9, making a bust likely for dealer."
+  Stands with 10♣ K♣ (20)
+Meta LLaMA 4 Maverick [meta-llama/llama-4-maverick]: Stand
+  Reasoning: "With a hand value of 16 and the dealer's up card being 9, standing is the best option to avoid going over 21, especially since another player has a strong hand and the dealer may still need to draw."
+  Stands with 6♣ K♥ (16)
+
+Dealer reveals: 9♠ 6♥ (15)
+Dealer draws 6♠ -> 9♠ 6♥ 6♠ (21)
+Dealer stands with 9♠ 6♥ 6♠ (21)
+
+=== Results ===
+Amazon Nova Premier: LOSE (New balance: $75)
+Meta LLaMA 4 Maverick: LOSE (New balance: $17)
+
+=== New Round #23 ===
+Amazon Nova Premier [amazon/nova-premier-v1] bets $10
+  Reasoning: "Betting moderately to manage risk while giving room for potential strategy adjustments."
+Meta LLaMA 4 Maverick [meta-llama/llama-4-maverick] bets $5
+  Reasoning: "I'm betting the minimum to conserve my balance and assess the dealer's upcard before taking more risk, as I'm the last to act and want to observe Amazon Nova Premier's outcome first."
+Dealer shows: J♣ ??
+Amazon Nova Premier: A♦ A♥ (12 soft)
+Meta LLaMA 4 Maverick: 4♠ 6♥ (10)
+Amazon Nova Premier [amazon/nova-premier-v1]: Stand
+  Reasoning: "Splitting aces is statistically favorable against any dealer upcard."
+  Stands with A♦ A♥ (12 soft)
+Meta LLaMA 4 Maverick [meta-llama/llama-4-maverick]: Hit
+  Reasoning: "With a hand value of 10 and the dealer's up card being a J, I need to improve my hand to get closer to 21 or at least have a higher chance of beating the dealer's hand. The risk of busting is low with a hit, so I'll take another card."
+  Drew 9♣ -> 4♠ 6♥ 9♣ (19)
+Meta LLaMA 4 Maverick [meta-llama/llama-4-maverick]: Stand
+  Reasoning: "With a hand value of 19, I have a strong hand and standing is the best option as the risk of busting is high with another hit, and beating the dealer's hand is likely."
+  Stands with 4♠ 6♥ 9♣ (19)
+
+Dealer reveals: J♣ 10♦ (20)
+Dealer stands with J♣ 10♦ (20)
+
+=== Results ===
+Amazon Nova Premier: LOSE (New balance: $65)
+Meta LLaMA 4 Maverick: LOSE (New balance: $12)
+
+=== New Round #24 ===
+Amazon Nova Premier [amazon/nova-premier-v1] bets $10
+  Reasoning: "Balancing risk with Meta LLaMA 4 Maverick's smaller bank, starting conservative."
+Meta LLaMA 4 Maverick [meta-llama/llama-4-maverick] bets $5
+  Reasoning: "I'm Meta LLaMA 4 Maverick and I will bet the minimum $5 to conserve my balance while still participating in the game, as betting more than the minimum with a low balance is risky."
+Dealer shows: 10♣ ??
+Amazon Nova Premier: 2♠ J♦ (12)
+Meta LLaMA 4 Maverick: 5♣ K♥ (15)
+Amazon Nova Premier [amazon/nova-premier-v1]: Hit
+  Reasoning: "Dealer's up card is high. My hand total is low and likely to bust without improvement."
+  Drew 5♣ -> 2♠ J♦ 5♣ (17)
+Amazon Nova Premier [amazon/nova-premier-v1]: Stand
+  Reasoning: "With a 17, standing is the safest choice against the dealer's high up card."
+  Stands with 2♠ J♦ 5♣ (17)
+Meta LLaMA 4 Maverick [meta-llama/llama-4-maverick]: Hit
+  Reasoning: "With a hand value of 15 and the dealer's up card being 10, I need to improve my hand to avoid a potential loss; Amazon Nova Premier has a strong hand, but my decision is based on my own hand and the dealer's up card."
+  Drew 9♦ -> 5♣ K♥ 9♦ (BUST 24)
+  Meta LLaMA 4 Maverick BUSTS!
+
+Dealer reveals: 10♣ 7♦ (17)
+Dealer stands with 10♣ 7♦ (17)
+
+=== Results ===
+Amazon Nova Premier: PUSH (New balance: $65)
+Meta LLaMA 4 Maverick: LOSE (New balance: $7)
+
+=== New Round #25 ===
+Amazon Nova Premier [amazon/nova-premier-v1] bets $10
+  Reasoning: "Betting conservatively to manage risk while still participating actively."
+Meta LLaMA 4 Maverick [meta-llama/llama-4-maverick] bets $5
+  Reasoning: "I'm betting the minimum $5 as I'm the Meta LLaMA 4 Maverick with a limited balance of $7 and need to conserve funds while still participating in the game, also avoiding significant risk."
+Dealer shows: 10♣ ??
+Amazon Nova Premier: 3♠ 10♥ (13)
+Meta LLaMA 4 Maverick: 7♥ 2♥ (9)
+Amazon Nova Premier [amazon/nova-premier-v1]: Hit
+  Reasoning: "Dealer shows a strong up card; improve weak hand to avoid bust risk."
+  Drew J♠ -> 3♠ 10♥ J♠ (BUST 23)
+  Amazon Nova Premier BUSTS!
+Meta LLaMA 4 Maverick [meta-llama/llama-4-maverick]: Hit
+  Reasoning: "With a hand value of 9 and the dealer's up card being 10, I need to improve my hand to avoid a likely loss; hitting gives me a chance to get closer to 21 or at least have a better chance against the dealer's potential hand."
+  Drew 2♠ -> 7♥ 2♥ 2♠ (11)
+Meta LLaMA 4 Maverick [meta-llama/llama-4-maverick]: Stand
+  Reasoning: "[Parse error, defaulting to stand] Raw: action": "Hit", "reasoning": "With a hand value of 11 and the dealer's up card being 10, I should hit to improve my chances of winning or at least push the dealer's potential hand; there's still room to get closer to 21 without exceeding it."}"
+  Stands with 7♥ 2♥ 2♠ (11)
+
+Dealer reveals: 10♣ 4♥ (14)
+Dealer draws Q♠ -> 10♣ 4♥ Q♠ (BUST 24)
+Dealer BUSTS!
+
+=== Results ===
+Amazon Nova Premier: LOSE (New balance: $55)
+Meta LLaMA 4 Maverick: WIN! Wins $5 (New balance: $12)
+
+=== New Round #26 ===
+Amazon Nova Premier [amazon/nova-premier-v1] bets $10
+  Reasoning: "A modest increase from the minimum to manage risk while maximizing potential returns."
+Meta LLaMA 4 Maverick [meta-llama/llama-4-maverick] bets $5
+  Reasoning: "I'm betting the minimum to conserve my balance while still participating in the game, as I'm the second player to act and want to gauge the dealer's upcard before making more aggressive decisions."
+Dealer shows: 8♦ ??
+Amazon Nova Premier: 8♥ A♠ (19 soft)
+Meta LLaMA 4 Maverick: Q♥ 9♦ (19)
+Amazon Nova Premier [amazon/nova-premier-v1]: Stand
+  Reasoning: "A soft 19 is a strong hand, and standing is the best option to avoid busting."
+  Stands with 8♥ A♠ (19 soft)
+Meta LLaMA 4 Maverick [meta-llama/llama-4-maverick]: Stand
+  Reasoning: "With a hand value of 19, I have a strong chance of winning or pushing, and the dealer's up card is an 8, which doesn't indicate a strong likelihood of them improving to 20 or 21, so standing is the safest choice."
+  Stands with Q♥ 9♦ (19)
+
+Dealer reveals: 8♦ A♥ (19 soft)
+Dealer stands with 8♦ A♥ (19 soft)
+
+=== Results ===
+Amazon Nova Premier: PUSH (New balance: $55)
+Meta LLaMA 4 Maverick: PUSH (New balance: $12)
+
+=== New Round #27 ===
+Amazon Nova Premier [amazon/nova-premier-v1] bets $10
+  Reasoning: "Betting $10 balances risk with potential reward, considering Meta LLaMA 4 Maverick's low balance."
+Meta LLaMA 4 Maverick [meta-llama/llama-4-maverick] bets $5
+  Reasoning: "I'm betting the minimum $5 to manage risk with a low balance, and being the second player allows me to observe Amazon Nova Premier's initial hand before making decisions."
+Dealer shows: 10♥ ??
+Amazon Nova Premier: A♠ J♦ (Blackjack)
+Meta LLaMA 4 Maverick: K♠ 10♥ (20)
+Amazon Nova Premier has Blackjack.
+Meta LLaMA 4 Maverick [meta-llama/llama-4-maverick]: Stand
+  Reasoning: "With a hand value of 20 and the dealer's up card being 10, the risk of going over 21 by hitting outweighs the potential benefit, and standing is the optimal decision. Since another player has already achieved Blackjack, the pressure to take risks is reduced."
+  Stands with K♠ 10♥ (20)
+
+Dealer reveals: 10♥ 4♦ (14)
+Dealer draws 7♣ -> 10♥ 4♦ 7♣ (21)
+Dealer stands with 10♥ 4♦ 7♣ (21)
+
+=== Results ===
+Amazon Nova Premier: BLACKJACK! Wins $25 (New balance: $70)
+Meta LLaMA 4 Maverick: LOSE (New balance: $7)
+
+=== New Round #28 ===
+Amazon Nova Premier [amazon/nova-premier-v1] bets $10
+  Reasoning: "Balancing risk with a modest increase over the minimum, while keeping an eye on Meta LLaMA 4 Maverick's minimal stake."
+Meta LLaMA 4 Maverick [meta-llama/llama-4-maverick] bets $5
+  Reasoning: "I'm Meta LLaMA 4 Maverick and I need to bet the minimum $5 to stay in the game without risking too much given my low balance of $7, and betting more than $5 would leave me with insufficient funds for subsequent rounds."
+Dealer shows: Q♦ ??
+Amazon Nova Premier: J♣ 5♠ (15)
+Meta LLaMA 4 Maverick: 5♣ A♦ (16 soft)
+Amazon Nova Premier [amazon/nova-premier-v1]: Stand
+  Reasoning: "[Parse error, defaulting to stand] Raw: {"action": "Hit", "reasoning": "Dealer shows a high card and my hand value is low. Optimal strategy dictates to hit."};"
+  Stands with J♣ 5♠ (15)
+Meta LLaMA 4 Maverick [meta-llama/llama-4-maverick]: Hit
+  Reasoning: "With a soft 16 and the dealer's up card being a Q, there's a high risk of losing if I stand; hitting gives me a chance to improve my hand without risking a bust since it's a soft total."
+  Drew 5♣ -> 5♣ A♦ 5♣ (21 soft)
+Meta LLaMA 4 Maverick [meta-llama/llama-4-maverick]: Stand
+  Reasoning: "With a hand value of 21, standing is the optimal decision as it's the highest possible hand and there's no risk of busting; the dealer's up card being a Q doesn't change this since we already have a blackjack."
+  Stands with 5♣ A♦ 5♣ (21 soft)
+
+Dealer reveals: Q♦ 8♠ (18)
+Dealer stands with Q♦ 8♠ (18)
+
+=== Results ===
+Amazon Nova Premier: LOSE (New balance: $60)
+Meta LLaMA 4 Maverick: WIN! Wins $5 (New balance: $12)
+
+=== New Round #29 ===
+Amazon Nova Premier [amazon/nova-premier-v1] bets $10
+  Reasoning: "Balancing risk with a modest increase, considering Meta LLaMA 4 Maverick's low balance."
+Meta LLaMA 4 Maverick [meta-llama/llama-4-maverick] bets $5
+  Reasoning: "I'm Meta LLaMA 4 Maverick and I will bet the minimum $5 to minimize risk with a low balance, while still participating in the game."
+Dealer shows: 2♥ ??
+Amazon Nova Premier: 7♠ 5♥ (12)
+Meta LLaMA 4 Maverick: J♠ 6♠ (16)
+Amazon Nova Premier [amazon/nova-premier-v1]: Hit
+  Reasoning: "Dealer has low up card (2). Optimal strategy is to hit on 12 against 2."
+  Drew 4♦ -> 7♠ 5♥ 4♦ (16)
+Amazon Nova Premier [amazon/nova-premier-v1]: Hit
+  Reasoning: "Dealer shows 2, current hand is 16. Optimal strategy dictates to hit below 17 against dealer's 2."
+  Drew 4♥ -> 7♠ 5♥ 4♦ 4♥ (20)
+Amazon Nova Premier [amazon/nova-premier-v1]: Stand
+  Reasoning: "Current hand is 20. Optimal strategy is to stand on 20 against any dealer up card."
+  Stands with 7♠ 5♥ 4♦ 4♥ (20)
+Meta LLaMA 4 Maverick [meta-llama/llama-4-maverick]: Stand
+  Reasoning: "With a hand value of 16 and the dealer's up card being a 2, the risk of busting outweighs the potential benefit of getting closer to 21 or beating the dealer's likely hand. Other players' hands, like Amazon Nova Premier's 20, don't directly influence my decision since I'm not competing against them directly."
+  Stands with J♠ 6♠ (16)
+
+Dealer reveals: 2♥ K♠ (12)
+Dealer draws 10♦ -> 2♥ K♠ 10♦ (BUST 22)
+Dealer BUSTS!
+
+=== Results ===
+Amazon Nova Premier: WIN! Wins $10 (New balance: $70)
+Meta LLaMA 4 Maverick: WIN! Wins $5 (New balance: $17)
+
+=== New Round #30 ===
+Amazon Nova Premier [amazon/nova-premier-v1] bets $10
+  Reasoning: "A moderate bet to manage risk while staying competitive."
+Meta LLaMA 4 Maverick [meta-llama/llama-4-maverick] bets $5
+  Reasoning: "I'm starting with the minimum bet to conserve my balance and assess the table dynamics, as I'm the last to act after Amazon Nova Premier."
+Dealer shows: A♣ ??
+Amazon Nova Premier: 7♣ 4♦ (11)
+Meta LLaMA 4 Maverick: Q♣ Q♦ (20)
+Amazon Nova Premier [amazon/nova-premier-v1]: DoubleDown
+  Reasoning: "With 11 against dealer Ace, doubling is optimal to increase potential winnings on a stiff dealer hand."
+  Doubled down, drew 8♦ -> 7♣ 4♦ 8♦ (19) (Bet: $20)
+Meta LLaMA 4 Maverick [meta-llama/llama-4-maverick]: Stand
+  Reasoning: "With a hand value of 20, I have a strong chance of winning, and taking another card risks me going over 21. The dealer's Ace upcard suggests they may have a strong hand, but standing with 20 is generally the best strategy."
+  Stands with Q♣ Q♦ (20)
+
+Dealer reveals: A♣ 9♦ (20 soft)
+Dealer stands with A♣ 9♦ (20 soft)
+
+=== Results ===
+Amazon Nova Premier: LOSE (New balance: $50)
+Meta LLaMA 4 Maverick: PUSH (New balance: $17)
+
+=== New Round #31 ===
+Amazon Nova Premier [amazon/nova-premier-v1] bets $10
+  Reasoning: "I have a modest balance; betting $10 allows risk management while maximizing potential returns."
+Meta LLaMA 4 Maverick [meta-llama/llama-4-maverick] bets $5
+  Reasoning: "I'm betting the minimum to conserve my balance and assess the game dynamics, as I'm the last to act and can observe other players' moves, including Amazon Nova Premier's $10 bet."
+Dealer shows: 6♠ ??
+Amazon Nova Premier: 10♦ Q♠ (20)
+Meta LLaMA 4 Maverick: 8♣ K♣ (18)
+Amazon Nova Premier [amazon/nova-premier-v1]: Stand
+  Reasoning: "You have 20, which is a strong hand, and the dealer's up card is low."
+  Stands with 10♦ Q♠ (20)
+Meta LLaMA 4 Maverick [meta-llama/llama-4-maverick]: Stand
+  Reasoning: "With a hand value of 18 and the dealer's up card being 6, the risk of busting outweighs the potential benefit of getting closer to 21 or beating the dealer's likely total. Standing is the safest choice given the strong hand and the dealer's relatively weak up card."
+  Stands with 8♣ K♣ (18)
+
+Dealer reveals: 6♠ Q♦ (16)
+Dealer draws 10♠ -> 6♠ Q♦ 10♠ (BUST 26)
+Dealer BUSTS!
+
+=== Results ===
+Amazon Nova Premier: WIN! Wins $10 (New balance: $60)
+Meta LLaMA 4 Maverick: WIN! Wins $5 (New balance: $22)
+
+=== New Round #32 ===
+Amazon Nova Premier [amazon/nova-premier-v1] bets $10
+  Reasoning: "Balancing risk by betting more than the minimum but keeping enough for future hands."
+Meta LLaMA 4 Maverick [meta-llama/llama-4-maverick] bets $5
+  Reasoning: "I'm starting with the minimum bet to conserve my balance and assess the table dynamics, as Amazon Nova Premier is betting $10."
+Dealer shows: K♣ ??
+Amazon Nova Premier: 3♣ 9♦ (12)
+Meta LLaMA 4 Maverick: K♦ 6♠ (16)
+Amazon Nova Premier [amazon/nova-premier-v1]: Hit
+  Reasoning: "With a hand value of 12 against the dealer's King, hitting is optimal to avoid busting against a strong dealer upcard."
+  Drew 3♥ -> 3♣ 9♦ 3♥ (15)
+Amazon Nova Premier [amazon/nova-premier-v1]: Stand
+  Reasoning: "With a hand value of 15 against the dealer's King, standing is optimal since the risk of busting is high."
+  Stands with 3♣ 9♦ 3♥ (15)
+Meta LLaMA 4 Maverick [meta-llama/llama-4-maverick]: Stand
+  Reasoning: "With a hand value of 16 and the dealer's up card being a K, standing is the best option to avoid going over 21. The risk of busting outweighs the potential benefit of getting closer to 21 or beating the dealer's likely high total."
+  Stands with K♦ 6♠ (16)
+
+Dealer reveals: K♣ Q♥ (20)
+Dealer stands with K♣ Q♥ (20)
+
+=== Results ===
+Amazon Nova Premier: LOSE (New balance: $50)
+Meta LLaMA 4 Maverick: LOSE (New balance: $17)
+
+=== New Round #33 ===
+Amazon Nova Premier [amazon/nova-premier-v1] bets $10
+  Reasoning: "Balancing risk with opportunity to capitalize, while staying cautious given the other player’s low balance."
+Meta LLaMA 4 Maverick [meta-llama/llama-4-maverick] bets $5
+  Reasoning: "[Parse error, defaulting to min bet] Raw: amount": 5, "reasoning": "I'm betting the minimum to conserve my balance while still participating in the game, as I'm the last to act and can observe other players' moves, including Amazon Nova Premier's $10 bet."}"
+Dealer shows: Q♠ ??
+Amazon Nova Premier: 3♠ 7♠ (10)
+Meta LLaMA 4 Maverick: 6♥ 9♥ (15)
+Amazon Nova Premier [amazon/nova-premier-v1]: DoubleDown
+  Reasoning: "With a hand value of 10 against the dealer's Queen, doubling down is optimal to maximize potential winnings."
+  Doubled down, drew K♠ -> 3♠ 7♠ K♠ (20) (Bet: $20)
+Meta LLaMA 4 Maverick [meta-llama/llama-4-maverick]: Hit
+  Reasoning: "With a hand value of 15 and the dealer's up card being a Q, there's a high risk of losing if I stand, so I'll hit to try to get closer to 21 or at least improve my chances. Amazon Nova Premier's hand value of 20 doesn't directly impact my decision."
+  Drew A♦ -> 6♥ 9♥ A♦ (16)
+Meta LLaMA 4 Maverick [meta-llama/llama-4-maverick]: Hit
+  Reasoning: "With a hand value of 16 and the dealer's up card being a Q, there's still a risk of losing if I stand, so I'll hit to try to improve my chances. The strong hand of Amazon Nova Premier doesn't directly impact my decision."
+  Drew 9♣ -> 6♥ 9♥ A♦ 9♣ (BUST 25)
+  Meta LLaMA 4 Maverick BUSTS!
+
+Dealer reveals: Q♠ 5♠ (15)
+Dealer draws Q♣ -> Q♠ 5♠ Q♣ (BUST 25)
+Dealer BUSTS!
+
+=== Results ===
+Amazon Nova Premier: WIN! Wins $20 (New balance: $70)
+Meta LLaMA 4 Maverick: LOSE (New balance: $12)
+
+=== New Round #34 ===
+Amazon Nova Premier [amazon/nova-premier-v1] bets $10
+  Reasoning: "I have sufficient balance and want to manage risk while playing strategically."
+Meta LLaMA 4 Maverick [meta-llama/llama-4-maverick] bets $5
+  Reasoning: "I'm starting with the minimum bet to conserve my balance and assess the table dynamics, as I'm the player with the lowest balance and want to minimize risk."
+Dealer shows: J♠ ??
+Amazon Nova Premier: Q♣ 6♠ (16)
+Meta LLaMA 4 Maverick: 4♥ 2♦ (6)
+Amazon Nova Premier [amazon/nova-premier-v1]: Hit
+  Reasoning: "With a hand value of 16 and the dealer showing a Jack, the probability of busting is high if I stand. Therefore, I should hit."
+  Drew 2♠ -> Q♣ 6♠ 2♠ (18)
+Amazon Nova Premier [amazon/nova-premier-v1]: Stand
+  Reasoning: "With a hand value of 18 and the dealer showing a Jack, standing is the optimal decision as the dealer's potential total is likely to be weaker."
+  Stands with Q♣ 6♠ 2♠ (18)
+Meta LLaMA 4 Maverick [meta-llama/llama-4-maverick]: Stand
+  Reasoning: "[Parse error, defaulting to stand] Raw: {"action": "Hit", "reasoning": "With a hand value of 6 and the dealer's up card being a J, I need to improve my hand to be competitive. Since my current hand is weak, hitting is the most appropriate action to increase my chances of winning.""
+  Stands with 4♥ 2♦ (6)
+
+Dealer reveals: J♠ 9♥ (19)
+Dealer stands with J♠ 9♥ (19)
+
+=== Results ===
+Amazon Nova Premier: LOSE (New balance: $60)
+Meta LLaMA 4 Maverick: LOSE (New balance: $7)
+
+=== New Round #35 ===
+Amazon Nova Premier [amazon/nova-premier-v1] bets $10
+  Reasoning: "Considering my balance and Meta LLaMA 4 Maverick's low funds, a modest increase is prudent."
+Meta LLaMA 4 Maverick [meta-llama/llama-4-maverick] bets $5
+  Reasoning: "I'm betting the minimum $5 to minimize risk given my low balance and observing other players' bets and balances before making a more substantial wager."
+Dealer shows: 6♦ ??
+Amazon Nova Premier: 9♥ A♠ (20 soft)
+Meta LLaMA 4 Maverick: A♣ 4♣ (15 soft)
+Amazon Nova Premier [amazon/nova-premier-v1]: Stand
+  Reasoning: "Soft 20 is a strong hand and statistically should stand against a dealer's 6."
+  Stands with 9♥ A♠ (20 soft)
+Meta LLaMA 4 Maverick [meta-llama/llama-4-maverick]: Stand
+  Reasoning: "[Parse error, defaulting to stand] Raw: action": "Hit", "reasoning": "With a soft 15 and the dealer's up card being a 6, I should hit to try to get closer to 21 or at least improve my chances against the dealer's potential hand. Since my current bet is $5 and my remaining balance is $2, I won't be able to double down anyway."}"
+  Stands with A♣ 4♣ (15 soft)
+
+Dealer reveals: 6♦ K♠ (16)
+Dealer draws 9♠ -> 6♦ K♠ 9♠ (BUST 25)
+Dealer BUSTS!
+
+=== Results ===
+Amazon Nova Premier: WIN! Wins $10 (New balance: $70)
+Meta LLaMA 4 Maverick: WIN! Wins $5 (New balance: $12)
+
+=== New Round #36 ===
+Amazon Nova Premier [amazon/nova-premier-v1] bets $10
+  Reasoning: "Bet low to manage risk while still playing strategically."
+Meta LLaMA 4 Maverick [meta-llama/llama-4-maverick] bets $5
+  Reasoning: "I'm betting the minimum $5 to conserve my balance and minimize risk, as I'm the last to act and can observe other players' moves, including Amazon Nova Premier's $10 bet."
+Dealer shows: 3♥ ??
+Amazon Nova Premier: J♥ 9♠ (19)
+Meta LLaMA 4 Maverick: 4♦ 7♣ (11)
+Amazon Nova Premier [amazon/nova-premier-v1]: Stand
+  Reasoning: "19 is a strong hand, and the dealer's up card is low."
+  Stands with J♥ 9♠ (19)
+Meta LLaMA 4 Maverick [meta-llama/llama-4-maverick]: Hit
+  Reasoning: "With a hand value of 11 and the dealer's up card being a 3, it's a good opportunity to improve my hand without a high risk of busting. Another player has a strong hand, but it doesn't directly impact my decision."
+  Drew 10♥ -> 4♦ 7♣ 10♥ (21)
+Meta LLaMA 4 Maverick [meta-llama/llama-4-maverick]: Stand
+  Reasoning: "With a hand value of 21, I have a strong chance of winning, and taking another card risks busting. Standing with 21 is a safe decision, especially considering the dealer's relatively weak up card of 3♥."
+  Stands with 4♦ 7♣ 10♥ (21)
+
+Dealer reveals: 3♥ 3♥ (6)
+Dealer draws Q♠ -> 3♥ 3♥ Q♠ (16)
+Dealer draws J♦ -> 3♥ 3♥ Q♠ J♦ (BUST 26)
+Dealer BUSTS!
+
+=== Results ===
+Amazon Nova Premier: WIN! Wins $10 (New balance: $80)
+Meta LLaMA 4 Maverick: WIN! Wins $5 (New balance: $17)
+
+=== New Round #37 ===
+Amazon Nova Premier [amazon/nova-premier-v1] bets $10
+  Reasoning: "Given my balance and the minimum bet, risking $10 is prudent for sustained gameplay."
+Meta LLaMA 4 Maverick [meta-llama/llama-4-maverick] bets $5
+  Reasoning: "I'm Meta LLaMA 4 Maverick and I will start with the minimum bet of $5 to manage risk with a low balance, observing the game's progression before potentially increasing my wager."
+Dealer shows: K♣ ??
+Amazon Nova Premier: Q♦ 8♥ (18)
+Meta LLaMA 4 Maverick: 9♠ 10♠ (19)
+Amazon Nova Premier [amazon/nova-premier-v1]: Stand
+  Reasoning: "With a hand value of 18 and the dealer showing a King, standing is optimal strategy."
+  Stands with Q♦ 8♥ (18)
+Meta LLaMA 4 Maverick [meta-llama/llama-4-maverick]: Stand
+  Reasoning: "With a hand value of 19, standing is the optimal decision as the risk of busting is high and the dealer's up card is a K, indicating a strong hand but not enough to justify taking a risk to improve my hand further."
+  Stands with 9♠ 10♠ (19)
+
+Dealer reveals: K♣ 3♠ (13)
+Dealer draws 7♣ -> K♣ 3♠ 7♣ (20)
+Dealer stands with K♣ 3♠ 7♣ (20)
+
+=== Results ===
+Amazon Nova Premier: LOSE (New balance: $70)
+Meta LLaMA 4 Maverick: LOSE (New balance: $12)
+
+=== New Round #38 ===
+Amazon Nova Premier [amazon/nova-premier-v1] bets $10
+  Reasoning: "Balancing risk and reward; higher than minimum but cautious of limited funds."
+Meta LLaMA 4 Maverick [meta-llama/llama-4-maverick] bets $5
+  Reasoning: "I'm starting with the minimum bet to conserve my balance and assess the table dynamics, as I'm the player with the lowest balance and Amazon Nova Premier has already placed a bet."
+Dealer shows: 9♠ ??
+Amazon Nova Premier: 2♥ 5♠ (7)
+Meta LLaMA 4 Maverick: 4♦ A♠ (15 soft)
+Amazon Nova Premier [amazon/nova-premier-v1]: Hit
+  Reasoning: "With a low hand value of 7, hitting is optimal to improve the hand against dealer's 9."
+  Drew 4♥ -> 2♥ 5♠ 4♥ (11)
+Amazon Nova Premier [amazon/nova-premier-v1]: Hit
+  Reasoning: "With 11 against dealer's 9, doubling down maximizes potential winnings and is statistically advantageous."
+  Drew 6♥ -> 2♥ 5♠ 4♥ 6♥ (17)
+Amazon Nova Premier [amazon/nova-premier-v1]: Stand
+  Reasoning: "With 17 against dealer's 9, standing is optimal as it's a strong hand likely to beat the dealer's potential outcomes."
+  Stands with 2♥ 5♠ 4♥ 6♥ (17)
+Meta LLaMA 4 Maverick [meta-llama/llama-4-maverick]: Hit
+  Reasoning: "With a soft 15 and the dealer's up card being a 9, I need to improve my hand to avoid a potential loss, and hitting gives me the flexibility to adjust my strategy based on the next card."
+  Drew Q♥ -> 4♦ A♠ Q♥ (15)
+Meta LLaMA 4 Maverick [meta-llama/llama-4-maverick]: Hit
+  Reasoning: "With a hand value of 15 and the dealer's up card being a 9, I need to improve my hand to avoid a potential loss, and hitting gives me another chance to get closer to 21 or at least beat the dealer's likely hand."
+  Drew 8♠ -> 4♦ A♠ Q♥ 8♠ (BUST 23)
+  Meta LLaMA 4 Maverick BUSTS!
+
+Dealer reveals: 9♠ 9♣ (18)
+Dealer stands with 9♠ 9♣ (18)
+
+=== Results ===
+Amazon Nova Premier: LOSE (New balance: $60)
+Meta LLaMA 4 Maverick: LOSE (New balance: $7)
+
+=== New Round #39 ===
+Amazon Nova Premier [amazon/nova-premier-v1] bets $10
+  Reasoning: "Meta LLaMA 4 Maverick might not play. Moderate risk to maximize winnings without jeopardizing balance."
+Meta LLaMA 4 Maverick [meta-llama/llama-4-maverick] bets $5
+  Reasoning: "I'm Meta LLaMA 4 Maverick and I need to bet the minimum $5 due to my limited balance of $7, and betting more would risk significant loss. I'm also cautious as I'm not the first to act, so I'll observe Amazon Nova Premier's outcome first."
+Dealer shows: A♣ ??
+Amazon Nova Premier: 10♦ 8♥ (18)
+Meta LLaMA 4 Maverick: K♦ 2♣ (12)
+Amazon Nova Premier [amazon/nova-premier-v1]: Stand
+  Reasoning: "With 18, standing is optimal against a dealer Ace since hitting risks busting."
+  Stands with 10♦ 8♥ (18)
+Meta LLaMA 4 Maverick [meta-llama/llama-4-maverick]: Hit
+  Reasoning: "With a hand value of 12 and the dealer's up card being an Ace, there's a high risk of the dealer having a strong hand, so I need to improve my hand to be more competitive; hitting gives me a chance to get closer to 21 or at least improve my chances."
+  Drew 2♥ -> K♦ 2♣ 2♥ (14)
+Meta LLaMA 4 Maverick [meta-llama/llama-4-maverick]: Hit
+  Reasoning: "With a hand value of 14 and the dealer's up card being an Ace, there's still a risk of the dealer having a stronger hand, and hitting gives me a chance to improve; Amazon Nova Premier has a strong hand but I need to try to get closer to 21 or at least be competitive."
+  Drew 6♠ -> K♦ 2♣ 2♥ 6♠ (20)
+Meta LLaMA 4 Maverick [meta-llama/llama-4-maverick]: Stand
+  Reasoning: "With a hand value of 20, I have a strong hand and the risk of busting is high if I hit; standing gives me a good chance of winning since my hand is already competitive with the dealer's potential hand and Amazon Nova Premier's hand."
+  Stands with K♦ 2♣ 2♥ 6♠ (20)
+
+Dealer reveals: A♣ 6♣ (17 soft)
+Dealer draws 4♥ -> A♣ 6♣ 4♥ (21 soft)
+Dealer stands with A♣ 6♣ 4♥ (21 soft)
+
+=== Results ===
+Amazon Nova Premier: LOSE (New balance: $50)
+Meta LLaMA 4 Maverick: LOSE (New balance: $2)
+Meta LLaMA 4 Maverick is eliminated (Balance: $2).
+Winner: Amazon Nova Premier (Balance: $50)
+
+Token usage by model:
+amazon/nova-premier-v1: input=24381, output=3310, total=27691
+meta-llama/llama-4-maverick: input=20378, output=4978, total=25356
+microsoft/phi-4: input=10780, output=2585, total=13365
+mistralai/ministral-14b-2512: input=1970, output=623, total=2593
+Game duration: 00:08:07

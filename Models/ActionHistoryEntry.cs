@@ -1,0 +1,1 @@
+public record ActionHistoryEntry(string HandDescription, int HandValue, PlayerAction ActionTaken, Card? CardReceived, string Reasoning);
